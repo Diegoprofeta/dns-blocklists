@@ -85,7 +85,42 @@
       }
     },
     {
+      "PK": "adx-op-fr.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adx-op-in.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adx-op-ru.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "adx-op-sg.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adxu-bigo-sg.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adx-u-sg.heytapmobile.com",
       "action": {
         "do": 0,
         "status": 1

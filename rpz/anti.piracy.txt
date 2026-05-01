@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777627440 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777654560 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 May 2026 09:24 UTC
-; Version: 2026.0501.0924.02
+; Last modified: 01 May 2026 16:56 UTC
+; Version: 2026.0501.1656.27
 ; Syntax: RPZ
-; Number of entries: 24850
+; Number of entries: 24848
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -10390,8 +10390,6 @@ streamingcommunityz.fund CNAME .
 *.streamingcommunityz.fund CNAME .
 hdmovie2.futbol CNAME .
 *.hdmovie2.futbol CNAME .
-1filmyfly.fyi CNAME .
-*.1filmyfly.fyi CNAME .
 egydead.fyi CNAME .
 *.egydead.fyi CNAME .
 filmoflix.fyi CNAME .
@@ -10766,6 +10764,8 @@ hdmovie2.horse CNAME .
 *.hdmovie2.horse CNAME .
 streamingcommunityz.horse CNAME .
 *.streamingcommunityz.horse CNAME .
+altadefinizionegratis.host CNAME .
+*.altadefinizionegratis.host CNAME .
 dood.host CNAME .
 *.dood.host CNAME .
 fzmovies.host CNAME .
@@ -12194,8 +12194,6 @@ slider.kz CNAME .
 *.slider.kz CNAME .
 123movies.la CNAME .
 *.123movies.la CNAME .
-123stream.la CNAME .
-*.123stream.la CNAME .
 animeflv.la CNAME .
 *.animeflv.la CNAME .
 anti.c.la CNAME .
@@ -12774,8 +12772,6 @@ tantifilm.locker CNAME .
 *.tantifilm.locker CNAME .
 vegamovies.locker CNAME .
 *.vegamovies.locker CNAME .
-10hitmovies.lol CNAME .
-*.10hitmovies.lol CNAME .
 andydayz.lol CNAME .
 *.andydayz.lol CNAME .
 bestwish.lol CNAME .
@@ -15904,8 +15900,6 @@ wawacity.ninja CNAME .
 *.wawacity.ninja CNAME .
 1movies.nl CNAME .
 *.1movies.nl CNAME .
-1shows.nl CNAME .
-*.1shows.nl CNAME .
 tracker.altrosky.nl CNAME .
 *.tracker.altrosky.nl CNAME .
 argontv.nl CNAME .
@@ -21092,6 +21086,8 @@ vegamovies.studio CNAME .
 *.9kmovies.study CNAME .
 filmapik.study CNAME .
 *.filmapik.study CNAME .
+streaming-community.study CNAME .
+*.streaming-community.study CNAME .
 filmoflix.style CNAME .
 *.filmoflix.style CNAME .
 kinox.style CNAME .
@@ -21168,6 +21164,8 @@ vegamovies.support CNAME .
 *.vegamovies.support CNAME .
 9kmovies.surf CNAME .
 *.9kmovies.surf CNAME .
+altadefinizionegratis.surf CNAME .
+*.altadefinizionegratis.surf CNAME .
 flemmix.surf CNAME .
 *.flemmix.surf CNAME .
 hdmovie2.surf CNAME .

@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 May 2026 07:47 UTC
-# Version: 2026.0501.0747.22
+# Last modified: 01 May 2026 16:55 UTC
+# Version: 2026.0501.1655.53
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 9983
+# Number of entries: 9981
 #
 *.0.gp
 *.00m.in
@@ -81,7 +81,6 @@
 *.1cl.be
 *.1cl.me
 *.1clix.in
-*.1da.ir
 *.1dietplans.com
 *.1do.me
 *.1drv.ms
@@ -132,7 +131,6 @@
 *.1url.my
 *.1url.re
 *.1url.vn
-*.1vk.net
 *.1west.io
 *.1wn.bz
 *.1xfn.tech

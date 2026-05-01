@@ -6,8 +6,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 May 2026 09:31 UTC
-# Version: 2026.0501.0931.12
+# Last modified: 01 May 2026 16:55 UTC
+# Version: 2026.0501.1655.06
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 19095
 #
@@ -100,7 +100,6 @@ local=/hkali.13142233.xyz/
 local=/usxui.13142233.xyz/
 local=/zhk.13142233.xyz/
 local=/1323.world/
-local=/bubyrajkepepslap.1337.cx/
 local=/goal.music.1337.cx/
 local=/134744072.work/
 local=/dns.13evl.com/
@@ -136,7 +135,6 @@ local=/1clickvpn.com/
 local=/1clickvpn.help/
 local=/1clickvpn.net/
 local=/donutdevcodingeducation.1copa.com/
-local=/education.1copa.com/
 local=/county.news.1copa.com/
 local=/1ee.top/
 local=/1f47epzt.online/
@@ -167,7 +165,6 @@ local=/2024y.club/
 local=/2024y.homes/
 local=/2025appdown.com/
 local=/canvas.2028.cl/
-local=/204806.xyz/
 local=/22044.vip/
 local=/22044.xyz/
 local=/220913.xyz/
@@ -4776,6 +4773,7 @@ local=/dantayunclash.com/
 local=/dantayunjc.com/
 local=/adguard.dantynes.cyou/
 local=/darikon.my/
+local=/www-proxy.dariomingio.it/
 local=/dark-proxy.ru/
 local=/darkfat.com/
 local=/darknet.to/
@@ -11211,6 +11209,7 @@ local=/dns.mnet-online.de/
 local=/dns.mni.li/
 local=/mnqwscym.com/
 local=/moacity.com/
+local=/moamao.shop/
 local=/dnstls.mobik.com/
 local=/mobilejump.mobi/
 local=/mobilevpn.net/
@@ -13168,6 +13167,7 @@ local=/porkssr.com/
 local=/endis.port0.org/
 local=/topic.terms.port0.org/
 local=/portbj.xyz/
+local=/portbuddy.dev/
 local=/dns.porteii.com/
 local=/dns2.porteii.com/
 local=/portionsigh.com/

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777537560 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777658640 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 30 Apr 2026 08:26 UTC
-; Version: 2026.0430.0826.54
+; Last modified: 01 May 2026 18:04 UTC
+; Version: 2026.0501.1804.36
 ; Syntax: RPZ
-; Number of entries: 2392
+; Number of entries: 2396
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -330,6 +330,8 @@ blogginger.com CNAME .
 *.blogginger.com CNAME .
 blogia.com CNAME .
 *.blogia.com CNAME .
+blogpostie.com CNAME .
+*.blogpostie.com CNAME .
 blogrip.com CNAME .
 *.blogrip.com CNAME .
 blogsky.com CNAME .
@@ -440,6 +442,8 @@ dimsolo.com CNAME .
 *.dimsolo.com CNAME .
 dinamikajambi.com CNAME .
 *.dinamikajambi.com CNAME .
+diowebhost.com CNAME .
+*.diowebhost.com CNAME .
 members.domaindlx.com CNAME .
 *.members.domaindlx.com CNAME .
 doodlekit.com CNAME .

@@ -57,7 +57,6 @@ https://hole.cert.pl/domains/v2/domains.txt
 https://hosts.tweedge.net/malicious.txt
 https://lists.cyberhost.uk/malware.txt
 https://mf.gov.cz/assets/attachments/Zverejnovane-udaje-ze-Seznamu-nepovolenych-internetovych-her_vNNN.csv
-https://opendata.sukl.cz/soubory/NELEGALNI_STRANKY/Nelegalni_stranky_LP.csv
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 https://phish.co.za/latest/phishing-domains-ACTIVE.txt
 https://phishing.army/download/phishing_army_blocklist_extended.txt
@@ -175,7 +174,6 @@ https://raw.githubusercontent.com/iam-py-test/my_filters_001/refs/heads/main/Alt
 https://raw.githubusercontent.com/Infinitum-IT/IOAs/master/domains.txt
 https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 https://raw.githubusercontent.com/jpgpi250/piholemanual/refs/heads/master/DOH/DOHadb.txt
-https://raw.githubusercontent.com/kdkiss/online-sicher-blocklist/main/domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/admaven-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/admeasures-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/bt-contentza-domains.txt
@@ -291,7 +289,6 @@ https://www.globalantiscam.org/scam-websites
 https://www.kushari.org/downloads/mal.txt
 https://www.spamhaus.org/reputation-statistics/gtlds/domains/
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
-https://www.szpi.gov.cz/ViewFile.aspx?docid=3000211
 https://www.trustedshops.de/fake-shops/
 https://www.usom.gov.tr/url-list.txt
 https://www.verbraucherzentrale-niedersachsen.de/vorsicht-falle

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777627860 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777654500 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,8 +10,8 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 May 2026 09:31 UTC
-; Version: 2026.0501.0931.12
+; Last modified: 01 May 2026 16:55 UTC
+; Version: 2026.0501.1655.06
 ; Syntax: RPZ
 ; Number of entries: 38190
 ;
@@ -3865,8 +3865,6 @@ httpdns.music.163.com CNAME .
 *.1clickvpn.com CNAME .
 donutdevcodingeducation.1copa.com CNAME .
 *.donutdevcodingeducation.1copa.com CNAME .
-education.1copa.com CNAME .
-*.education.1copa.com CNAME .
 county.news.1copa.com CNAME .
 *.county.news.1copa.com CNAME .
 1svpn.com CNAME .
@@ -19011,8 +19009,6 @@ blancvpn.cv CNAME .
 *.blancvpn.cv CNAME .
 satnet.cv CNAME .
 *.satnet.cv CNAME .
-bubyrajkepepslap.1337.cx CNAME .
-*.bubyrajkepepslap.1337.cx CNAME .
 goal.music.1337.cx CNAME .
 *.goal.music.1337.cx CNAME .
 vps.avc.cx CNAME .
@@ -19853,6 +19849,8 @@ wowinterstellar.pages.dev CNAME .
 *.wowinterstellar.pages.dev CNAME .
 zatoga.pages.dev CNAME .
 *.zatoga.pages.dev CNAME .
+portbuddy.dev CNAME .
+*.portbuddy.dev CNAME .
 ab.pot8o.dev CNAME .
 *.ab.pot8o.dev CNAME .
 inter.pot8o.dev CNAME .
@@ -23089,6 +23087,8 @@ drive.google.com.csdue.it CNAME .
 *.drive.google.com.csdue.it CNAME .
 dns.home.daniil.it CNAME .
 *.dns.home.daniil.it CNAME .
+www-proxy.dariomingio.it CNAME .
+*.www-proxy.dariomingio.it CNAME .
 dns2.guidocioni.it CNAME .
 *.dns2.guidocioni.it CNAME .
 adguard.kiboko.it CNAME .
@@ -34339,6 +34339,8 @@ luminalos.shop CNAME .
 *.luminalos.shop CNAME .
 miscrosoft.shop CNAME .
 *.miscrosoft.shop CNAME .
+moamao.shop CNAME .
+*.moamao.shop CNAME .
 nextlink.shop CNAME .
 *.nextlink.shop CNAME .
 obscurenamelab.shop CNAME .
@@ -36989,8 +36991,6 @@ adhome.2011101.xyz CNAME .
 *.20212345.xyz CNAME .
 vps.202316.xyz CNAME .
 *.vps.202316.xyz CNAME .
-204806.xyz CNAME .
-*.204806.xyz CNAME .
 22044.xyz CNAME .
 *.22044.xyz CNAME .
 220913.xyz CNAME .

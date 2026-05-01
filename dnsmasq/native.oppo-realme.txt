@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Apr 2026 17:06 UTC
-# Version: 2026.0415.1706.55
+# Last modified: 01 May 2026 17:12 UTC
+# Version: 2026.0501.1712.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 460
+# Number of entries: 465
 #
 local=/calculator-api-fr.allawnos.com/
 local=/calculator-api-in.allawnos.com/
@@ -287,7 +287,12 @@ local=/ads-bdapi-th.heytapmobile.com/
 local=/ads-bdapi-vn.heytapmobile.com/
 local=/adx-ads-fr.heytapmobile.com/
 local=/adx-ads-ru.heytapmobile.com/
+local=/adx-op-fr.heytapmobile.com/
+local=/adx-op-in.heytapmobile.com/
+local=/adx-op-ru.heytapmobile.com/
 local=/adx-op-sg.heytapmobile.com/
+local=/adx-u-sg.heytapmobile.com/
+local=/adxu-bigo-sg.heytapmobile.com/
 local=/bdapi-ads-sg.heytapmobile.com/
 local=/cloudi-in.browser.heytapmobile.com/
 local=/cloudi-sg.browser.heytapmobile.com/

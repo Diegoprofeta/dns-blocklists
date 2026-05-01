@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776272760 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777655520 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's OPPO & Realme Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Apr 2026 17:06 UTC
-; Version: 2026.0415.1706.55
+; Last modified: 01 May 2026 17:12 UTC
+; Version: 2026.0501.1712.12
 ; Syntax: RPZ
-; Number of entries: 920
+; Number of entries: 930
 ;
 h4g3z1-native.oppo-realme.web.app CNAME .
 *.h4g3z1-native.oppo-realme.web.app CNAME .
@@ -570,8 +570,18 @@ adx-ads-fr.heytapmobile.com CNAME .
 *.adx-ads-fr.heytapmobile.com CNAME .
 adx-ads-ru.heytapmobile.com CNAME .
 *.adx-ads-ru.heytapmobile.com CNAME .
+adx-op-fr.heytapmobile.com CNAME .
+*.adx-op-fr.heytapmobile.com CNAME .
+adx-op-in.heytapmobile.com CNAME .
+*.adx-op-in.heytapmobile.com CNAME .
+adx-op-ru.heytapmobile.com CNAME .
+*.adx-op-ru.heytapmobile.com CNAME .
 adx-op-sg.heytapmobile.com CNAME .
 *.adx-op-sg.heytapmobile.com CNAME .
+adx-u-sg.heytapmobile.com CNAME .
+*.adx-u-sg.heytapmobile.com CNAME .
+adxu-bigo-sg.heytapmobile.com CNAME .
+*.adxu-bigo-sg.heytapmobile.com CNAME .
 bdapi-ads-sg.heytapmobile.com CNAME .
 *.bdapi-ads-sg.heytapmobile.com CNAME .
 cloudi-in.browser.heytapmobile.com CNAME .

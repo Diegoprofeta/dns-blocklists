@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 May 2026 09:23 UTC
-! Version: 2026.0501.0923.26
+! Last modified: 01 May 2026 17:02 UTC
+! Version: 2026.0501.1702.47
 ! Syntax: AdBlock
-! Number of entries: 57175
+! Number of entries: 57140
 !
 ||0-bdmbet.com^
 ||00.game^
@@ -104,11 +104,9 @@
 ||019p6.com^
 ||01bets.top^
 ||01q.casino^
-||01u.casino^
 ||020p6.com^
 ||0211s.com^
 ||0221s.com^
-||0222.casino^
 ||0223s.com^
 ||0227s.com^
 ||0233.casino^
@@ -172,7 +170,6 @@
 ||0489.casino^
 ||0497.casino^
 ||04a.casino^
-||04m.casino^
 ||04uu88.com^
 ||0500.casino^
 ||0504w.casino^
@@ -216,7 +213,6 @@
 ||0655s.com^
 ||0657d.com^
 ||0660s.com^
-||0665.casino^
 ||0665s.com^
 ||0666s.com^
 ||0667s.com^
@@ -260,10 +256,8 @@
 ||0873.casino^
 ||0877bet.vip^
 ||088.casino^
-||088w.casino^
 ||08xin.com^
 ||0911s.com^
-||091a.casino^
 ||0932.casino^
 ||0933.casino^
 ||0934.casino^
@@ -285,7 +279,6 @@
 ||099bet.com^
 ||09betsaat.com^
 ||09q.casino^
-||0aayyy.com^
 ||0ak.casino^
 ||0betweb.com^
 ||0bx.casino^
@@ -356,7 +349,6 @@
 ||10088.casino^
 ||100bestcasinosites.com^
 ||100jili.ph^
-||100k.casino^
 ||100kmautour.com^
 ||100shorething.com^
 ||100situspoker.com^
@@ -438,9 +430,7 @@
 ||111x.casino^
 ||1122.casino^
 ||1122w.casino^
-||11239bets10.com^
 ||1123bets.live^
-||112x.casino^
 ||1130.casino^
 ||1133win.com^
 ||1134.casino^
@@ -501,7 +491,6 @@
 ||121tsars.com^
 ||122betseed.com^
 ||122betsimple.com^
-||122k.casino^
 ||122x.casino^
 ||1237bet.com^
 ||123b.surf^
@@ -604,7 +593,6 @@
 ||13ko3.casino^
 ||13ko4.casino^
 ||13nv408.casino^
-||13q.casino^
 ||13spinmama76.com^
 ||13z3.casino^
 ||1404bets10-giris.com^
@@ -617,7 +605,6 @@
 ||1443.casino^
 ||1445.casino^
 ||1445bets10girisi.com^
-||1445betsl0.com^
 ||1446bets10casino.com^
 ||144bet.com^
 ||144bet1.com^
@@ -649,7 +636,6 @@
 ||1498bets10tr.com^
 ||1499.casino^
 ||14corp.com^
-||14e.casino^
 ||14gmslots72.com^
 ||14iu.casino^
 ||14maxslots53.com^
@@ -670,7 +656,6 @@
 ||150icecasino72.com^
 ||150p.casino^
 ||150slottica.com^
-||151067.com^
 ||1511.casino^
 ||1513607.com^
 ||1516betslot.com^
@@ -689,7 +674,6 @@
 ||155betse.com^
 ||155db.casino^
 ||155f.casino^
-||155x.casino^
 ||1563betsat.com^
 ||156bets1.com^
 ||156k.casino^
@@ -714,8 +698,6 @@
 ||15win40.com^
 ||15win41.com^
 ||15winpkr.com^
-||1600betebets.vip^
-||1603betebets.com^
 ||160a.casino^
 ||160betsc.com^
 ||161bet.me^
@@ -725,7 +707,6 @@
 ||1625bets.com^
 ||1650.casino^
 ||1653.casino^
-||1655.casino^
 ||166bet.com^
 ||166bet.net^
 ||166bet-casino.com^
@@ -962,7 +943,6 @@
 ||1betsapp.com^
 ||1betsapp.online^
 ||1bettor.com^
-||1bn.casino^
 ||1brlbets.com^
 ||1brunocasino.nl^
 ||1bt.casino^
@@ -992,7 +972,6 @@
 ||1go.casino^
 ||1go.plus^
 ||1go-casino-india.com^
-||1go-casino-vaffelspb1.ru^
 ||1go10.casino^
 ||1gocasino.games^
 ||1gocasino.nl^
@@ -1039,7 +1018,6 @@
 ||1kawi777.com^
 ||1kf.casino^
 ||1king-bet.casino^
-||1king-casino.site^
 ||1king88.bet^
 ||1lecasino.bet^
 ||1lecasino.com^
@@ -1221,7 +1199,6 @@
 ||1ws.casino^
 ||1wshgd.life^
 ||1wspqi.life^
-||1wstdc.com^
 ||1wsxxy.life^
 ||1wtphh.life^
 ||1wtscz.life^
@@ -1857,8 +1834,6 @@
 ||1xslotswinar.com^
 ||1xsports.com^
 ||1xstavka.ru^
-||1yb.casino^
-||1yx.casino^
 ||1z3.casino^
 ||2-euro-deposit-casino.nl^
 ||20-04.casino^
@@ -2013,9 +1988,6 @@
 ||2288betsummit.com^
 ||2288fun.com^
 ||228aceph.cc^
-||228n.casino^
-||228q.casino^
-||228x.casino^
 ||22audcasino.com^
 ||22bet.best^
 ||22bet.com^
@@ -2171,7 +2143,6 @@
 ||24vipcasino.com^
 ||24vipcasino.org^
 ||24vivo.com^
-||24w.casino^
 ||24wulcan-casino.com^
 ||2503a.casino^
 ||250bets10.com^
@@ -8728,7 +8699,6 @@
 ||ayg.casino^
 ||ayh.casino^
 ||aymaide.shop^
-||ayogas.site^
 ||ayogaspol.com^
 ||ayomain222.com^
 ||ayto-torrijos.com^
@@ -13752,7 +13722,6 @@
 ||careerstable.com^
 ||cargoentrytimeslots.com^
 ||carimodal4d.com^
-||caringwellnesspharmacy.com^
 ||carlosandtrish.com^
 ||carlospincasino.live^
 ||carlospincasino-nl.nl^
@@ -22075,7 +22044,6 @@
 ||cuanplay88.com^
 ||cuantoacuanto.com^
 ||cuanwin.org^
-||cuanyuk.site^
 ||cubacineonline.com^
 ||cubetech.store^
 ||cubscast.com^
@@ -27106,7 +27074,6 @@
 ||gashinzo.com^
 ||gasing77.com^
 ||gasing777b.com^
-||gaskan.online^
 ||gaskenslot.art^
 ||gasmahjong1.com^
 ||gasmaxwin88.com^
@@ -30161,7 +30128,6 @@
 ||imoney.casino^
 ||imoneyslots.com^
 ||impactsofgambling.com^
-||imperatore-online.com^
 ||imperial-diamond-casino-hotel.com^
 ||imperial-wins-casino-new-zealand.com^
 ||imperialslots.life^
@@ -51403,7 +51369,6 @@
 ||tortugacasinofr.shop^
 ||tortugacasinofrance.org^
 ||toryburchoutletonline.us^
-||toscafino.com^
 ||toshi.bet^
 ||toshi.casino^
 ||tosi-casino-italia.com^

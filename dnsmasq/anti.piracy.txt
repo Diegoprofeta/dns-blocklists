@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 May 2026 09:24 UTC
-# Version: 2026.0501.0924.02
+# Last modified: 01 May 2026 16:56 UTC
+# Version: 2026.0501.1656.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12425
+# Number of entries: 12424
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -84,7 +84,6 @@ local=/10hitmovies.click/
 local=/10hitmovies.com/
 local=/10hitmovies.help/
 local=/10hitmovies.lat/
-local=/10hitmovies.lol/
 local=/10hitmovies.one/
 local=/10kol.tv/
 local=/10mbit.com/
@@ -169,7 +168,6 @@ local=/123moviestv.me/
 local=/123moviestv.net/
 local=/123movieswww.com/
 local=/123putlocker.io/
-local=/123stream.la/
 local=/123streams.org/
 local=/123tvnow.com/
 local=/123unblock.art/
@@ -204,7 +202,6 @@ local=/1clickdown.com/
 local=/1ddl.org/
 local=/1desiremovies.foo/
 local=/1fichier.com/
-local=/1filmyfly.fyi/
 local=/1filmyfly.mov/
 local=/1filmyfly.top/
 local=/1flix.to/
@@ -228,7 +225,6 @@ local=/1moviesz.to/
 local=/1movietv.com/
 local=/1nd.hu/
 local=/1progs.ru/
-local=/1shows.nl/
 local=/1soft.space/
 local=/1stream.top/
 local=/1street.ru/
@@ -750,6 +746,7 @@ local=/altadefinizionegratis.group/
 local=/altadefinizionegratis.hair/
 local=/altadefinizionegratis.help/
 local=/altadefinizionegratis.homes/
+local=/altadefinizionegratis.host/
 local=/altadefinizionegratis.ink/
 local=/altadefinizionegratis.life/
 local=/altadefinizionegratis.monster/
@@ -764,6 +761,7 @@ local=/altadefinizionegratis.shop/
 local=/altadefinizionegratis.skin/
 local=/altadefinizionegratis.space/
 local=/altadefinizionegratis.store/
+local=/altadefinizionegratis.surf/
 local=/altadefinizionegratis.top/
 local=/altadefinizionegratis.vip/
 local=/altadefinizionegratis.watch/
@@ -9599,6 +9597,7 @@ local=/streaming-community.courses/
 local=/streaming-community.fit/
 local=/streaming-community.kaufen/
 local=/streaming-community.sarl/
+local=/streaming-community.study/
 local=/streaming-community.surf/
 local=/streaming-community.team/
 local=/streaming-community.trade/

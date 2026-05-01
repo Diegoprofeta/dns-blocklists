@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 May 2026 07:47 UTC
-# Version: 2026.0501.0747.22
+# Last modified: 01 May 2026 16:55 UTC
+# Version: 2026.0501.1655.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9983
+# Number of entries: 9981
 #
 local=/0.gp/
 local=/00m.in/
@@ -81,7 +81,6 @@ local=/1bob.de/
 local=/1cl.be/
 local=/1cl.me/
 local=/1clix.in/
-local=/1da.ir/
 local=/1dietplans.com/
 local=/1do.me/
 local=/1drv.ms/
@@ -132,7 +131,6 @@ local=/1url.it/
 local=/1url.my/
 local=/1url.re/
 local=/1url.vn/
-local=/1vk.net/
 local=/1west.io/
 local=/1wn.bz/
 local=/1xfn.tech/
