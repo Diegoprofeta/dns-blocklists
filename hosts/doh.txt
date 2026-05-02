@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 May 2026 09:42 UTC
-# Version: 2026.0502.0942.17
+# Last modified: 02 May 2026 16:56 UTC
+# Version: 2026.0502.1656.00
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3929
+# Number of entries: 3928
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -534,7 +534,6 @@
 0.0.0.0 dns4.bortus.io
 0.0.0.0 doh.bortzmeyer.fr
 0.0.0.0 cloudns.bosco.ovh
-0.0.0.0 botclassic.com
 0.0.0.0 dns.bovat.net
 0.0.0.0 adguard.boykevanvugt.nl
 0.0.0.0 adguard2.boykevanvugt.nl

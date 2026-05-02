@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777714980 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777740960 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 May 2026 09:43 UTC
-; Version: 2026.0502.0943.07
+; Last modified: 02 May 2026 16:56 UTC
+; Version: 2026.0502.1656.49
 ; Syntax: RPZ
-; Number of entries: 38166
+; Number of entries: 38150
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -981,6 +981,8 @@ dns.schlagheck.berlin CNAME .
 *.dns.schlagheck.berlin CNAME .
 666.020202.best CNAME .
 *.666.020202.best CNAME .
+www-666.020202.best CNAME .
+*.www-666.020202.best CNAME .
 doh.361.best CNAME .
 *.doh.361.best CNAME .
 browsec.best CNAME .
@@ -5121,8 +5123,6 @@ education.balalaikamail.com CNAME .
 *.education.balalaikamail.com CNAME .
 ballbang.com CNAME .
 *.ballbang.com CNAME .
-bordom.bamapos.com CNAME .
-*.bordom.bamapos.com CNAME .
 hint.bamastuff.com CNAME .
 *.hint.bamastuff.com CNAME .
 trig.bamastuff.com CNAME .
@@ -5513,8 +5513,6 @@ bestuplay.com CNAME .
 *.bestuplay.com CNAME .
 bestveee.com CNAME .
 *.bestveee.com CNAME .
-bestvideoproxy.com CNAME .
-*.bestvideoproxy.com CNAME .
 bestvpnrating.com CNAME .
 *.bestvpnrating.com CNAME .
 bestvpnserver.com CNAME .
@@ -5915,8 +5913,6 @@ vcsaxinter.bostoncareercounselor.com CNAME .
 *.vcsaxinter.bostoncareercounselor.com CNAME .
 yousifcantleakthis.bostoncareercounselor.com CNAME .
 *.yousifcantleakthis.bostoncareercounselor.com CNAME .
-botclassic.com CNAME .
-*.botclassic.com CNAME .
 botvpntype.com CNAME .
 *.botvpntype.com CNAME .
 lenz.bouncers4rent.com CNAME .
@@ -21405,6 +21401,8 @@ be2aja.my.id CNAME .
 *.be2aja.my.id CNAME .
 vpnto.bhadrikais.my.id CNAME .
 *.vpnto.bhadrikais.my.id CNAME .
+croxyproxy.my.id CNAME .
+*.croxyproxy.my.id CNAME .
 dns.fadhilyori.my.id CNAME .
 *.dns.fadhilyori.my.id CNAME .
 dns.freddys.my.id CNAME .
@@ -25175,18 +25173,10 @@ education.com.boxathome.net CNAME .
 *.education.com.boxathome.net CNAME .
 doyouknowthemuffinman.boxathome.net CNAME .
 *.doyouknowthemuffinman.boxathome.net CNAME .
-fridaynightfunkinisthebest.boxathome.net CNAME .
-*.fridaynightfunkinisthebest.boxathome.net CNAME .
 full.boxathome.net CNAME .
 *.full.boxathome.net CNAME .
 brother.let.boxathome.net CNAME .
 *.brother.let.boxathome.net CNAME .
-nobodycaresaboutmetheycareaboutthewebsite.boxathome.net CNAME .
-*.nobodycaresaboutmetheycareaboutthewebsite.boxathome.net CNAME .
-overcloaked.boxathome.net CNAME .
-*.overcloaked.boxathome.net CNAME .
-quasar.boxathome.net CNAME .
-*.quasar.boxathome.net CNAME .
 y9iiz61k4yu67jfgcx.boxathome.net CNAME .
 *.y9iiz61k4yu67jfgcx.boxathome.net CNAME .
 breakwall.net CNAME .
@@ -28421,6 +28411,8 @@ sunvpn.net CNAME .
 *.sunvpn.net CNAME .
 supervpn.net CNAME .
 *.supervpn.net CNAME .
+supremebarbershopclarendon.net CNAME .
+*.supremebarbershopclarendon.net CNAME .
 myapps.classlink.suredoc.net CNAME .
 *.myapps.classlink.suredoc.net CNAME .
 surfall.net CNAME .
@@ -29377,8 +29369,6 @@ alleesph.online CNAME .
 *.alleesph.online CNAME .
 anvfamo4.online CNAME .
 *.anvfamo4.online CNAME .
-anzcjujms4ufj.online CNAME .
-*.anzcjujms4ufj.online CNAME .
 dns.apigw.online CNAME .
 *.dns.apigw.online CNAME .
 dns-sehat.apigw.online CNAME .
@@ -29401,8 +29391,6 @@ baoxue888.online CNAME .
 *.baoxue888.online CNAME .
 bebravpn.online CNAME .
 *.bebravpn.online CNAME .
-bedra.online CNAME .
-*.bedra.online CNAME .
 benaah.online CNAME .
 *.benaah.online CNAME .
 bestvpnonline.online CNAME .
@@ -30105,8 +30093,6 @@ bouquetberlin.org CNAME .
 *.bouquetberlin.org CNAME .
 ram.br3xality.org CNAME .
 *.ram.br3xality.org CNAME .
-culture-de.brasilera.org CNAME .
-*.culture-de.brasilera.org CNAME .
 bridgeschoolboulder.org CNAME .
 *.bridgeschoolboulder.org CNAME .
 brmtr.org CNAME .
@@ -32119,8 +32105,6 @@ surfshark.ph CNAME .
 *.surfshark.ph CNAME .
 xixi.ph CNAME .
 *.xixi.ph CNAME .
-bigbang.pics CNAME .
-*.bigbang.pics CNAME .
 defined.pics CNAME .
 *.defined.pics CNAME .
 endis.furryporn.pics CNAME .

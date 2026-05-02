@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 May 2026 07:45 UTC
-! Version: 2026.0502.0745.41
+! Last modified: 02 May 2026 17:17 UTC
+! Version: 2026.0502.1717.17
 ! Syntax: AdBlock
-! Number of entries: 14474
+! Number of entries: 14431
 !
 ||01broker.com^
 ||01crypto.com^
@@ -574,7 +574,6 @@
 ||annas-beauty.de^
 ||annawelpen.de^
 ||annen.store^
-||annettasiendeeu.shop^
 ||annoboutique.com^
 ||anntaylorfactoryonline.com^
 ||anointedtabernacle.com^
@@ -600,7 +599,6 @@
 ||apeasblto.com^
 ||apelfinancial.com^
 ||apelt-gartenhandel.de^
-||apelt-handel.de^
 ||apelt-shop.de^
 ||apelt-shops.de^
 ||apex.exchange^
@@ -670,10 +668,7 @@
 ||aquarisonlineshop.de^
 ||aquariumopt.com^
 ||aquascapers-galerie.com^
-||aquasportkleidung.com^
 ||aquavibespro.com^
-||aquinoexpress.com^
-||arabankloan.online^
 ||arabues.de^
 ||arbeit-zuhause.com^
 ||arbeitsanzuge24.com^
@@ -682,7 +677,6 @@
 ||arbeitsplatze.co^
 ||arbitics.com^
 ||arbitrage-solar.de^
-||arbon.shop^
 ||arbreth.com^
 ||arcajettrader.com^
 ||arcaktuell.de^
@@ -717,7 +711,6 @@
 ||armodamunchen.de^
 ||arms-mall.com^
 ||armxn.com^
-||arnstadt-baumarkt.shop^
 ||arnstadter-einkauf.de^
 ||aroma-finanz.com^
 ||aroma-tec.com^
@@ -729,7 +722,6 @@
 ||arredamenti-italia.de^
 ||art-impulse.fr^
 ||art-portrait.de^
-||artcollectibles.xyz^
 ||artemondo.eu^
 ||artevive.de^
 ||artidomo.shop^
@@ -751,7 +743,6 @@
 ||ascreationdecor.com^
 ||asd-rechtsanwaelte.de^
 ||asdvance.com^
-||aseauto-rasentraktor.de^
 ||asela-handel.de^
 ||asfig-strasse.com^
 ||asfimarg.com^
@@ -760,7 +751,6 @@
 ||asfinet.info^
 ||asfintarg.com^
 ||asflnaq.me^
-||asfrnagi.beer^
 ||asgeirpetursson.com^
 ||ashatoslombardini.com^
 ||ashbergh.com^
@@ -842,7 +832,6 @@
 ||aupills.net^
 ||aurahous.com^
 ||aurainfusions.com^
-||auraterraplaza.com^
 ||aureamunich.de^
 ||aurelllc.com^
 ||aurenbridge.com^
@@ -877,7 +866,6 @@
 ||autodailyreport.com^
 ||autodisco.de^
 ||autoexpertpartshop.com^
-||autoforum-petersberg.de^
 ||autogearlabflow.com^
 ||autohausberg-gmbh.de^
 ||autohausbismuth.de^
@@ -891,7 +879,6 @@
 ||automotorradkomponente.com^
 ||autopartsbandeira.com^
 ||autopartssave.com^
-||autopecasbeirario.com^
 ||autopecazn.com^
 ||autoradiomitnavigation.de^
 ||autosalon-kl.de^
@@ -954,7 +941,6 @@
 ||axismakup.com^
 ||axl-staking.de^
 ||axmof.de^
-||aybl.at^
 ||ayblsuomi.com^
 ||aydinahbeauty.com^
 ||aylanzo-store.de^
@@ -976,7 +962,6 @@
 ||babyanimal.shop^
 ||babyausstattung-de.com^
 ||babybay-de.com^
-||babyboutiquemunicheu.shop^
 ||babybubblestore.com^
 ||babyglueckshop.com^
 ||babylissde.de^
@@ -997,7 +982,6 @@
 ||backformensale.com^
 ||backontrackus.com^
 ||backpacksschritte.com^
-||badakzenteeu.shop^
 ||badartikelsupply.com^
 ||badduschkopf.com^
 ||badeanzugeneu.com^
@@ -1021,7 +1005,6 @@
 ||bahiwa.com^
 ||bahnemanninvest.net^
 ||bahnhof-apotheke-hersbruck.de^
-||bahr2max-baumarkt.com^
 ||bail-so-gh.shop^
 ||baitcastruten.com^
 ||bake-store.com^
@@ -1039,7 +1022,6 @@
 ||baleurshop.de^
 ||balfourcapitalgroup.com^
 ||balinvest-ch.com^
-||balitaberlin.de^
 ||balloret.com^
 ||ballszone.de^
 ||balony.de^
@@ -1124,7 +1106,6 @@
 ||bauknoten.com^
 ||baukomps.com^
 ||baumantransporte.com^
-||baumarkt-robel.com^
 ||baumarktverkauf.de^
 ||baumeistermodels.com^
 ||baumkau.com^
@@ -1170,7 +1151,6 @@
 ||beautypassword.com^
 ||beautytimeless.com^
 ||bebeautiful.club^
-||becherdiscountdeeu.shop^
 ||bechic.club^
 ||beckenfit.net^
 ||becker-boutique.com^
@@ -1201,7 +1181,6 @@
 ||bekleidungsoutlet.com^
 ||bekos.at^
 ||belbachirconcept.com^
-||belendan.com^
 ||belenkawien.at^
 ||beleuchtungprada.com^
 ||belezapreventiva.com^
@@ -1233,7 +1212,6 @@
 ||0dgwn.bemobtrcks.com^
 ||bemodern.de^
 ||bemygalaxy.com^
-||bender-baumarkt.com^
 ||bendoffice.com^
 ||beneathk.com^
 ||beneficialx.com^
@@ -1320,7 +1298,6 @@
 ||best-shop-it.com^
 ||best-ticket.com^
 ||best-toolsparts.com^
-||best4you.org^
 ||bestandigwert.com^
 ||bestarcheryproshop.com^
 ||bestbikecyclinggear.com^
@@ -1340,7 +1317,6 @@
 ||bestelektronicshop.de^
 ||bestemed.com^
 ||bestemedikamente.com^
-||bestenfahrrad.de^
 ||bestenkaufen.com^
 ||besteonlineapotheke.com^
 ||bestepargne.com^
@@ -1373,7 +1349,6 @@
 ||bestpharm-eu.com^
 ||bestpillpharmacy.com^
 ||bestpillsnetwork.com^
-||bestprintspro.com^
 ||bestprogift.com^
 ||bestrelocate.com^
 ||bestselectionforyou.com^
@@ -1395,7 +1370,6 @@
 ||betrugs-check.de^
 ||betrugsrecht.de^
 ||bettbezugrabatt.com^
-||bettdeckenkissen.com^
 ||bettershifting.com^
 ||betterwishes-shop.com^
 ||betthimmel.de^
@@ -1407,7 +1381,6 @@
 ||bexisassets.com^
 ||bextradefx.online^
 ||beziehungspersoenlichkeit.de^
-||bfarmacia.com^
 ||bfi-finance.com^
 ||bfmmarkets.com^
 ||bfmvip.com^
@@ -1613,9 +1586,7 @@
 ||bloombergnewstoday.com^
 ||bloomplot.com^
 ||bloomszone.com^
-||blsyconcept.com^
 ||bludexe.com^
-||bluebananabrandeu.shop^
 ||bluebellalingerie.com^
 ||blueblom.com^
 ||blueboltchargers.com^
@@ -1659,7 +1630,6 @@
 ||bodygo.com^
 ||boekerrabatt.com^
 ||boerty.com^
-||bofblockchain.com^
 ||bog-apotheke.com^
 ||bohnenfreude.de^
 ||boho-and-chic.de^
@@ -1693,7 +1663,6 @@
 ||boroconcept.com^
 ||borpillshop.com^
 ||borrelioseweb.de^
-||boschk.store^
 ||bosen-outdoor.com^
 ||web.bossaapp.com^
 ||bossoptions.com^
@@ -1739,7 +1708,6 @@
 ||braintester.net^
 ||bralettesstore.com^
 ||brandclothesshop.site^
-||brandenburger-garten.de^
 ||brandschutzfachbuero-engler.de^
 ||brandt-belle.de^
 ||brandup-grade.de^
@@ -1750,7 +1718,6 @@
 ||braviamarket.com^
 ||breadmachineshop.com^
 ||brecit.com^
-||bredermateriaisdeconstrucao.com^
 ||bredyshopper.de^
 ||breezekiss.shop^
 ||breitkamp.com^
@@ -1764,28 +1731,22 @@
 ||brennholz-anhaenger.de^
 ||brennholz-deutsch.com^
 ||brennholz-goignerog.at^
-||brennholz-granulat.com^
 ||brennholz-haus.de^
 ||brennholz-hofmann.de^
 ||brennholz-konig.de^
 ||brennholz-world.at^
 ||brennholz-ws.de^
-||brennholz-zertifikats.de^
 ||brennholz49.de^
 ||brennholzanhanger.de^
 ||brennholzboersch.com^
 ||brennholzdge.com^
 ||brennholzgarten.de^
-||brennholzhalberstad.com^
-||brennholzhandelnhn.com^
 ||brennholzhoffmich.com^
 ||brennholzkamin.de^
-||brennholzmeister.com^
 ||brennholzmeister.de^
 ||brennholzpellets.com^
 ||brennholzrupp.de^
 ||brennholzs.com^
-||brennholzschnell24.de^
 ||brennholzstein.de^
 ||brennholzstore.de^
 ||brennholzweber.de^
@@ -1843,7 +1804,6 @@
 ||brunnerluzern.com^
 ||brunoberg.com^
 ||brushshope.com^
-||brutaka.com^
 ||brysha.store^
 ||bs-gmbh.de^
 ||bs2best.at^
@@ -1863,14 +1823,12 @@
 ||buckbirch.com^
 ||buckleybelts.de^
 ||buckleyswiss.com^
-||budai-tech.de^
 ||buddhapowerstore.com^
 ||budgethardware.net^
 ||budgetmagic.eu^
 ||budowaffen.de^
 ||buenodeutschland.de^
 ||buenoschuhe.de^
-||buerobedarfshop.com^
 ||buerozauber.de^
 ||building-toysshop.com^
 ||buildmaterialstore.com^
@@ -1893,7 +1851,6 @@
 ||butlep.com^
 ||butlersneu.com^
 ||butlersonlineshop.com^
-||butlersrabatt.com^
 ||butlerssalestore.com^
 ||buttons-shop.de^
 ||butyveja.pl^

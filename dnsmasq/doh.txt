@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 May 2026 09:42 UTC
-# Version: 2026.0502.0942.17
+# Last modified: 02 May 2026 16:56 UTC
+# Version: 2026.0502.1656.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3469
+# Number of entries: 3468
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -458,7 +458,6 @@ local=/dns2.bortus.io/
 local=/dns4.bortus.io/
 local=/doh.bortzmeyer.fr/
 local=/cloudns.bosco.ovh/
-local=/botclassic.com/
 local=/dns.bovat.net/
 local=/adguard.boykevanvugt.nl/
 local=/adguard2.boykevanvugt.nl/

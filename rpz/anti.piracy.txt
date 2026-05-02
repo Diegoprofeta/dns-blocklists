@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777714500 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777741080 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 May 2026 09:35 UTC
-; Version: 2026.0502.0935.41
+; Last modified: 02 May 2026 16:58 UTC
+; Version: 2026.0502.1658.06
 ; Syntax: RPZ
-; Number of entries: 24842
+; Number of entries: 24826
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1304,8 +1304,6 @@ torrents.by CNAME .
 *.torrents.by CNAME .
 aiw.bz CNAME .
 *.aiw.bz CNAME .
-beatz.bz CNAME .
-*.beatz.bz CNAME .
 bflix.bz CNAME .
 *.bflix.bz CNAME .
 coflix.bz CNAME .
@@ -1550,8 +1548,6 @@ batmanstream.cc CNAME .
 *.batmanstream.cc CNAME .
 btbbt.cc CNAME .
 *.btbbt.cc CNAME .
-btdoor.cc CNAME .
-*.btdoor.cc CNAME .
 cb01.cc CNAME .
 *.cb01.cc CNAME .
 cda-hd.cc CNAME .
@@ -3238,8 +3234,6 @@ torrents.animes-bg.com CNAME .
 *.torrents.animes-bg.com CNAME .
 animesim.com CNAME .
 *.animesim.com CNAME .
-animesimple.com CNAME .
-*.animesimple.com CNAME .
 animesuki.com CNAME .
 *.animesuki.com CNAME .
 animetempy.com CNAME .
@@ -3552,8 +3546,6 @@ bhlegend.com CNAME .
 *.bhlegend.com CNAME .
 bhpt4vip.com CNAME .
 *.bhpt4vip.com CNAME .
-bhuiyan-online.com CNAME .
-*.bhuiyan-online.com CNAME .
 biberona.com CNAME .
 *.biberona.com CNAME .
 bilibt.com CNAME .
@@ -13070,8 +13062,6 @@ awesome-hd.me CNAME .
 *.awesome-hd.me CNAME .
 axxo.me CNAME .
 *.axxo.me CNAME .
-ayakalounge.me CNAME .
-*.ayakalounge.me CNAME .
 bakabt.me CNAME .
 *.bakabt.me CNAME .
 beetvapp.me CNAME .
@@ -16706,8 +16696,6 @@ btor.org CNAME .
 *.btor.org CNAME .
 btsay.org CNAME .
 *.btsay.org CNAME .
-bttrove.org CNAME .
-*.bttrove.org CNAME .
 btzone.org CNAME .
 *.btzone.org CNAME .
 bulextorrent.org CNAME .
@@ -20114,8 +20102,6 @@ altadefinizionegratis.sbs CNAME .
 *.altadefinizionegratis.sbs CNAME .
 altadefinizionez.sbs CNAME .
 *.altadefinizionez.sbs CNAME .
-bluemediafile.sbs CNAME .
-*.bluemediafile.sbs CNAME .
 buchkammer.sbs CNAME .
 *.buchkammer.sbs CNAME .
 cineblog001.sbs CNAME .
@@ -23548,8 +23534,6 @@ ashdi.vip CNAME .
 *.ashdi.vip CNAME .
 batmanstream.vip CNAME .
 *.batmanstream.vip CNAME .
-bmovies.vip CNAME .
-*.bmovies.vip CNAME .
 cb01.vip CNAME .
 *.cb01.vip CNAME .
 cineblog001.vip CNAME .

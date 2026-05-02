@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777708020 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777741020 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 May 2026 07:47 UTC
-; Version: 2026.0502.0747.42
+; Last modified: 02 May 2026 16:57 UTC
+; Version: 2026.0502.1657.35
 ; Syntax: RPZ
-; Number of entries: 19954
+; Number of entries: 19940
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1025,8 +1025,6 @@ biofy.bio CNAME .
 *.biofy.bio CNAME .
 bitx.bio CNAME .
 *.bitx.bio CNAME .
-breve.bio CNAME .
-*.breve.bio CNAME .
 checkshorturl.bio CNAME .
 *.checkshorturl.bio CNAME .
 cixi.bio CNAME .
@@ -1221,8 +1219,6 @@ eventogo.app.br CNAME .
 *.eventogo.app.br CNAME .
 redirect.app.br CNAME .
 *.redirect.app.br CNAME .
-vstag.app.br CNAME .
-*.vstag.app.br CNAME .
 go.betnacional.bet.br CNAME .
 *.go.betnacional.bet.br CNAME .
 vai.bio.br CNAME .
@@ -3459,16 +3455,12 @@ avjosa.com CNAME .
 *.avjosa.com CNAME .
 awactools.com CNAME .
 *.awactools.com CNAME .
-awenje.com CNAME .
-*.awenje.com CNAME .
 awtgatp.com CNAME .
 *.awtgatp.com CNAME .
 awwurl.com CNAME .
 *.awwurl.com CNAME .
 ayzyu.com CNAME .
 *.ayzyu.com CNAME .
-azhfoom.com CNAME .
-*.azhfoom.com CNAME .
 azipurl.com CNAME .
 *.azipurl.com CNAME .
 azshrtr.com CNAME .
@@ -3535,8 +3527,6 @@ belinksnip.com CNAME .
 *.belinksnip.com CNAME .
 us.bestbrains.com CNAME .
 *.us.bestbrains.com CNAME .
-bestshortlink.com CNAME .
-*.bestshortlink.com CNAME .
 beteshis.com CNAME .
 *.beteshis.com CNAME .
 bettrechies.com CNAME .
@@ -13541,8 +13531,6 @@ bit.ly CNAME .
 *.bit.ly CNAME .
 blizz.ly CNAME .
 *.blizz.ly CNAME .
-bofo.ly CNAME .
-*.bofo.ly CNAME .
 bravo.ly CNAME .
 *.bravo.ly CNAME .
 brevix.ly CNAME .
@@ -15035,8 +15023,6 @@ biolook.net CNAME .
 *.biolook.net CNAME .
 bitly.net CNAME .
 *.bitly.net CNAME .
-bitradex.net CNAME .
-*.bitradex.net CNAME .
 blap.net CNAME .
 *.blap.net CNAME .
 s.block183.net CNAME .

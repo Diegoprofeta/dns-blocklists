@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 May 2026 09:35 UTC
-# Version: 2026.0502.0935.41
+# Last modified: 02 May 2026 16:58 UTC
+# Version: 2026.0502.1658.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12421
+# Number of entries: 12413
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -904,7 +904,6 @@ local=/animesalt.ac/
 local=/animesama.fan/
 local=/animeshow.tv/
 local=/animesim.com/
-local=/animesimple.com/
 local=/animesonline.biz/
 local=/animesonline.cc/
 local=/animestars.org/
@@ -1211,7 +1210,6 @@ local=/awtdg.site/
 local=/awtsport.com/
 local=/axxo.me/
 local=/axxomovies.org/
-local=/ayakalounge.me/
 local=/azm.to/
 local=/azmovies.ag/
 local=/azmovies.xyz/
@@ -1292,7 +1290,6 @@ local=/bdvid.com/
 local=/beaconlink.net/
 local=/beatbump.io/
 local=/beatrice-raws.org/
-local=/beatz.bz/
 local=/beatz.us/
 local=/because.moe/
 local=/bedro.cloud/
@@ -1343,7 +1340,6 @@ local=/bgtop.net/
 local=/bhalukabroadband.com/
 local=/bhlegend.com/
 local=/bhpt4vip.com/
-local=/bhuiyan-online.com/
 local=/biberona.com/
 local=/bibliotik.me/
 local=/bigbbs.eu/
@@ -1545,7 +1541,6 @@ local=/blue-whitegt.com/
 local=/bluebird-hd.org/
 local=/tracker.bluefrog.pw/
 local=/bluehorizon4.site/
-local=/bluemediafile.sbs/
 local=/bluemediafile.site/
 local=/bluemediafiles.com/
 local=/bluemediafiles.xyz/
@@ -1558,7 +1553,6 @@ local=/blutopia.xyz/
 local=/bmitbd.com/
 local=/bmovies.is/
 local=/bmovies.nl/
-local=/bmovies.vip/
 local=/bms-hosxp.com/
 local=/bmtorrents.net/
 local=/bmwfilms.com/
@@ -1698,7 +1692,6 @@ local=/btdb.eu/
 local=/btdb.io/
 local=/btdig.com/
 local=/btdigg.org/
-local=/btdoor.cc/
 local=/bteye.org/
 local=/btgigs.info/
 local=/btjunkie.org/
@@ -1721,7 +1714,6 @@ local=/btsearch.love/
 local=/btshoufa.net/
 local=/btsow.online/
 local=/btsow.pics/
-local=/bttrove.org/
 local=/btzone.org/
 local=/tracker.btzoo.eu/
 local=/bubarindpr.com/

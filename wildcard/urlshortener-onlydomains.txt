@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 May 2026 07:47 UTC
-# Version: 2026.0502.0747.42
+# Last modified: 02 May 2026 16:57 UTC
+# Version: 2026.0502.1657.35
 # Syntax: Domains (without subdomains)
-# Number of entries: 9977
+# Number of entries: 9970
 #
 0.gp
 00m.in
@@ -773,7 +773,6 @@ aporasal.net
 app.link
 eventogo.app.br
 redirect.app.br
-vstag.app.br
 appbitly.com
 appcurt.com
 kutt.appinn.com
@@ -902,7 +901,6 @@ avyc.io
 avydn.co
 awactools.com
 awc.li
-awenje.com
 aws.tl
 aws3.link
 aws3-demo.link
@@ -923,7 +921,6 @@ ayt.fr
 ayuk.link
 ayzyu.com
 azc.cc
-azhfoom.com
 azipurl.app
 azipurl.com
 azlink.me
@@ -1052,7 +1049,6 @@ beshort.io
 shortin.besquares.net
 bestbet1000.xyz
 us.bestbrains.com
-bestshortlink.com
 go.betnacional.bet.br
 betaloop.io
 betaxfree.net
@@ -1176,7 +1172,6 @@ bitlyshort.com
 bitlyvi.com
 bitlz.cc
 bitq.link
-bitradex.net
 bitri.link
 bitshort.vip
 bitshrt.com
@@ -1271,7 +1266,6 @@ boa.la
 boarfishesquandangsunderdried.com
 boclinkvn.net
 bofh.us
-bofo.ly
 boi.re
 boile.rs
 bola.mx
@@ -1332,7 +1326,6 @@ brcloud.me
 bre.is
 brendan.fyi
 brev.ws
-breve.bio
 brevelink.com
 brever.link
 brevi.space

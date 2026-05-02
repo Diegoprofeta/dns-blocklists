@@ -848,6 +848,13 @@
       }
     },
     {
+      "PK": "*.gripe",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.guide",
       "action": {
         "do": 0,

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 May 2026 09:43 UTC
-# Version: 2026.0502.0943.07
+# Last modified: 02 May 2026 16:56 UTC
+# Version: 2026.0502.1656.49
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 19083
+# Number of entries: 19075
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -18,6 +18,7 @@ local=/003153.xyz/
 local=/ns.00dani.me/
 local=/dns.010812.xyz/
 local=/666.020202.best/
+local=/www-666.020202.best/
 local=/02akgaayi2fi3xkdi13s0jtxj.online/
 local=/041ad0cfb636.xyz/
 local=/04a0f262f2f391ead91af1f0ecc6ef3a.top/
@@ -1150,7 +1151,6 @@ local=/anylandclash.com/
 local=/anylandjc.com/
 local=/ad.anym0re.ru/
 local=/dp.anywaysoft.com/
-local=/anzcjujms4ufj.online/
 local=/aox666.com/
 local=/aox777.xyz/
 local=/aoxblog.com/
@@ -1612,7 +1612,6 @@ local=/education.balalaikamail.com/
 local=/ballbang.com/
 local=/adguard.baltes.info/
 local=/about.baltimorefellowship.org/
-local=/bordom.bamapos.com/
 local=/hint.bamastuff.com/
 local=/trig.bamastuff.com/
 local=/trigg.bamastuff.com/
@@ -1766,7 +1765,6 @@ local=/bebro.live/
 local=/bebro.loan/
 local=/bebrochka.loan/
 local=/dns.home.beckett.io/
-local=/bedra.online/
 local=/friend.bedro.cloud/
 local=/justhost.bedro.cloud/
 local=/beecomf.xyz/
@@ -2008,7 +2006,6 @@ local=/bestukvpn.com/
 local=/bestuplay.com/
 local=/bestusgame.net/
 local=/bestveee.com/
-local=/bestvideoproxy.com/
 local=/bestvpn.help/
 local=/bestvpn.org/
 local=/bestvpnonline.online/
@@ -2068,7 +2065,6 @@ local=/bienna.ru/
 local=/bifenggangjsq.com/
 local=/bifenggangssr.com/
 local=/bigairportgw.com/
-local=/bigbang.pics/
 local=/bigdih.shop/
 local=/bigdihuptheahh.buzz/
 local=/bigjimmy.xyz/
@@ -2377,7 +2373,6 @@ local=/user.bostoncareercounselor.com/
 local=/vcsaxinter.bostoncareercounselor.com/
 local=/yousifcantleakthis.bostoncareercounselor.com/
 local=/pms-ssd1.bot.nu/
-local=/botclassic.com/
 local=/botvpn.help/
 local=/botvpntype.com/
 local=/pakupaku.bounceme.net/
@@ -2386,12 +2381,8 @@ local=/bouquetberlin.org/
 local=/dns.bovat.net/
 local=/education.com.boxathome.net/
 local=/doyouknowthemuffinman.boxathome.net/
-local=/fridaynightfunkinisthebest.boxathome.net/
 local=/full.boxathome.net/
 local=/brother.let.boxathome.net/
-local=/nobodycaresaboutmetheycareaboutthewebsite.boxathome.net/
-local=/overcloaked.boxathome.net/
-local=/quasar.boxathome.net/
 local=/y9iiz61k4yu67jfgcx.boxathome.net/
 local=/boxpn.com/
 local=/adguard.boykevanvugt.nl/
@@ -2406,7 +2397,6 @@ local=/dns.brahma.world/
 local=/brakeeagle.com/
 local=/bramka-proxy.pl/
 local=/bran-ex.ru/
-local=/culture-de.brasilera.org/
 local=/brastil.ru/
 local=/bratokvpn.com/
 local=/bravedns.com/
@@ -11501,6 +11491,7 @@ local=/be2aja.my.id/
 local=/vpnto.bhadrikais.my.id/
 local=/clickr.my.to/
 local=/blocked.goguardian.com.my.to/
+local=/croxyproxy.my.id/
 local=/dns.fadhilyori.my.id/
 local=/dns.freddys.my.id/
 local=/dns.iki.my.id/
@@ -15331,6 +15322,7 @@ local=/supervpn.im/
 local=/supervpn.lat/
 local=/supervpn.net/
 local=/supervpn-ru.com/
+local=/supremebarbershopclarendon.net/
 local=/suredns.nl/
 local=/myapps.classlink.suredoc.net/
 local=/surf-for-free.com/
