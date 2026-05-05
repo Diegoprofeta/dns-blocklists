@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777967340 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777995000 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 May 2026 07:49 UTC
-; Version: 2026.0505.0749.47
+; Last modified: 05 May 2026 15:30 UTC
+; Version: 2026.0505.1530.21
 ; Syntax: RPZ
-; Number of entries: 19846
+; Number of entries: 19826
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -6277,8 +6277,6 @@ intro.sentrystrategy.com CNAME .
 *.intro.sentrystrategy.com CNAME .
 seotoolsaudit.com CNAME .
 *.seotoolsaudit.com CNAME .
-seru88-amp.com CNAME .
-*.seru88-amp.com CNAME .
 serverluar.com CNAME .
 *.serverluar.com CNAME .
 to.servers.com CNAME .
@@ -6579,8 +6577,6 @@ sitegpl.com CNAME .
 *.sitegpl.com CNAME .
 sitioz.com CNAME .
 *.sitioz.com CNAME .
-skanshort.com CNAME .
-*.skanshort.com CNAME .
 skiplinko.com CNAME .
 *.skiplinko.com CNAME .
 slamfootball.com CNAME .
@@ -6589,8 +6585,6 @@ slecastle.com CNAME .
 *.slecastle.com CNAME .
 slimlink.com CNAME .
 *.slimlink.com CNAME .
-slinkurl.com CNAME .
-*.slinkurl.com CNAME .
 tools.slipstick.com CNAME .
 *.tools.slipstick.com CNAME .
 slitcy.com CNAME .
@@ -6625,8 +6619,6 @@ smoner.com CNAME .
 *.smoner.com CNAME .
 sms-my.com CNAME .
 *.sms-my.com CNAME .
-smslinkly.com CNAME .
-*.smslinkly.com CNAME .
 smtvj.com CNAME .
 *.smtvj.com CNAME .
 snapbtg.com CNAME .
@@ -10117,8 +10109,6 @@ shortpro.in CNAME .
 *.shortpro.in CNAME .
 shortr.in CNAME .
 *.shortr.in CNAME .
-shrinker.in CNAME .
-*.shrinker.in CNAME .
 shrinkforearn.in CNAME .
 *.shrinkforearn.in CNAME .
 shrinkme.in CNAME .
@@ -10433,8 +10423,6 @@ shrinkme.info CNAME .
 *.shrinkme.info CNAME .
 soumtrack.info CNAME .
 *.soumtrack.info CNAME .
-sowiss.info CNAME .
-*.sowiss.info CNAME .
 ssl-check-links.info CNAME .
 *.ssl-check-links.info CNAME .
 terbukti.info CNAME .
@@ -12217,8 +12205,6 @@ shr.li CNAME .
 *.shr.li CNAME .
 soop.li CNAME .
 *.soop.li CNAME .
-ssa.li CNAME .
-*.ssa.li CNAME .
 surl.li CNAME .
 *.surl.li CNAME .
 tdrive.li CNAME .
@@ -12905,8 +12891,6 @@ sicepat.link CNAME .
 *.sicepat.link CNAME .
 sidji.link CNAME .
 *.sidji.link CNAME .
-siguiente.link CNAME .
-*.siguiente.link CNAME .
 simpleurl.link CNAME .
 *.simpleurl.link CNAME .
 singkatin.link CNAME .
@@ -16731,8 +16715,6 @@ shrinkme.pro CNAME .
 *.shrinkme.pro CNAME .
 shrinky.pro CNAME .
 *.shrinky.pro CNAME .
-shrtct.pro CNAME .
-*.shrtct.pro CNAME .
 shrtnly.pro CNAME .
 *.shrtnly.pro CNAME .
 shrtnr.pro CNAME .
@@ -16977,8 +16959,6 @@ spx.re CNAME .
 *.spx.re CNAME .
 squ.re CNAME .
 *.squ.re CNAME .
-studioki.re CNAME .
-*.studioki.re CNAME .
 s.tobi.re CNAME .
 *.s.tobi.re CNAME .
 trade.re CNAME .

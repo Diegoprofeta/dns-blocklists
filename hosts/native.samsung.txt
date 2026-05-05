@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Apr 2026 17:09 UTC
-# Version: 2026.0428.1709.45
+# Last modified: 05 May 2026 17:17 UTC
+# Version: 2026.0505.1717.29
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 272
+# Number of entries: 269
 #
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 metric.account-samsung.com
@@ -127,7 +127,6 @@
 0.0.0.0 images.it.business.samsung.com
 0.0.0.0 seao.business.samsung.com
 0.0.0.0 channelusa.samsung.com
-0.0.0.0 images.chbusiness.samsung.com
 0.0.0.0 dc.dqa.samsung.com
 0.0.0.0 dls-ddc.dqa.samsung.com
 0.0.0.0 dls-udc.dqa.samsung.com
@@ -143,10 +142,8 @@
 0.0.0.0 plbusiness.samsung.com
 0.0.0.0 api.runestone.samsung.com
 0.0.0.0 di.runestone.samsung.com
-0.0.0.0 cc.di.runestone.samsung.com
 0.0.0.0 dc.di.runestone.samsung.com
 0.0.0.0 dls.di.runestone.samsung.com
-0.0.0.0 lcs.di.runestone.samsung.com
 0.0.0.0 orsdls.di.runestone.samsung.com
 0.0.0.0 orsfs.di.runestone.samsung.com
 0.0.0.0 orsplc.di.runestone.samsung.com

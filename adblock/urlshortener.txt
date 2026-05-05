@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 05 May 2026 07:49 UTC
-! Version: 2026.0505.0749.47
+! Last modified: 05 May 2026 15:30 UTC
+! Version: 2026.0505.1530.21
 ! Syntax: AdBlock
-! Number of entries: 9923
+! Number of entries: 9913
 !
 ||0.gp^
 ||00m.in^
@@ -6898,7 +6898,6 @@
 ||seotoolsaudit.com^
 ||seq.vc^
 ||serpec.ru^
-||seru88-amp.com^
 ||serveracts.net^
 ||serverluar.com^
 ||serverluar.net^
@@ -7277,7 +7276,6 @@
 ||shrinkbolt.com^
 ||shrinkdomain.com^
 ||shrinkearn.com^
-||shrinker.in^
 ||shrinkforearn.in^
 ||shrinkforge.com^
 ||shrinkify.com^
@@ -7318,7 +7316,6 @@
 ||shrt.vip^
 ||shrt-l.ink^
 ||shrtco.de^
-||shrtct.pro^
 ||shrten.com^
 ||shrten.io^
 ||shrten.us^
@@ -7388,7 +7385,6 @@
 ||sigdp.io^
 ||social.sigmaequipment.com^
 ||sigshort.com^
-||siguiente.link^
 ||sikencang.com^
 ||sikilat.fun^
 ||sikk.de^
@@ -7431,7 +7427,6 @@
 ||go.sjf.edu^
 ||sk.news^
 ||sk8.by^
-||skanshort.com^
 ||skimmth.is^
 ||s.skip.bh^
 ||skiplinko.com^
@@ -7471,7 +7466,6 @@
 ||slimlink.com^
 ||slims.us^
 ||slimu.in^
-||slinkurl.com^
 ||tools.slipstick.com^
 ||slitcy.com^
 ||slk.me^
@@ -7536,7 +7530,6 @@
 ||sms-my.com^
 ||smsb.co^
 ||smsit.ai^
-||smslinkly.com^
 ||smsng.news^
 ||smsng.us^
 ||smst.ca^
@@ -7630,7 +7623,6 @@
 ||soumtrack.info^
 ||sourl.cn^
 ||sovrn.co^
-||sowiss.info^
 ||sowl.to^
 ||sp2.ro^
 ||sp5.jp^
@@ -7709,7 +7701,6 @@
 ||ss777.games^
 ||ss777.win^
 ||ss88.my^
-||ssa.li^
 ||ssagnjumbory.com^
 ||ssagnonfexy.com^
 ||ssb.ltd^
@@ -7771,7 +7762,6 @@
 ||strywon.com^
 ||stspg.io^
 ||stts.in^
-||studioki.re^
 ||stuf.in^
 ||stulink.io^
 ||stuve.me^

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 May 2026 10:02 UTC
-# Version: 2026.0505.1002.35
+# Last modified: 05 May 2026 16:58 UTC
+# Version: 2026.0505.1658.52
 # Syntax: Domains (without subdomains)
-# Number of entries: 18870
+# Number of entries: 18835
 #
 000000555.xyz
 ss.0001.xyz
@@ -14332,26 +14332,18 @@ shadowrocket.work
 shadowrocket-app.com
 shadowrocketal.com
 shadowrocketap.com
-shadowrocketaz.com
 shadowrocketbi.com
-shadowrocketbk.com
 shadowrocketbz.com
 shadowrocketck.com
 shadowrocketdownload.com
-shadowrocketek.com
 shadowrocketfh.com
 shadowrockethb.com
 shadowrockethm.com
-shadowrockethw.com
-shadowrockethx.com
-shadowrockethy.com
 shadowrocketic.com
 shadowrocketid.com
 shadowrocketios.org
 shadowrocketjj.com
 shadowrocketjo.com
-shadowrocketjw.com
-shadowrocketkt.com
 shadowrocketlp.com
 shadowrocketmo.com
 shadowrocketmy.com
@@ -14359,19 +14351,14 @@ shadowrocketnc.com
 shadowrocketnl.com
 shadowrocketnv.com
 shadowrocketok.com
-shadowrocketot.com
-shadowrocketqa.com
 shadowrocketqm.com
 shadowrocketqn.com
-shadowrocketrl.com
 shadowrocketrm.com
 shadowrocketru.com
 shadowrocketrw.com
-shadowrocketsk.com
 shadowrocketsm.com
 shadowrockettg.com
 shadowrockettn.com
-shadowrocketua.com
 shadowrocketub.com
 shadowrocketuj.com
 shadowrocketvpn.app
@@ -14381,7 +14368,6 @@ shadowrocketxq.com
 shadowrocketxt.com
 shadowrocketyl.com
 shadowrocketyn.com
-shadowrocketzf.com
 shadowrocketzr.com
 shadowsocks.click
 shadowsocks.org
@@ -14580,7 +14566,6 @@ smartdnsproxy.com
 onlyforschool123.smarter-homes.com
 lunarsync.smartfoloo.space
 dns.smartguard.io
-ma.smartjz.cn
 smartproxy.com
 webproxy.smartproxy.org
 singy.smartq.dev
@@ -14635,7 +14620,6 @@ socloud.cc
 socloud.me
 www-proxy.sodemc.com
 adguardhome.softcloud.pe
-clientdns3.softcom.net
 myprivityvpn.softether.net
 softether-vpn.lol
 free-vpn.en.softonic.com
@@ -14645,7 +14629,6 @@ solarsie.com
 solaxy.live
 soleilvpn-app.com
 pteryla.solicituddemateriales.cl
-siencehub.solicituddemateriales.cl
 solidproxy.net
 imfroggingit.soloo.win
 wtbd02.solowalk.top
@@ -14894,7 +14877,6 @@ stardream.co
 stargate.one
 starlink9527.com
 starlink9527.xyz
-starnetclash.com
 starruby.us
 starrynight.site
 starssh.com
@@ -15013,7 +14995,6 @@ rolypoly.strangled.net
 sixsevwnmanfosude.strangled.net
 squidward.strangled.net
 studyalgebra.strangled.net
-wassupdanger.strangled.net
 wspbaddies.strangled.net
 zhapeslearning.strangled.net
 strassmair.org
@@ -15043,7 +15024,6 @@ dns.struchkov.dev
 structoriumwings.ru
 sttlink.com
 dns.stud.cloud
-studebaker.ir
 educationalmath.studyingsciencethemes.one
 studysurf.com
 stun.su
@@ -15158,7 +15138,6 @@ dns.surfsharkdns.com
 surfsharkstatus.com
 surfsharkvpn.online
 surfsjark.com
-surfskip.com
 surfsneaker.com
 surfsuark.com
 surfwebsite.org
@@ -15185,10 +15164,8 @@ sustainpilot.space
 susucloud.net
 suyin.club
 suying666clash.com
-suying666gw.com
 suying666jc.com
 suying999.net
-suyingclash.com
 suyinx.space
 suyinx.xyz
 suyunh.com
@@ -15243,8 +15220,6 @@ support.synapseitech.com
 synapsetechllc.com
 server-list.synclusiveinno.com
 server-list1.synclusiveinno.com
-synnetworkclash.com
-synnetworkjc.com
 bucheli.synology.me
 chlaebi.synology.me
 hockaday.synology.me
@@ -15301,8 +15276,6 @@ tagxx.vip
 tailnet.ru
 tailscale.com
 taishan.pro
-taishanclash.com
-taishanjc.com
 takomc.com
 talc.network
 dn5.talesam.org
@@ -15329,11 +15302,7 @@ tanz.website
 tanz01-5bqcto3e.top
 tanz02-mjx21vgl.top
 tanzcloud.com
-tanzcloudjc.com
 dns.taoday.top
-taoqituclash.com
-taoqitujichang.com
-taoqitussr.com
 tap2free.net
 dns.tapawan.ca
 vpns.taplink.ws
@@ -15343,12 +15312,9 @@ adguard.taufner.net
 discussion.tawktawk.info
 taxif.us
 dns.tb4.me
-tbaibianxiaoying.com
-tbaibianxiaoyingjc.com
 httpdns.danuoyi.tbcache.com
 tbgthmrg.com
 tbjr6.com
-tblackcloud.com
 tbunet.com
 92.38.177.16.dyn.tcadmin.net
 babybee.tcogpcal.org
@@ -15398,7 +15364,6 @@ books.quiz.teeman.org
 dns.tefuir0829.cn
 tejiajc.com
 tejiass.com
-tejiassr.com
 9-5job.tejidosdedignidad.org
 education.tejidosdedignidad.org
 englishdashboard.tejidosdedignidad.org

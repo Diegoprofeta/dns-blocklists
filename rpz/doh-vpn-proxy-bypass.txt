@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777975320 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778000280 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 May 2026 10:02 UTC
-; Version: 2026.0505.1002.35
+; Last modified: 05 May 2026 16:58 UTC
+; Version: 2026.0505.1658.52
 ; Syntax: RPZ
-; Number of entries: 37740
+; Number of entries: 37670
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -2811,8 +2811,6 @@ olukjhgfhjgn.weqrtfgesd.smasesorias.cl CNAME .
 *.olukjhgfhjgn.weqrtfgesd.smasesorias.cl CNAME .
 pteryla.solicituddemateriales.cl CNAME .
 *.pteryla.solicituddemateriales.cl CNAME .
-siencehub.solicituddemateriales.cl CNAME .
-*.siencehub.solicituddemateriales.cl CNAME .
 velocity.succeed.cl CNAME .
 *.velocity.succeed.cl CNAME .
 interstellar.nana.swift.cl CNAME .
@@ -3529,8 +3527,6 @@ us.sc92.cn CNAME .
 *.us.sc92.cn CNAME .
 sfsso.cn CNAME .
 *.sfsso.cn CNAME .
-ma.smartjz.cn CNAME .
-*.ma.smartjz.cn CNAME .
 smfqhpw.cn CNAME .
 *.smfqhpw.cn CNAME .
 spbyjzu.cn CNAME .
@@ -14715,32 +14711,20 @@ shadowrocketal.com CNAME .
 *.shadowrocketal.com CNAME .
 shadowrocketap.com CNAME .
 *.shadowrocketap.com CNAME .
-shadowrocketaz.com CNAME .
-*.shadowrocketaz.com CNAME .
 shadowrocketbi.com CNAME .
 *.shadowrocketbi.com CNAME .
-shadowrocketbk.com CNAME .
-*.shadowrocketbk.com CNAME .
 shadowrocketbz.com CNAME .
 *.shadowrocketbz.com CNAME .
 shadowrocketck.com CNAME .
 *.shadowrocketck.com CNAME .
 shadowrocketdownload.com CNAME .
 *.shadowrocketdownload.com CNAME .
-shadowrocketek.com CNAME .
-*.shadowrocketek.com CNAME .
 shadowrocketfh.com CNAME .
 *.shadowrocketfh.com CNAME .
 shadowrockethb.com CNAME .
 *.shadowrockethb.com CNAME .
 shadowrockethm.com CNAME .
 *.shadowrockethm.com CNAME .
-shadowrockethw.com CNAME .
-*.shadowrockethw.com CNAME .
-shadowrockethx.com CNAME .
-*.shadowrockethx.com CNAME .
-shadowrockethy.com CNAME .
-*.shadowrockethy.com CNAME .
 shadowrocketic.com CNAME .
 *.shadowrocketic.com CNAME .
 shadowrocketid.com CNAME .
@@ -14749,10 +14733,6 @@ shadowrocketjj.com CNAME .
 *.shadowrocketjj.com CNAME .
 shadowrocketjo.com CNAME .
 *.shadowrocketjo.com CNAME .
-shadowrocketjw.com CNAME .
-*.shadowrocketjw.com CNAME .
-shadowrocketkt.com CNAME .
-*.shadowrocketkt.com CNAME .
 shadowrocketlp.com CNAME .
 *.shadowrocketlp.com CNAME .
 shadowrocketmo.com CNAME .
@@ -14767,32 +14747,22 @@ shadowrocketnv.com CNAME .
 *.shadowrocketnv.com CNAME .
 shadowrocketok.com CNAME .
 *.shadowrocketok.com CNAME .
-shadowrocketot.com CNAME .
-*.shadowrocketot.com CNAME .
-shadowrocketqa.com CNAME .
-*.shadowrocketqa.com CNAME .
 shadowrocketqm.com CNAME .
 *.shadowrocketqm.com CNAME .
 shadowrocketqn.com CNAME .
 *.shadowrocketqn.com CNAME .
-shadowrocketrl.com CNAME .
-*.shadowrocketrl.com CNAME .
 shadowrocketrm.com CNAME .
 *.shadowrocketrm.com CNAME .
 shadowrocketru.com CNAME .
 *.shadowrocketru.com CNAME .
 shadowrocketrw.com CNAME .
 *.shadowrocketrw.com CNAME .
-shadowrocketsk.com CNAME .
-*.shadowrocketsk.com CNAME .
 shadowrocketsm.com CNAME .
 *.shadowrocketsm.com CNAME .
 shadowrockettg.com CNAME .
 *.shadowrockettg.com CNAME .
 shadowrockettn.com CNAME .
 *.shadowrockettn.com CNAME .
-shadowrocketua.com CNAME .
-*.shadowrocketua.com CNAME .
 shadowrocketub.com CNAME .
 *.shadowrocketub.com CNAME .
 shadowrocketuj.com CNAME .
@@ -14809,8 +14779,6 @@ shadowrocketyl.com CNAME .
 *.shadowrocketyl.com CNAME .
 shadowrocketyn.com CNAME .
 *.shadowrocketyn.com CNAME .
-shadowrocketzf.com CNAME .
-*.shadowrocketzf.com CNAME .
 shadowrocketzr.com CNAME .
 *.shadowrocketzr.com CNAME .
 shandiancloud.com CNAME .
@@ -15127,8 +15095,6 @@ stage-ngrok.com CNAME .
 *.stage-ngrok.com CNAME .
 starlink9527.com CNAME .
 *.starlink9527.com CNAME .
-starnetclash.com CNAME .
-*.starnetclash.com CNAME .
 starssh.com CNAME .
 *.starssh.com CNAME .
 hk2.ss.startagegames.com CNAME .
@@ -15365,8 +15331,6 @@ surfsharkstatus.com CNAME .
 *.surfsharkstatus.com CNAME .
 surfsjark.com CNAME .
 *.surfsjark.com CNAME .
-surfskip.com CNAME .
-*.surfskip.com CNAME .
 surfsneaker.com CNAME .
 *.surfsneaker.com CNAME .
 surfsuark.com CNAME .
@@ -15381,12 +15345,8 @@ surtshark.com CNAME .
 *.surtshark.com CNAME .
 suying666clash.com CNAME .
 *.suying666clash.com CNAME .
-suying666gw.com CNAME .
-*.suying666gw.com CNAME .
 suying666jc.com CNAME .
 *.suying666jc.com CNAME .
-suyingclash.com CNAME .
-*.suyingclash.com CNAME .
 suyunh.com CNAME .
 *.suyunh.com CNAME .
 suyunti.com CNAME .
@@ -15425,10 +15385,6 @@ server-list.synclusiveinno.com CNAME .
 *.server-list.synclusiveinno.com CNAME .
 server-list1.synclusiveinno.com CNAME .
 *.server-list1.synclusiveinno.com CNAME .
-synnetworkclash.com CNAME .
-*.synnetworkclash.com CNAME .
-synnetworkjc.com CNAME .
-*.synnetworkjc.com CNAME .
 doh.sz-dns.com CNAME .
 *.doh.sz-dns.com CNAME .
 cabin.szendebrassai.com CNAME .
@@ -15451,10 +15407,6 @@ tagvpnglobal.com CNAME .
 *.tagvpnglobal.com CNAME .
 tailscale.com CNAME .
 *.tailscale.com CNAME .
-taishanclash.com CNAME .
-*.taishanclash.com CNAME .
-taishanjc.com CNAME .
-*.taishanjc.com CNAME .
 takomc.com CNAME .
 *.takomc.com CNAME .
 talesfiction.com CNAME .
@@ -15463,26 +15415,12 @@ talk2m.com CNAME .
 *.talk2m.com CNAME .
 tanzcloud.com CNAME .
 *.tanzcloud.com CNAME .
-tanzcloudjc.com CNAME .
-*.tanzcloudjc.com CNAME .
-taoqituclash.com CNAME .
-*.taoqituclash.com CNAME .
-taoqitujichang.com CNAME .
-*.taoqitujichang.com CNAME .
-taoqitussr.com CNAME .
-*.taoqitussr.com CNAME .
-tbaibianxiaoying.com CNAME .
-*.tbaibianxiaoying.com CNAME .
-tbaibianxiaoyingjc.com CNAME .
-*.tbaibianxiaoyingjc.com CNAME .
 httpdns.danuoyi.tbcache.com CNAME .
 *.httpdns.danuoyi.tbcache.com CNAME .
 tbgthmrg.com CNAME .
 *.tbgthmrg.com CNAME .
 tbjr6.com CNAME .
 *.tbjr6.com CNAME .
-tblackcloud.com CNAME .
-*.tblackcloud.com CNAME .
 tbunet.com CNAME .
 *.tbunet.com CNAME .
 tcpvpn.com CNAME .
@@ -15517,8 +15455,6 @@ tejiajc.com CNAME .
 *.tejiajc.com CNAME .
 tejiass.com CNAME .
 *.tejiass.com CNAME .
-tejiassr.com CNAME .
-*.tejiassr.com CNAME .
 family.dns.teknoholistik.com CNAME .
 *.family.dns.teknoholistik.com CNAME .
 dns.teknologiku.com CNAME .
@@ -22741,8 +22677,6 @@ pro.shecan.ir CNAME .
 *.pro.shecan.ir CNAME .
 sibitc.ir CNAME .
 *.sibitc.ir CNAME .
-studebaker.ir CNAME .
-*.studebaker.ir CNAME .
 timevip.ir CNAME .
 *.timevip.ir CNAME .
 unity4world.ir CNAME .
@@ -28019,8 +27953,6 @@ home.snow-sugar.net CNAME .
 *.home.snow-sugar.net CNAME .
 socks-proxy.net CNAME .
 *.socks-proxy.net CNAME .
-clientdns3.softcom.net CNAME .
-*.clientdns3.softcom.net CNAME .
 myprivityvpn.softether.net CNAME .
 *.myprivityvpn.softether.net CNAME .
 solidproxy.net CNAME .
@@ -28091,8 +28023,6 @@ squidward.strangled.net CNAME .
 *.squidward.strangled.net CNAME .
 studyalgebra.strangled.net CNAME .
 *.studyalgebra.strangled.net CNAME .
-wassupdanger.strangled.net CNAME .
-*.wassupdanger.strangled.net CNAME .
 wspbaddies.strangled.net CNAME .
 *.wspbaddies.strangled.net CNAME .
 zhapeslearning.strangled.net CNAME .

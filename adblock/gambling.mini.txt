@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 05 May 2026 09:54 UTC
-! Version: 2026.0505.0954.21
+! Last modified: 05 May 2026 17:05 UTC
+! Version: 2026.0505.1705.56
 ! Syntax: AdBlock
-! Number of entries: 47013
+! Number of entries: 46978
 !
 ||0-bdmbet.com^
 ||00.game^
@@ -15810,7 +15810,6 @@
 ||casinoszondercrukstop10.info^
 ||casinoszondervergunning.org^
 ||casinotaco.com^
-||casinotactieken.nl^
 ||casinotafelshuren.com^
 ||casinotalk.com^
 ||casinotalks.club^
@@ -17241,7 +17240,6 @@
 ||bastacasinonutanspelpaus.co.com^
 ||bcasino.co.uk^
 ||bellacasinouk.co.uk^
-||beritaonline.co.id^
 ||bespokerecruit.co.uk^
 ||best-online-casinos.co.nz^
 ||beste-crypto-casino-nederland.co.com^
@@ -25333,7 +25331,6 @@
 ||indoslotl.com^
 ||indoslotm.com^
 ||indoslotq.com^
-||indotaruhan.com^
 ||indowlatoto4d.com^
 ||indslots777.net^
 ||indslotsapk.net^
@@ -36591,7 +36588,6 @@
 ||qq1221twelve.com^
 ||qq188casinobet.com^
 ||qq288casinobet.com^
-||qq3.bet^
 ||qq333a.com^
 ||qq333bet.id^
 ||qq6.casino^
@@ -38827,7 +38823,6 @@
 ||shadowbetcasino.org^
 ||shadowes.org^
 ||shahemardan.org^
-||shairaosmani.space^
 ||shakebetcasino-online.com^
 ||shakebetcasino-play.com^
 ||shakibcasino.site^
@@ -38896,7 +38891,6 @@
 ||shigaku-kobetsu.jp^
 ||shillacasino.com^
 ||shiny-joker.com^
-||shinynewgadgets.com^
 ||shinywildscasinofr1.com^
 ||shiokyabetsu.click^
 ||shiowla.id^
@@ -39001,7 +38995,6 @@
 ||simsinos-casino-fr2.com^
 ||simsinos-casino-france1.com^
 ||simsinos-casino-slot.com^
-||simsinos-casino1.fr^
 ||simsinoscasino-au.com^
 ||simsinoscasino-ca.com^
 ||simsinoscasino-se.com^
@@ -39011,7 +39004,6 @@
 ||sin88.ms^
 ||sin88.sx^
 ||sin88.tw^
-||sin88bets.com^
 ||sin88casinobet.com^
 ||sinbet.com^
 ||sinbetcasino.com^
@@ -39032,7 +39024,6 @@
 ||sisibets.com^
 ||sisil4d.ink^
 ||sisportsbook.com^
-||sistemsaham.com^
 ||sistersitescasino.net^
 ||sistersitesindex.com^
 ||site-kaiyun-casino.com^
@@ -39240,7 +39231,6 @@
 ||slotlair-fr-casino.com^
 ||slotlair-pt-casino.com^
 ||slotlaircasino-cz.com^
-||slotlaircasinos.pt^
 ||slotlaircasinos.uk^
 ||slotlaircasinos-fr.com^
 ||slotlaircasinos-nl.com^
@@ -39295,8 +39285,6 @@
 ||slotorocasinowin.com^
 ||slotozal.com^
 ||slotozal-casino.best^
-||slotozal-slots.casino^
-||slotozal-win.casino^
 ||slotozen.com^
 ||slotozen-casino-de.de^
 ||slotozilla.com^
@@ -39315,7 +39303,6 @@
 ||slots.express^
 ||slots.io^
 ||slots.lat^
-||slots.lv^
 ||slots.tips^
 ||slots-365.co^
 ||slots-777.one^
@@ -39481,7 +39468,6 @@
 ||slotsinargentina.top^
 ||slotsite.com^
 ||slotsites.store^
-||slotsitesi.net^
 ||slotsjackbit.club^
 ||slotsjudge.com^
 ||slotskorea777.site^
@@ -39604,7 +39590,6 @@
 ||slotsumaterautara.xyz^
 ||slotsundcasino.de^
 ||slotsup.com^
-||slotsuper7.net^
 ||slotsvaderapp.com^
 ||slotsvadercasino.cloud^
 ||slotsvadercasinos.pl^
@@ -39817,7 +39802,6 @@
 ||sodocasinowin.com^
 ||soelcasino276.com^
 ||soelcasino277.com^
-||sofabandung.net^
 ||sofabet.com^
 ||sofabets.com^
 ||sofia-casino.com^
@@ -39893,7 +39877,6 @@
 ||sonbahiscasinocom.com^
 ||song888b.com^
 ||songdocasino.com^
-||soniccasinogame.com^
 ||soniccasinokor.com^
 ||soniccasinokr.com^
 ||sonicslots.casino^
@@ -39920,13 +39903,11 @@
 ||sototangkar.online^
 ||soul4jackpot.casino^
 ||soulspring.no^
-||souqsky.net^
 ||southbeachcasinoresort.ca^
 ||southdreamz.com^
 ||southend.casino^
 ||southlandcasino.com^
 ||southpointcasino.com^
-||southwestcorporatecenter.com^
 ||sow.casino^
 ||soxo66casinobet.com^
 ||sp1-naro.com^
@@ -40210,7 +40191,6 @@
 ||spingalaxy.com^
 ||spingamesapp.com^
 ||spingenie.com^
-||spingo.casino^
 ||spingoldapk.com^
 ||spingranny-casino-de.com^
 ||spingrannycasino-de.com^
@@ -40551,7 +40531,6 @@
 ||sssgame2.com^
 ||sssroleta.com^
 ||sssss.com^
-||sssxwincasino.pro^
 ||ssve.ru^
 ||ssvip.com^
 ||st-albert-casino.ca^
@@ -40872,7 +40851,6 @@
 ||stormybets.com^
 ||storspelare.se^
 ||storspiller.com^
-||stpatsseattle.org^
 ||straatcasino.nl^
 ||straightedgebets.com^
 ||stranieri-casino-online.com^
@@ -40995,7 +40973,6 @@
 ||sunpuracasino.com^
 ||sunrisecasinoca.com^
 ||sunriseslots.com^
-||sunshinebottleworks.com^
 ||sunubet.com^
 ||sunvegascasino.com^
 ||sunwager.com^
@@ -41021,7 +40998,6 @@
 ||supabet-casino-online.net^
 ||supabet1.com^
 ||supabetcasino-canada.com^
-||supabets.bet^
 ||supacasi.com^
 ||super-bet-casino.de^
 ||super130.com^
@@ -41147,12 +41123,10 @@
 ||sverigescasinosajter.net^
 ||svipcasino.com^
 ||svizzeracasino.com^
-||sw-marine.com^
 ||sw3.me^
 ||sw67.cn^
 ||sw777.com^
 ||sw7771.com^
-||swaga.casino^
 ||swagbets.online^
 ||swansea.casino^
 ||swcpoker.club^
@@ -41179,7 +41153,6 @@
 ||sweepsusa.com^
 ||sweeptastic-casino-us.site^
 ||sweet-bonanza-casino.ink^
-||sweet-bonanza-casino.site^
 ||sweet-bonanza-casinos.ink^
 ||sweet-bonanza-slot.casino^
 ||sweetbonanza-casino.ink^
@@ -41191,11 +41164,9 @@
 ||sweetslotsuk.com^
 ||sweetspincasino.fun^
 ||sweetsweeps.com^
-||swerte77.bet^
 ||swerte777.vip^
 ||swerte77bet.com^
 ||swerte77vip3.com^
-||swerte77vip7.com^
 ||swertegaming.store^
 ||swertegaming.vip^
 ||swertegaming9.com^
@@ -41293,7 +41264,6 @@
 ||t8l.casino^
 ||t8slots.online^
 ||t8u9v0.buzz^
-||t97.bet^
 ||ta28casinobet.com^
 ||ta28casinovip.com^
 ||ta777.live^
@@ -41347,7 +41317,6 @@
 ||talismaniacasinofra.com^
 ||talksportbet.com^
 ||taller-play.casino^
-||tallerdeartevif.com^
 ||tam777slots.com^
 ||tamairtech.com^
 ||tamasha-bets.com^
@@ -41404,13 +41373,11 @@
 ||tech4bet.com^
 ||tech4betcasino.com^
 ||techinsidepro.com^
-||techmessy.com^
 ||techreviewscorner.com^
 ||tedbet.com^
 ||tedxjerusalem.com^
 ||teenpattigold.com^
 ||tehokasino.com^
-||teishimusic.com^
 ||tek789.com^
 ||tekatwin.com^
 ||teknozone.id^
@@ -41439,7 +41406,6 @@
 ||tenscomplement.com^
 ||teosbets474.vip^
 ||terbet88.lat^
-||terencejack.com^
 ||terlalujago.xyz^
 ||termixstore.ru^
 ||terrabetstation.nl^
@@ -41740,7 +41706,6 @@
 ||tidyverts.site^
 ||tiendaleonlpg.com^
 ||tiger-casino-zerkalo.com^
-||tigercasino.com^
 ||tigergaming.com^
 ||tigerspin.de^
 ||tigrinho-777.net^

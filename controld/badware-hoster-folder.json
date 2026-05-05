@@ -7939,6 +7939,13 @@
       }
     },
     {
+      "PK": "tripod.lycos.de",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "tripod.lycos.it",
       "action": {
         "do": 0,

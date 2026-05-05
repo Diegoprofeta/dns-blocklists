@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 May 2026 10:01 UTC
-# Version: 2026.0505.1001.36
+# Last modified: 05 May 2026 16:58 UTC
+# Version: 2026.0505.1658.08
 # Syntax: Domains (without subdomains)
-# Number of entries: 3450
+# Number of entries: 3449
 #
 ss.0001.xyz
 003153.xyz
@@ -2930,7 +2930,6 @@ home.snow-sugar.net
 ag.snrka.ru
 guard.sntrk.ru
 adguardhome.softcloud.pe
-clientdns3.softcom.net
 myprivityvpn.softether.net
 solaxy.live
 wtbd02.solowalk.top

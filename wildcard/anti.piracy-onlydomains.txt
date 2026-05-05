@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 May 2026 09:54 UTC
-# Version: 2026.0505.0954.52
+# Last modified: 05 May 2026 17:00 UTC
+# Version: 2026.0505.1700.10
 # Syntax: Domains (without subdomains)
-# Number of entries: 12443
+# Number of entries: 12418
 #
 003396815.xyz
 004430.xyz
@@ -3953,6 +3953,7 @@ filmy-online.tv
 filmy4kat.site
 filmy4play.xyz
 filmy4wap.de
+filmyentry.com
 filmyfly.deals
 filmyfly.how
 filmyfly.republican
@@ -8978,7 +8979,6 @@ seriesflix.live
 seriesflix.loan
 seriesflix.men
 seriesflix.org
-seriesflix.pics
 seriesflix.pro
 seriesflix.rest
 seriesflix.sbs
@@ -9401,7 +9401,6 @@ sportsbay.dk
 sportsbay.org
 sportsbay.sx
 sportsbay.top
-sportschamp.fun
 sportsleading.online
 sportslive.me
 sportsonline.gl
@@ -9445,7 +9444,6 @@ sportzonline.click
 sportzonline.com
 sportzonline.live
 sportzonline.ps
-sportzonline.pw
 sportzonline.site
 sportzonline.st
 sportzonline.to
@@ -9526,9 +9524,7 @@ str3ssed.co
 str3ssed.me
 stream.to
 stream-24.net
-stream-blog.tv
 stream-complet.fr
-stream-data-q9k4.space
 stream-oase.tv
 stream-planet.com
 stream-vf.co
@@ -9543,7 +9539,6 @@ streamcenter.cc
 streamcloud.audio
 streamcloud.be
 streamcloud.cx
-streamcloud.eu
 streamcloud.it
 streamcloud.my
 streamcloud.org
@@ -9573,7 +9568,6 @@ streameast.ph
 streameast.ps
 streameast.sg
 streameast.sk
-streameast.soccer
 streameast.xyz
 streamed.pk
 streamed.st
@@ -9625,11 +9619,9 @@ streamingcommunity.broker
 streamingcommunity.buzz
 streamingcommunity.cam
 streamingcommunity.capital
-streamingcommunity.care
 streamingcommunity.cash
 streamingcommunity.cat
 streamingcommunity.center
-streamingcommunity.chat
 streamingcommunity.cheap
 streamingcommunity.click
 streamingcommunity.cloud
@@ -9658,7 +9650,6 @@ streamingcommunity.football
 streamingcommunity.free
 streamingcommunity.garden
 streamingcommunity.help
-streamingcommunity.icu
 streamingcommunity.info
 streamingcommunity.ist
 streamingcommunity.it
@@ -9675,10 +9666,8 @@ streamingcommunity.one
 streamingcommunity.org
 streamingcommunity.ovh
 streamingcommunity.paris
-streamingcommunity.pet
 streamingcommunity.ph
 streamingcommunity.photos
-streamingcommunity.pink
 streamingcommunity.pizza
 streamingcommunity.pl
 streamingcommunity.plus
@@ -9698,7 +9687,6 @@ streamingcommunity.tel
 streamingcommunity.tv
 streamingcommunity.us
 streamingcommunity.vg
-streamingcommunity.vip
 streamingcommunity.ws
 streamingcommunity.xyz
 streamingcommunityz.agency
@@ -9746,7 +9734,6 @@ streamingcommunityz.coffee
 streamingcommunityz.com
 streamingcommunityz.computer
 streamingcommunityz.contact
-streamingcommunityz.cool
 streamingcommunityz.coupons
 streamingcommunityz.credit
 streamingcommunityz.cyou
@@ -9780,7 +9767,6 @@ streamingcommunityz.hair
 streamingcommunityz.haus
 streamingcommunityz.help
 streamingcommunityz.horse
-streamingcommunityz.house
 streamingcommunityz.icu
 streamingcommunityz.info
 streamingcommunityz.institute
@@ -9831,7 +9817,6 @@ streamingcommunityz.parts
 streamingcommunityz.party
 streamingcommunityz.pet
 streamingcommunityz.pink
-streamingcommunityz.pro
 streamingcommunityz.qpon
 streamingcommunityz.sbs
 streamingcommunityz.shop
@@ -9852,8 +9837,6 @@ streaminggratuit.rip
 streamingon.org
 streamingperlen.de
 streamingsenzalimiti.net
-streamingseries.rip
-streamingunity.autos
 streamingunity.biz
 streamingunity.dog
 streamit.ws
@@ -9866,7 +9849,6 @@ streamkiste.taxi
 streamlairtv.com
 streamlive.to
 streamlock.net
-streamlord.com
 streamm4u.com
 streamm4u.net
 streamm4u.to
@@ -9878,7 +9860,6 @@ streamobs.click
 streamonhd.me
 streamonsport.net
 streamonsport28.xyz
-streamoz.me
 streampass.cc
 streamruby.com
 streams.center
@@ -9947,8 +9928,6 @@ strumykl.help
 strumykl.icu
 strumyknet.pl
 strumyktv.live
-strumyktv.online
-strumyktv.space
 strumyktv.watch
 stuckgamer.com
 su-data.com
@@ -9987,7 +9966,6 @@ superfutebol.tv
 supernetbd.com
 supernova.to
 superpsx.com
-superserials.com
 superseries.live
 superstresser.com
 supertorrents.org
@@ -10055,7 +10033,6 @@ tantifilm.asia
 tantifilm.be
 tantifilm.bet
 tantifilm.bingo
-tantifilm.blog
 tantifilm.buzz
 tantifilm.casa
 tantifilm.claims
@@ -10107,7 +10084,6 @@ tarjetaroja.me
 tarjetarojaenvivo.me
 tarjetarojaonline.org
 tarjetarojatv.run
-tarjetarojatvhd.com
 tracker.tasvideos.org
 tata.to
 tazz.tv
@@ -10120,7 +10096,6 @@ tb-cdn.to
 tb7.pl
 tc-boxing.com
 tcbscans3.com
-tcbscanschapters.com
 tracker.tcp.exchange
 torrent.tdjs.tech
 teach12.com

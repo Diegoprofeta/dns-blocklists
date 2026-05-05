@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 May 2026 07:49 UTC
-# Version: 2026.0505.0749.47
+# Last modified: 05 May 2026 15:30 UTC
+# Version: 2026.0505.1530.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9923
+# Number of entries: 9913
 #
 local=/0.gp/
 local=/00m.in/
@@ -6897,7 +6897,6 @@ local=/seolegend.link/
 local=/seotoolsaudit.com/
 local=/seq.vc/
 local=/serpec.ru/
-local=/seru88-amp.com/
 local=/serveracts.net/
 local=/serverluar.com/
 local=/serverluar.net/
@@ -7276,7 +7275,6 @@ local=/shrink-your-link.org/
 local=/shrinkbolt.com/
 local=/shrinkdomain.com/
 local=/shrinkearn.com/
-local=/shrinker.in/
 local=/shrinkforearn.in/
 local=/shrinkforge.com/
 local=/shrinkify.com/
@@ -7317,7 +7315,6 @@ local=/shrt.st/
 local=/shrt.vip/
 local=/shrt-l.ink/
 local=/shrtco.de/
-local=/shrtct.pro/
 local=/shrten.com/
 local=/shrten.io/
 local=/shrten.us/
@@ -7387,7 +7384,6 @@ local=/sigboms.com/
 local=/sigdp.io/
 local=/social.sigmaequipment.com/
 local=/sigshort.com/
-local=/siguiente.link/
 local=/sikencang.com/
 local=/sikilat.fun/
 local=/sikk.de/
@@ -7430,7 +7426,6 @@ local=/siz.la/
 local=/go.sjf.edu/
 local=/sk.news/
 local=/sk8.by/
-local=/skanshort.com/
 local=/skimmth.is/
 local=/s.skip.bh/
 local=/skiplinko.com/
@@ -7470,7 +7465,6 @@ local=/slimeteam.live/
 local=/slimlink.com/
 local=/slims.us/
 local=/slimu.in/
-local=/slinkurl.com/
 local=/tools.slipstick.com/
 local=/slitcy.com/
 local=/slk.me/
@@ -7535,7 +7529,6 @@ local=/sms.club/
 local=/sms-my.com/
 local=/smsb.co/
 local=/smsit.ai/
-local=/smslinkly.com/
 local=/smsng.news/
 local=/smsng.us/
 local=/smst.ca/
@@ -7629,7 +7622,6 @@ local=/sou.nu/
 local=/soumtrack.info/
 local=/sourl.cn/
 local=/sovrn.co/
-local=/sowiss.info/
 local=/sowl.to/
 local=/sp2.ro/
 local=/sp5.jp/
@@ -7708,7 +7700,6 @@ local=/srv.cc/
 local=/ss777.games/
 local=/ss777.win/
 local=/ss88.my/
-local=/ssa.li/
 local=/ssagnjumbory.com/
 local=/ssagnonfexy.com/
 local=/ssb.ltd/
@@ -7770,7 +7761,6 @@ local=/stry.mx/
 local=/strywon.com/
 local=/stspg.io/
 local=/stts.in/
-local=/studioki.re/
 local=/stuf.in/
 local=/stulink.io/
 local=/stuve.me/

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 May 2026 10:01 UTC
-# Version: 2026.0505.1001.36
+# Last modified: 05 May 2026 16:58 UTC
+# Version: 2026.0505.1658.08
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3910
+# Number of entries: 3909
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3339,7 +3339,6 @@
 0.0.0.0 ag.snrka.ru
 0.0.0.0 guard.sntrk.ru
 0.0.0.0 adguardhome.softcloud.pe
-0.0.0.0 clientdns3.softcom.net
 0.0.0.0 myprivityvpn.softether.net
 0.0.0.0 solaxy.live
 0.0.0.0 wtbd02.solowalk.top
