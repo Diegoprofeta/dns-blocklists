@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 May 2026 16:56 UTC
-# Version: 2026.0504.1656.41
+# Last modified: 05 May 2026 07:49 UTC
+# Version: 2026.0505.0749.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9937
+# Number of entries: 9923
 #
 local=/0.gp/
 local=/00m.in/
@@ -5517,7 +5517,6 @@ local=/nja.im/
 local=/njersy.co/
 local=/njfl.ink/
 local=/njit.gg/
-local=/njohko.com/
 local=/njqeooqq.fun/
 local=/nkbp.jp/
 local=/nkf.re/
@@ -5544,7 +5543,6 @@ local=/nog.im/
 local=/nogfan.com/
 local=/nokia.ly/
 local=/nom77.one/
-local=/noni.bio/
 local=/noorly.nl/
 local=/nord.click/
 local=/nordic-rx.net/
@@ -5657,7 +5655,6 @@ local=/ohmy.link/
 local=/ohstitans.org/
 local=/ohw.tf/
 local=/oii.io/
-local=/oikit.link/
 local=/oink.us/
 local=/oinla.com/
 local=/oiolink.com/
@@ -5681,7 +5678,6 @@ local=/okurl.me/
 local=/okurl.net/
 local=/oky.li/
 local=/olbika.com/
-local=/olboseo.com/
 local=/oldmutualsa.com/
 local=/tiny.oldsouth.org/
 local=/oli.vi/
@@ -5736,7 +5732,6 @@ local=/onon.in/
 local=/url-server-75g5.onrender.com/
 local=/onschool.io/
 local=/ontwig.com/
-local=/onwwal.com/
 local=/onx.la/
 local=/ony.fi/
 local=/oo.link/
@@ -5811,7 +5806,6 @@ local=/ou.gd/
 local=/k20.ou.edu/
 local=/oua.be/
 local=/oui.li/
-local=/ouiasso.com/
 local=/oundhertobeconsist.org/
 local=/ouo.io/
 local=/ouo.press/
@@ -5875,7 +5869,6 @@ local=/pamethelabel.info/
 local=/panaceainc.co/
 local=/pandastyle.live/
 local=/panitech.us/
-local=/paperspeedy.com/
 local=/parg.co/
 local=/lien.paribal.fr/
 local=/parklandssolar.com/
@@ -6033,7 +6026,6 @@ local=/pkvg.link/
 local=/plabtainment.com/
 local=/placesunknown.art/
 local=/pladollmo.com/
-local=/plahxt.com/
 local=/python.plainenglish.io/
 local=/link.plains.io/
 local=/plannery.app/
@@ -6129,7 +6121,6 @@ local=/prephe.ro/
 local=/url.prepo.io/
 local=/prepostseo.tools/
 local=/pressthis.link/
-local=/m.presto.app/
 local=/prf.hn/
 local=/prfd.net/
 local=/y.prfd.aero/
@@ -6248,7 +6239,6 @@ local=/qclickbio.com/
 local=/qd.rs/
 local=/qdl.pw/
 local=/qdls.io/
-local=/qevime.com/
 local=/url.qhon.com/
 local=/qicute.com/
 local=/qikli.co/
@@ -6367,7 +6357,6 @@ local=/quickchart.io/
 local=/quickcode.digital/
 local=/quicklinkpro.io/
 local=/quickqr.be/
-local=/quickshr.ink/
 local=/quickshrink.ovh/
 local=/quicky.digital/
 local=/quicurl.com/
@@ -6471,7 +6460,6 @@ local=/reactlink.com/
 local=/read.bi/
 local=/readb.io/
 local=/readeach.com/
-local=/readfor.us/
 local=/readhacker.news/
 local=/readserie.com/
 local=/readthis.ca/
@@ -6585,7 +6573,6 @@ local=/revr.ec/
 local=/reyeshehadtwobri.com/
 local=/rfed.ws/
 local=/rfj.tips/
-local=/rfknow.org/
 local=/rfr.bz/
 local=/rfx.today/
 local=/rgd.app/
@@ -6614,7 +6601,6 @@ local=/rjpl.link/
 local=/rjvn.co/
 local=/rkt.bio/
 local=/rli.io/
-local=/rlkeps.com/
 local=/s.rlp.de/
 local=/rls.my/
 local=/rlu.ru/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 May 2026 16:57 UTC
-# Version: 2026.0504.1657.16
+# Last modified: 05 May 2026 09:54 UTC
+# Version: 2026.0505.0954.52
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 12447
+# Number of entries: 12443
 #
 *.003396815.xyz
 *.004430.xyz
@@ -6148,6 +6148,7 @@
 *.tracker.lemonhd.com
 *.leninist.online
 *.tracker.leniter.org
+*.tracker.lenition.de
 *.leporno.de
 *.leporno.org
 *.lermangasonline.info
@@ -7591,7 +7592,6 @@
 *.nuclein.beer
 *.tracker.nucozer-tracker.ml
 *.web1.nugs.net
-*.nullclash.org
 *.nulleb.com
 *.nulled.cx
 *.nulled-scripts.cc
@@ -7707,7 +7707,6 @@
 *.tracker-de.ololosh.space
 *.olympicstreams.co
 *.olympicstreams.tv
-*.omega-mg8k.cloud
 *.omgtorrent.com
 *.omgtorrent.cz
 *.onalrie.app
@@ -7930,7 +7929,6 @@
 *.pdfroom.com
 *.peace-and.love
 *.peckservers.com
-*.peerfect.org
 *.peers.fm
 *.peersteers.org
 *.pegleg.it
@@ -7950,7 +7948,6 @@
 *.pelisflix20.net
 *.pelisflix20.pro
 *.pelisflix20.pw
-*.pelisflix20.site
 *.pelisflix20.uno
 *.pelisflix20.vip
 *.pelisplus.blog
@@ -8261,7 +8258,6 @@
 *.proncams.tv
 *.propernoun.net
 *.prophecywatch.com
-*.proporno.org
 *.prosmart.by
 *.prostylex.org
 *.protonmovies.online
@@ -8399,7 +8395,6 @@
 *.putlockers.bz
 *.putlockers.co
 *.putlockers.cr
-*.putlockers.cz
 *.putlockers.fm
 *.putlockers.is
 *.putlockers.la
@@ -8587,7 +8582,6 @@
 *.redirectnflix.com
 *.redlist-ultimate.be
 *.redskunk.org
-*.redstream.online
 *.redump.org
 *.redvido.com
 *.redwarez.xyz
@@ -8800,6 +8794,7 @@
 *.saiyanarena.com
 *.tracker.sakurato.art
 *.sambd.com
+*.tracker.samcze.pl
 *.samftp.com
 *.movies.samj.app
 *.samlab.ws
@@ -9855,6 +9850,7 @@
 *.streaminggratuit.cc
 *.streaminggratuit.rip
 *.streamingon.org
+*.streamingperlen.de
 *.streamingsenzalimiti.net
 *.streamingseries.rip
 *.streamingunity.autos

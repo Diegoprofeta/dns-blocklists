@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 May 2026 16:56 UTC
-# Version: 2026.0504.1656.41
+# Last modified: 05 May 2026 07:49 UTC
+# Version: 2026.0505.0749.47
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 9937
+# Number of entries: 9923
 #
 *.0.gp
 *.00m.in
@@ -5517,7 +5517,6 @@
 *.njersy.co
 *.njfl.ink
 *.njit.gg
-*.njohko.com
 *.njqeooqq.fun
 *.nkbp.jp
 *.nkf.re
@@ -5544,7 +5543,6 @@
 *.nogfan.com
 *.nokia.ly
 *.nom77.one
-*.noni.bio
 *.noorly.nl
 *.nord.click
 *.nordic-rx.net
@@ -5657,7 +5655,6 @@
 *.ohstitans.org
 *.ohw.tf
 *.oii.io
-*.oikit.link
 *.oink.us
 *.oinla.com
 *.oiolink.com
@@ -5681,7 +5678,6 @@
 *.okurl.net
 *.oky.li
 *.olbika.com
-*.olboseo.com
 *.oldmutualsa.com
 *.tiny.oldsouth.org
 *.oli.vi
@@ -5736,7 +5732,6 @@
 *.url-server-75g5.onrender.com
 *.onschool.io
 *.ontwig.com
-*.onwwal.com
 *.onx.la
 *.ony.fi
 *.oo.link
@@ -5811,7 +5806,6 @@
 *.k20.ou.edu
 *.oua.be
 *.oui.li
-*.ouiasso.com
 *.oundhertobeconsist.org
 *.ouo.io
 *.ouo.press
@@ -5875,7 +5869,6 @@
 *.panaceainc.co
 *.pandastyle.live
 *.panitech.us
-*.paperspeedy.com
 *.parg.co
 *.lien.paribal.fr
 *.parklandssolar.com
@@ -6033,7 +6026,6 @@
 *.plabtainment.com
 *.placesunknown.art
 *.pladollmo.com
-*.plahxt.com
 *.python.plainenglish.io
 *.link.plains.io
 *.plannery.app
@@ -6129,7 +6121,6 @@
 *.url.prepo.io
 *.prepostseo.tools
 *.pressthis.link
-*.m.presto.app
 *.prf.hn
 *.prfd.net
 *.y.prfd.aero
@@ -6248,7 +6239,6 @@
 *.qd.rs
 *.qdl.pw
 *.qdls.io
-*.qevime.com
 *.url.qhon.com
 *.qicute.com
 *.qikli.co
@@ -6367,7 +6357,6 @@
 *.quickcode.digital
 *.quicklinkpro.io
 *.quickqr.be
-*.quickshr.ink
 *.quickshrink.ovh
 *.quicky.digital
 *.quicurl.com
@@ -6471,7 +6460,6 @@
 *.read.bi
 *.readb.io
 *.readeach.com
-*.readfor.us
 *.readhacker.news
 *.readserie.com
 *.readthis.ca
@@ -6585,7 +6573,6 @@
 *.reyeshehadtwobri.com
 *.rfed.ws
 *.rfj.tips
-*.rfknow.org
 *.rfr.bz
 *.rfx.today
 *.rgd.app
@@ -6614,7 +6601,6 @@
 *.rjvn.co
 *.rkt.bio
 *.rli.io
-*.rlkeps.com
 *.s.rlp.de
 *.rls.my
 *.rlu.ru

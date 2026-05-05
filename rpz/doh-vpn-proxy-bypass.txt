@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777913700 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777975320 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 May 2026 16:55 UTC
-; Version: 2026.0504.1655.54
+; Last modified: 05 May 2026 10:02 UTC
+; Version: 2026.0505.1002.35
 ; Syntax: RPZ
-; Number of entries: 37840
+; Number of entries: 37740
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -873,8 +873,6 @@ securlysettings.activesearch.org.au CNAME .
 *.securlysettings.activesearch.org.au CNAME .
 stemforlife.activesearch.org.au CNAME .
 *.stemforlife.activesearch.org.au CNAME .
-educationperfect.wbcc.org.au CNAME .
-*.educationperfect.wbcc.org.au CNAME .
 xfer.au CNAME .
 *.xfer.au CNAME .
 gultrjaus.autos CNAME .
@@ -2781,30 +2779,12 @@ nana.utopia.psgl.cl CNAME .
 *.nana.utopia.psgl.cl CNAME .
 wifi.reconectar.cl CNAME .
 *.wifi.reconectar.cl CNAME .
-adriel.redalameda.cl CNAME .
-*.adriel.redalameda.cl CNAME .
 solving.redalameda.cl CNAME .
 *.solving.redalameda.cl CNAME .
 topwriting.redalameda.cl CNAME .
 *.topwriting.redalameda.cl CNAME .
 rammed-head.redjoc.cl CNAME .
 *.rammed-head.redjoc.cl CNAME .
-authclever.relaxingco.cl CNAME .
-*.authclever.relaxingco.cl CNAME .
-edu.relaxingco.cl CNAME .
-*.edu.relaxingco.cl CNAME .
-login.relaxingco.cl CNAME .
-*.login.relaxingco.cl CNAME .
-login-ixl.relaxingco.cl CNAME .
-*.login-ixl.relaxingco.cl CNAME .
-loginedu.relaxingco.cl CNAME .
-*.loginedu.relaxingco.cl CNAME .
-mathtips.relaxingco.cl CNAME .
-*.mathtips.relaxingco.cl CNAME .
-profile.relaxingco.cl CNAME .
-*.profile.relaxingco.cl CNAME .
-ratlover284.relaxingco.cl CNAME .
-*.ratlover284.relaxingco.cl CNAME .
 www.securly.com.setto.cl CNAME .
 *.www.securly.com.setto.cl CNAME .
 htmenirbytes.setto.cl CNAME .
@@ -3545,16 +3525,6 @@ qingtongxiaai.cn CNAME .
 *.qingtongxiaai.cn CNAME .
 rubyfish.cn CNAME .
 *.rubyfish.cn CNAME .
-sdfesdfgsf.fghsdfgdr.saahee.cn CNAME .
-*.sdfesdfgsf.fghsdfgdr.saahee.cn CNAME .
-xhcvjesjdfhdjs.iocijkwedsf.saahee.cn CNAME .
-*.xhcvjesjdfhdjs.iocijkwedsf.saahee.cn CNAME .
-pojkldfsdn.sdjkfnm.saahee.cn CNAME .
-*.pojkldfsdn.sdjkfnm.saahee.cn CNAME .
-vxjcklsjdklfjd.wijklkfdsf.saahee.cn CNAME .
-*.vxjcklsjdklfjd.wijklkfdsf.saahee.cn CNAME .
-cxvklkjxcvlksfd.wkjlofdsfe.saahee.cn CNAME .
-*.cxvklkjxcvlksfd.wkjlofdsfe.saahee.cn CNAME .
 us.sc92.cn CNAME .
 *.us.sc92.cn CNAME .
 sfsso.cn CNAME .
@@ -13415,8 +13385,6 @@ adh.olesgroup.com CNAME .
 *.adh.olesgroup.com CNAME .
 myjulain.ololow.com CNAME .
 *.myjulain.ololow.com CNAME .
-hsym6.omallysplayland.com CNAME .
-*.hsym6.omallysplayland.com CNAME .
 baseball.school.omallysplayland.com CNAME .
 *.baseball.school.omallysplayland.com CNAME .
 omegaproxy.com CNAME .
@@ -13931,8 +13899,6 @@ proxandthecity.com CNAME .
 *.proxandthecity.com CNAME .
 proxbomb.com CNAME .
 *.proxbomb.com CNAME .
-proxbud.com CNAME .
-*.proxbud.com CNAME .
 proxery.com CNAME .
 *.proxery.com CNAME .
 proxfree.com CNAME .
@@ -14077,8 +14043,6 @@ proxysheep.com CNAME .
 *.proxysheep.com CNAME .
 proxysite.com CNAME .
 *.proxysite.com CNAME .
-proxyslist.com CNAME .
-*.proxyslist.com CNAME .
 proxysneak.com CNAME .
 *.proxysneak.com CNAME .
 proxysocks5.com CNAME .
@@ -14653,8 +14617,6 @@ geo.searchgpy.com CNAME .
 *.geo.searchgpy.com CNAME .
 gesture.searchgpy.com CNAME .
 *.gesture.searchgpy.com CNAME .
-mathhelp4858.searchgpy.com CNAME .
-*.mathhelp4858.searchgpy.com CNAME .
 sec-tunnel.com CNAME .
 *.sec-tunnel.com CNAME .
 dns.sec511.com CNAME .
@@ -15229,6 +15191,8 @@ us1-browse.startpage.com CNAME .
 *.us1-browse.startpage.com CNAME .
 us2-browse.startpage.com CNAME .
 *.us2-browse.startpage.com CNAME .
+us3-browse.startpage.com CNAME .
+*.us3-browse.startpage.com CNAME .
 starvpn.com CNAME .
 *.starvpn.com CNAME .
 starvpnapp.com CNAME .
@@ -19613,8 +19577,6 @@ unblockit.pages.dev CNAME .
 *.unblockit.pages.dev CNAME .
 uv-staticf.pages.dev CNAME .
 *.uv-staticf.pages.dev CNAME .
-vaporgithub.pages.dev CNAME .
-*.vaporgithub.pages.dev CNAME .
 vaporsite.pages.dev CNAME .
 *.vaporsite.pages.dev CNAME .
 wowinterstellar.pages.dev CNAME .
@@ -20071,8 +20033,6 @@ privacyprotector.eu CNAME .
 *.privacyprotector.eu CNAME .
 proxify.eu CNAME .
 *.proxify.eu CNAME .
-proxite.eu CNAME .
-*.proxite.eu CNAME .
 proxyvpn.eu CNAME .
 *.proxyvpn.eu CNAME .
 dns.rhscz.eu CNAME .
@@ -20751,8 +20711,6 @@ rainshadow.help CNAME .
 *.rainshadow.help CNAME .
 rayvpn.help CNAME .
 *.rayvpn.help CNAME .
-redshieldvpn.help CNAME .
-*.redshieldvpn.help CNAME .
 safevpn.help CNAME .
 *.safevpn.help CNAME .
 satoshivpn.help CNAME .
@@ -21239,12 +21197,6 @@ homelab.terabit.net.id CNAME .
 *.homelab.terabit.net.id CNAME .
 dns.ningkelle.id CNAME .
 *.dns.ningkelle.id CNAME .
-brextyn.malam.or.id CNAME .
-*.brextyn.malam.or.id CNAME .
-gnmathv6.malam.or.id CNAME .
-*.gnmathv6.malam.or.id CNAME .
-hellobeans.malam.or.id CNAME .
-*.hellobeans.malam.or.id CNAME .
 hsd.malam.or.id CNAME .
 *.hsd.malam.or.id CNAME .
 jazz-band-goated.malam.or.id CNAME .
@@ -23209,8 +23161,6 @@ quiz25.live CNAME .
 *.quiz25.live CNAME .
 redshieldvpn.live CNAME .
 *.redshieldvpn.live CNAME .
-rinki.live CNAME .
-*.rinki.live CNAME .
 solaxy.live CNAME .
 *.solaxy.live CNAME .
 speedstream.live CNAME .
@@ -23365,8 +23315,6 @@ privadovpn.lol CNAME .
 *.privadovpn.lol CNAME .
 proxy.lol CNAME .
 *.proxy.lol CNAME .
-quic.lol CNAME .
-*.quic.lol CNAME .
 rainforest.lol CNAME .
 *.rainforest.lol CNAME .
 renvpn.lol CNAME .
@@ -27801,8 +27749,6 @@ buy.patf.net CNAME .
 *.buy.patf.net CNAME .
 shop.patf.net CNAME .
 *.shop.patf.net CNAME .
-pc-kuailian.net CNAME .
-*.pc-kuailian.net CNAME .
 rpz-public-resolver1.rrdns.pch.net CNAME .
 *.rpz-public-resolver1.rrdns.pch.net CNAME .
 manwhyisschoolhard.pepikutan.net CNAME .
@@ -27883,8 +27829,6 @@ proxy2u.net CNAME .
 *.proxy2u.net CNAME .
 proxy5.net CNAME .
 *.proxy5.net CNAME .
-proxyboost.net CNAME .
-*.proxyboost.net CNAME .
 proxycloud.net CNAME .
 *.proxycloud.net CNAME .
 proxydb.net CNAME .
@@ -27951,10 +27895,6 @@ rocketvpn.net CNAME .
 *.rocketvpn.net CNAME .
 roomatic.net CNAME .
 *.roomatic.net CNAME .
-alishnekdi.rotorootie.net CNAME .
-*.alishnekdi.rotorootie.net CNAME .
-asimplesanirb.rotorootie.net CNAME .
-*.asimplesanirb.rotorootie.net CNAME .
 dns.rotunneling.net CNAME .
 *.dns.rotunneling.net CNAME .
 rsocks.net CNAME .
@@ -29411,8 +29351,6 @@ npscalculator.online CNAME .
 *.npscalculator.online CNAME .
 nzdf3hp.online CNAME .
 *.nzdf3hp.online CNAME .
-o5js3jwrldngr.online CNAME .
-*.o5js3jwrldngr.online CNAME .
 oajbubnksxtmwkqamhkddryu.online CNAME .
 *.oajbubnksxtmwkqamhkddryu.online CNAME .
 oaqnpcgpn.online CNAME .
@@ -29439,12 +29377,8 @@ peekvpn.online CNAME .
 *.peekvpn.online CNAME .
 petinom.online CNAME .
 *.petinom.online CNAME .
-pggwprxkfyyesk3gt1lgqbte.online CNAME .
-*.pggwprxkfyyesk3gt1lgqbte.online CNAME .
 phpatewiw.online CNAME .
 *.phpatewiw.online CNAME .
-pilb061.online CNAME .
-*.pilb061.online CNAME .
 pjkwzzz2pi10io7w.online CNAME .
 *.pjkwzzz2pi10io7w.online CNAME .
 protznet.online CNAME .
@@ -29455,22 +29389,16 @@ pvcozadopa50e.online CNAME .
 *.pvcozadopa50e.online CNAME .
 pw7t90o9kvccsjp2pjxgzessp.online CNAME .
 *.pw7t90o9kvccsjp2pjxgzessp.online CNAME .
-q5ww6jjgub59nv8fpu.online CNAME .
-*.q5ww6jjgub59nv8fpu.online CNAME .
 qbcqn17eijd2ow6cun.online CNAME .
 *.qbcqn17eijd2ow6cun.online CNAME .
 qdpswfk9.online CNAME .
 *.qdpswfk9.online CNAME .
 qt8grzqktbipoye.online CNAME .
 *.qt8grzqktbipoye.online CNAME .
-quo7tcjkryxt6w.online CNAME .
-*.quo7tcjkryxt6w.online CNAME .
 qy4jow5snndan.online CNAME .
 *.qy4jow5snndan.online CNAME .
 r6oemdos.online CNAME .
 *.r6oemdos.online CNAME .
-rdg5bdu5xe69euhdliedx.online CNAME .
-*.rdg5bdu5xe69euhdliedx.online CNAME .
 login.readinghelper.online CNAME .
 *.login.readinghelper.online CNAME .
 redshieldvpn.online CNAME .
@@ -30927,16 +30855,6 @@ nordzaixian.org CNAME .
 *.nordzaixian.org CNAME .
 northstreetumc.org CNAME .
 *.northstreetumc.org CNAME .
-carth.ns8.org CNAME .
-*.carth.ns8.org CNAME .
-damua.ns8.org CNAME .
-*.damua.ns8.org CNAME .
-git.ns8.org CNAME .
-*.git.ns8.org CNAME .
-guz.ns8.org CNAME .
-*.guz.ns8.org CNAME .
-song.ns8.org CNAME .
-*.song.ns8.org CNAME .
 nsd160.org CNAME .
 *.nsd160.org CNAME .
 garlandisd.nseuropa.org CNAME .
@@ -30965,10 +30883,6 @@ d.onlyjsmylord.org CNAME .
 *.d.onlyjsmylord.org CNAME .
 ooicat.org CNAME .
 *.ooicat.org CNAME .
-lightspeed2o2urjrbwkwhdidj.openbsd-br.org CNAME .
-*.lightspeed2o2urjrbwkwhdidj.openbsd-br.org CNAME .
-logthspeei3uudidu.openbsd-br.org CNAME .
-*.logthspeei3uudidu.openbsd-br.org CNAME .
 openclash.org CNAME .
 *.openclash.org CNAME .
 ns1.opennameserver.org CNAME .
@@ -31163,8 +31077,6 @@ moise-et-maurice-gardent-la-maison.schneiderus.org CNAME .
 *.moise-et-maurice-gardent-la-maison.schneiderus.org CNAME .
 schoology123.org CNAME .
 *.schoology123.org CNAME .
-schoolsprepared.org CNAME .
-*.schoolsprepared.org CNAME .
 gravity.sciencevictory.org CNAME .
 *.gravity.sciencevictory.org CNAME .
 scientificsense.org CNAME .
@@ -32087,8 +31999,6 @@ peets.pro CNAME .
 *.peets.pro CNAME .
 policlone.pro CNAME .
 *.policlone.pro CNAME .
-primevpn.pro CNAME .
-*.primevpn.pro CNAME .
 dns.privateservices.pro CNAME .
 *.dns.privateservices.pro CNAME .
 proxysite.pro CNAME .
@@ -34641,14 +34551,6 @@ sers.lirlab.su CNAME .
 *.sers.lirlab.su CNAME .
 johnfrost.lumiwow.su CNAME .
 *.johnfrost.lumiwow.su CNAME .
-gtudy.info.north-kazakhstan.su CNAME .
-*.gtudy.info.north-kazakhstan.su CNAME .
-study.info.north-kazakhstan.su CNAME .
-*.study.info.north-kazakhstan.su CNAME .
-www.info.north-kazakhstan.su CNAME .
-*.www.info.north-kazakhstan.su CNAME .
-amp.nov.su CNAME .
-*.amp.nov.su CNAME .
 reniac.su CNAME .
 *.reniac.su CNAME .
 roblugo.su CNAME .
@@ -36319,8 +36221,6 @@ g100.wiki CNAME .
 *.g100.wiki CNAME .
 presidentalhistory.wiki CNAME .
 *.presidentalhistory.wiki CNAME .
-rhehrbrb.wiki CNAME .
-*.rhehrbrb.wiki CNAME .
 rinki.wiki CNAME .
 *.rinki.wiki CNAME .
 secured.wiki CNAME .

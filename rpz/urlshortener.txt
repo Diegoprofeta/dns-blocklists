@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777913760 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777967340 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 May 2026 16:56 UTC
-; Version: 2026.0504.1656.41
+; Last modified: 05 May 2026 07:49 UTC
+; Version: 2026.0505.0749.47
 ; Syntax: RPZ
-; Number of entries: 19874
+; Number of entries: 19846
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -415,8 +415,6 @@ pg3d.app CNAME .
 *.pg3d.app CNAME .
 plannery.app CNAME .
 *.plannery.app CNAME .
-m.presto.app CNAME .
-*.m.presto.app CNAME .
 url.procreatebrushes.app CNAME .
 *.url.procreatebrushes.app CNAME .
 pyt.app CNAME .
@@ -1085,8 +1083,6 @@ mylnk.bio CNAME .
 *.mylnk.bio CNAME .
 myown.bio CNAME .
 *.myown.bio CNAME .
-noni.bio CNAME .
-*.noni.bio CNAME .
 pascol.bio CNAME .
 *.pascol.bio CNAME .
 pawl.bio CNAME .
@@ -5643,8 +5639,6 @@ nikaurl.com CNAME .
 *.nikaurl.com CNAME .
 nipnit.com CNAME .
 *.nipnit.com CNAME .
-njohko.com CNAME .
-*.njohko.com CNAME .
 nkxe.com CNAME .
 *.nkxe.com CNAME .
 nocbic.com CNAME .
@@ -5711,8 +5705,6 @@ okotcha.com CNAME .
 *.okotcha.com CNAME .
 olbika.com CNAME .
 *.olbika.com CNAME .
-olboseo.com CNAME .
-*.olboseo.com CNAME .
 oldmutualsa.com CNAME .
 *.oldmutualsa.com CNAME .
 links.olvtec.com CNAME .
@@ -5735,8 +5727,6 @@ url-server-75g5.onrender.com CNAME .
 *.url-server-75g5.onrender.com CNAME .
 ontwig.com CNAME .
 *.ontwig.com CNAME .
-onwwal.com CNAME .
-*.onwwal.com CNAME .
 opent2.com CNAME .
 *.opent2.com CNAME .
 opizo.com CNAME .
@@ -5759,8 +5749,6 @@ pay.osome.com CNAME .
 *.pay.osome.com CNAME .
 otlnk.com CNAME .
 *.otlnk.com CNAME .
-ouiasso.com CNAME .
-*.ouiasso.com CNAME .
 owalska.com CNAME .
 *.owalska.com CNAME .
 p-url.com CNAME .
@@ -5775,8 +5763,6 @@ biolink.palcurr.com CNAME .
 *.biolink.palcurr.com CNAME .
 palpatecricketmajesty.com CNAME .
 *.palpatecricketmajesty.com CNAME .
-paperspeedy.com CNAME .
-*.paperspeedy.com CNAME .
 parklandssolar.com CNAME .
 *.parklandssolar.com CNAME .
 go.pastemega.com CNAME .
@@ -5865,8 +5851,6 @@ plabtainment.com CNAME .
 *.plabtainment.com CNAME .
 pladollmo.com CNAME .
 *.pladollmo.com CNAME .
-plahxt.com CNAME .
-*.plahxt.com CNAME .
 playsolaire.com CNAME .
 *.playsolaire.com CNAME .
 plinkzy.com CNAME .
@@ -5947,8 +5931,6 @@ qartvb.com CNAME .
 *.qartvb.com CNAME .
 qclickbio.com CNAME .
 *.qclickbio.com CNAME .
-qevime.com CNAME .
-*.qevime.com CNAME .
 url.qhon.com CNAME .
 *.url.qhon.com CNAME .
 qicute.com CNAME .
@@ -6155,8 +6137,6 @@ riot.com CNAME .
 *.riot.com CNAME .
 ritmarket.com CNAME .
 *.ritmarket.com CNAME .
-rlkeps.com CNAME .
-*.rlkeps.com CNAME .
 rmmlink.com CNAME .
 *.rmmlink.com CNAME .
 rngts.com CNAME .
@@ -10577,8 +10557,6 @@ pbs.ink CNAME .
 *.pbs.ink CNAME .
 prel.ink CNAME .
 *.prel.ink CNAME .
-quickshr.ink CNAME .
-*.quickshr.ink CNAME .
 qurrl.ink CNAME .
 *.qurrl.ink CNAME .
 rcl.ink CNAME .
@@ -12791,8 +12769,6 @@ obio.link CNAME .
 *.obio.link CNAME .
 ohmy.link CNAME .
 *.ohmy.link CNAME .
-oikit.link CNAME .
-*.oikit.link CNAME .
 ok.link CNAME .
 *.ok.link CNAME .
 okk.link CNAME .
@@ -16261,8 +16237,6 @@ rdcrss.org CNAME .
 *.rdcrss.org CNAME .
 redditlink.org CNAME .
 *.redditlink.org CNAME .
-rfknow.org CNAME .
-*.rfknow.org CNAME .
 rieketeam.org CNAME .
 *.rieketeam.org CNAME .
 rvrsd.org CNAME .
@@ -19123,8 +19097,6 @@ qutt.us CNAME .
 *.qutt.us CNAME .
 rdee.us CNAME .
 *.rdee.us CNAME .
-readfor.us CNAME .
-*.readfor.us CNAME .
 rec-law.us CNAME .
 *.rec-law.us CNAME .
 redtext.us CNAME .

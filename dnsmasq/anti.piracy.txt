@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 May 2026 16:57 UTC
-# Version: 2026.0504.1657.16
+# Last modified: 05 May 2026 09:54 UTC
+# Version: 2026.0505.0954.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12447
+# Number of entries: 12443
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -6148,6 +6148,7 @@ local=/lemon66.com/
 local=/tracker.lemonhd.com/
 local=/leninist.online/
 local=/tracker.leniter.org/
+local=/tracker.lenition.de/
 local=/leporno.de/
 local=/leporno.org/
 local=/lermangasonline.info/
@@ -7591,7 +7592,6 @@ local=/ntvshara.ru/
 local=/nuclein.beer/
 local=/tracker.nucozer-tracker.ml/
 local=/web1.nugs.net/
-local=/nullclash.org/
 local=/nulleb.com/
 local=/nulled.cx/
 local=/nulled-scripts.cc/
@@ -7707,7 +7707,6 @@ local=/tracker.ololosh.space/
 local=/tracker-de.ololosh.space/
 local=/olympicstreams.co/
 local=/olympicstreams.tv/
-local=/omega-mg8k.cloud/
 local=/omgtorrent.com/
 local=/omgtorrent.cz/
 local=/onalrie.app/
@@ -7930,7 +7929,6 @@ local=/pdfmagazines.club/
 local=/pdfroom.com/
 local=/peace-and.love/
 local=/peckservers.com/
-local=/peerfect.org/
 local=/peers.fm/
 local=/peersteers.org/
 local=/pegleg.it/
@@ -7950,7 +7948,6 @@ local=/pelisflix20.my/
 local=/pelisflix20.net/
 local=/pelisflix20.pro/
 local=/pelisflix20.pw/
-local=/pelisflix20.site/
 local=/pelisflix20.uno/
 local=/pelisflix20.vip/
 local=/pelisplus.blog/
@@ -8261,7 +8258,6 @@ local=/pron4.me/
 local=/proncams.tv/
 local=/propernoun.net/
 local=/prophecywatch.com/
-local=/proporno.org/
 local=/prosmart.by/
 local=/prostylex.org/
 local=/protonmovies.online/
@@ -8399,7 +8395,6 @@ local=/putlockers.am/
 local=/putlockers.bz/
 local=/putlockers.co/
 local=/putlockers.cr/
-local=/putlockers.cz/
 local=/putlockers.fm/
 local=/putlockers.is/
 local=/putlockers.la/
@@ -8587,7 +8582,6 @@ local=/marshilltorrents.redirectme.net/
 local=/redirectnflix.com/
 local=/redlist-ultimate.be/
 local=/redskunk.org/
-local=/redstream.online/
 local=/redump.org/
 local=/redvido.com/
 local=/redwarez.xyz/
@@ -8800,6 +8794,7 @@ local=/bt.saiyaman.info/
 local=/saiyanarena.com/
 local=/tracker.sakurato.art/
 local=/sambd.com/
+local=/tracker.samcze.pl/
 local=/samftp.com/
 local=/movies.samj.app/
 local=/samlab.ws/
@@ -9855,6 +9850,7 @@ local=/streamingcommunityz.yoga/
 local=/streaminggratuit.cc/
 local=/streaminggratuit.rip/
 local=/streamingon.org/
+local=/streamingperlen.de/
 local=/streamingsenzalimiti.net/
 local=/streamingseries.rip/
 local=/streamingunity.autos/

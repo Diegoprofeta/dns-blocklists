@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777913820 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777974840 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 May 2026 16:57 UTC
-; Version: 2026.0504.1657.16
+; Last modified: 05 May 2026 09:54 UTC
+; Version: 2026.0505.0954.52
 ; Syntax: RPZ
-; Number of entries: 24894
+; Number of entries: 24886
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -2294,8 +2294,6 @@ multimovies.cloud CNAME .
 *.multimovies.cloud CNAME .
 musicpleer.cloud CNAME .
 *.musicpleer.cloud CNAME .
-omega-mg8k.cloud CNAME .
-*.omega-mg8k.cloud CNAME .
 pirateproxy.cloud CNAME .
 *.pirateproxy.cloud CNAME .
 purstream.cloud CNAME .
@@ -9188,8 +9186,6 @@ kukaj-to.cz CNAME .
 *.kukaj-to.cz CNAME .
 omgtorrent.cz CNAME .
 *.omgtorrent.cz CNAME .
-putlockers.cz CNAME .
-*.putlockers.cz CNAME .
 streameast.cz CNAME .
 *.streameast.cz CNAME .
 streamingcommunity.cz CNAME .
@@ -9324,6 +9320,8 @@ kinofox.de CNAME .
 *.kinofox.de CNAME .
 kmn-music.de CNAME .
 *.kmn-music.de CNAME .
+tracker.lenition.de CNAME .
+*.tracker.lenition.de CNAME .
 leporno.de CNAME .
 *.leporno.de CNAME .
 movies.levrx.de CNAME .
@@ -9360,6 +9358,8 @@ stiftung-imai.de CNAME .
 *.stiftung-imai.de CNAME .
 streamingcommunity.de CNAME .
 *.streamingcommunity.de CNAME .
+streamingperlen.de CNAME .
+*.streamingperlen.de CNAME .
 throughput.de CNAME .
 *.throughput.de CNAME .
 torrent-hitz.de CNAME .
@@ -16400,8 +16400,6 @@ protonmovies.online CNAME .
 *.protonmovies.online CNAME .
 putlockerss.online CNAME .
 *.putlockerss.online CNAME .
-redstream.online CNAME .
-*.redstream.online CNAME .
 riper.online CNAME .
 *.riper.online CNAME .
 rojadirectahd.online CNAME .
@@ -17622,8 +17620,6 @@ nordicbits.org CNAME .
 *.nordicbits.org CNAME .
 nsw2u.org CNAME .
 *.nsw2u.org CNAME .
-nullclash.org CNAME .
-*.nullclash.org CNAME .
 nulledwarez.org CNAME .
 *.nulledwarez.org CNAME .
 nunflix.org CNAME .
@@ -17664,8 +17660,6 @@ passthepopcorn.org CNAME .
 *.passthepopcorn.org CNAME .
 tracker.pbits.org CNAME .
 *.tracker.pbits.org CNAME .
-peerfect.org CNAME .
-*.peerfect.org CNAME .
 peersteers.org CNAME .
 *.peersteers.org CNAME .
 pelisplus.org CNAME .
@@ -17726,8 +17720,6 @@ proaudiotorrents.org CNAME .
 *.proaudiotorrents.org CNAME .
 udp.tracker.projectk.org CNAME .
 *.udp.tracker.projectk.org CNAME .
-proporno.org CNAME .
-*.proporno.org CNAME .
 prostylex.org CNAME .
 *.prostylex.org CNAME .
 proxifiedpiratebay.org CNAME .
@@ -18656,6 +18648,8 @@ rapidox.pl CNAME .
 *.rapidox.pl CNAME .
 rapids.pl CNAME .
 *.rapids.pl CNAME .
+tracker.samcze.pl CNAME .
+*.tracker.samcze.pl CNAME .
 sat-extreme.pl CNAME .
 *.sat-extreme.pl CNAME .
 sdcv.pl CNAME .
@@ -20652,8 +20646,6 @@ netnaija.site CNAME .
 *.netnaija.site CNAME .
 nightbreeze17.site CNAME .
 *.nightbreeze17.site CNAME .
-pelisflix20.site CNAME .
-*.pelisflix20.site CNAME .
 pirateproxy.site CNAME .
 *.pirateproxy.site CNAME .
 playerhd.site CNAME .

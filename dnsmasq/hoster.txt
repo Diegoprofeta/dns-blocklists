@@ -5,15 +5,20 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 May 2026 18:11 UTC
-# Version: 2026.0504.1811.11
+# Last modified: 05 May 2026 08:43 UTC
+# Version: 2026.0505.0843.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1316
+# Number of entries: 1322
 #
 local=/000a.de/
+local=/000free.us/
+local=/000nethost.com/
 local=/000space.com/
+local=/000webapp.com/
 local=/000webhost.com/
+local=/000webhost.fr/
 local=/000webhostapp.com/
+local=/000worldwide.com/
 local=/00author.com/
 local=/00freehost.com/
 local=/00go.com/
@@ -1087,6 +1092,7 @@ local=/sportsontheweb.net/
 local=/spruz.com/
 local=/srv1.org/
 local=/start.lc/
+local=/start.page/
 local=/startertjes.nl/
 local=/sth.nz/
 local=/stormloader.com/

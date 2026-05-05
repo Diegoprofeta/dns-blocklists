@@ -1,5 +1,9 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/8632
+# AdShield: Many websites do not work when blocked via DNS. The ads can only be blocked via content blockers.
+*.html-load.com
+
 # https://github.com/hagezi/dns-blocklists/issues/10064
 canadiantire.tt.omtrdc.net
 

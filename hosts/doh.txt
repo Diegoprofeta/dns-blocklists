@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 May 2026 16:55 UTC
-# Version: 2026.0504.1655.04
+# Last modified: 05 May 2026 10:01 UTC
+# Version: 2026.0505.1001.36
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3911
+# Number of entries: 3910
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3082,7 +3082,6 @@
 0.0.0.0 2.dnscrypt-cert.quad9.net
 0.0.0.0 dns.quanhd.net
 0.0.0.0 quantumpulse.dev
-0.0.0.0 quic.lol
 0.0.0.0 dns.quickline.ch
 0.0.0.0 doh.quickline.ch
 0.0.0.0 dot.quickline.ch

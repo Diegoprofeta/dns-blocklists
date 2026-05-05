@@ -123,10 +123,6 @@ pinpoint.espn.com
 # https://github.com/hagezi/dns-blocklists/issues/5847
 dai.google.com
 
-# https://github.com/hagezi/dns-blocklists/issues/8632
-# AdShield: Many websites do not work when blocked via DNS. The ads can only be blocked via content blockers.
-*.html-load.com
-
 # https://github.com/hagezi/dns-blocklists/issues/8404
 # https://github.com/hagezi/dns-blocklists/issues/8563
 xga-serving-pa.googleapis.com
@@ -1555,3 +1551,4 @@ z-p4-gateway.facebook.com
 
 # Misc
 *.hagezi.org
+*.dnsbunker.org

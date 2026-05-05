@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777918260 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777970580 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 May 2026 18:11 UTC
-; Version: 2026.0504.1811.11
+; Last modified: 05 May 2026 08:43 UTC
+; Version: 2026.0505.0843.46
 ; Syntax: RPZ
-; Number of entries: 2632
+; Number of entries: 2644
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -202,12 +202,18 @@ synergize.co CNAME .
 *.synergize.co CNAME .
 wapka.co CNAME .
 *.wapka.co CNAME .
+000nethost.com CNAME .
+*.000nethost.com CNAME .
 000space.com CNAME .
 *.000space.com CNAME .
+000webapp.com CNAME .
+*.000webapp.com CNAME .
 000webhost.com CNAME .
 *.000webhost.com CNAME .
 000webhostapp.com CNAME .
 *.000webhostapp.com CNAME .
+000worldwide.com CNAME .
+*.000worldwide.com CNAME .
 00author.com CNAME .
 *.00author.com CNAME .
 00freehost.com CNAME .
@@ -1476,6 +1482,8 @@ webnode.fi CNAME .
 *.webnode.fi CNAME .
 shop.fm CNAME .
 *.shop.fm CNAME .
+000webhost.fr CNAME .
+*.000webhost.fr CNAME .
 blogspot.fr CNAME .
 *.blogspot.fr CNAME .
 eklablog.fr CNAME .
@@ -2312,6 +2320,8 @@ yooco.org CNAME .
 *.yooco.org CNAME .
 mmm.page CNAME .
 *.mmm.page CNAME .
+start.page CNAME .
+*.start.page CNAME .
 webnode.page CNAME .
 *.webnode.page CNAME .
 blogspot.pe CNAME .
@@ -2592,6 +2602,8 @@ webnode.co.uk CNAME .
 *.webnode.co.uk CNAME .
 quiztionnaire.uk CNAME .
 *.quiztionnaire.uk CNAME .
+000free.us CNAME .
+*.000free.us CNAME .
 0fees.us CNAME .
 *.0fees.us CNAME .
 10h.us CNAME .
