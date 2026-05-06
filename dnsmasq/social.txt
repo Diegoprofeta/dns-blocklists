@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Apr 2026 16:59 UTC
-# Version: 2026.0428.1659.56
+# Last modified: 06 May 2026 17:01 UTC
+# Version: 2026.0506.1701.31
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 889
+# Number of entries: 888
 #
 local=/2ch.org/
 local=/4cdn.org/
@@ -854,7 +854,6 @@ local=/urbanists.social/
 local=/userapi.com/
 local=/viewpointsfromfacebook.com/
 local=/vine.co/
-local=/vk-cdn.me/
 local=/vk-cdn.net/
 local=/vk-portal.net/
 local=/vk.cc/

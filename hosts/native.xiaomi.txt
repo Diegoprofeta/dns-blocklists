@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Apr 2026 17:05 UTC
-# Version: 2026.0403.1705.52
+# Last modified: 06 May 2026 17:11 UTC
+# Version: 2026.0506.1711.29
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 470
+# Number of entries: 469
 #
 0.0.0.0 traffic-media.co.uk
 0.0.0.0 mistat.india.xiaomi.com.edgesuite.net
@@ -200,7 +200,6 @@
 0.0.0.0 ad.xiaomi.com
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 cupid.ad.xiaomi.com
-0.0.0.0 databi.ad.xiaomi.com
 0.0.0.0 diagnosis.ad.xiaomi.com
 0.0.0.0 e.ad.xiaomi.com
 0.0.0.0 emi-cube.ad.xiaomi.com

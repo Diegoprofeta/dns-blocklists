@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 May 2026 07:45 UTC
-! Version: 2026.0506.0745.31
+! Last modified: 06 May 2026 17:13 UTC
+! Version: 2026.0506.1713.45
 ! Syntax: AdBlock
-! Number of entries: 14356
+! Number of entries: 14327
 !
 ||01broker.com^
 ||01crypto.com^
@@ -1392,7 +1392,6 @@
 ||betrmode.com^
 ||betrug.law^
 ||betrugs-check.de^
-||betrugsexperten.de^
 ||betrugsrecht.de^
 ||bettbezugrabatt.com^
 ||bettershifting.com^
@@ -1642,7 +1641,6 @@
 ||blyss-shop.de^
 ||bmbgreen.com^
 ||bmcloth.com^
-||bmfflnanzonlinegv.at^
 ||bmpharmacy-official.com^
 ||bmpharmacyofficial.com^
 ||www.crypto2.bnd-group.com^
@@ -2598,7 +2596,6 @@
 ||cook-on-the-bright-side.com^
 ||cookanddinesales.com^
 ||cookskitchen.club^
-||coolcare.mx^
 ||coolgin.com^
 ||cooling-ace.de^
 ||coolsnow.at^
@@ -3135,7 +3132,6 @@
 ||deteufelde.shop^
 ||detlinkx.works^
 ||detoolsshop.com^
-||detson.de^
 ||detsound.com^
 ||detty.co^
 ||deuducht.de^
@@ -3356,7 +3352,6 @@
 ||dptdopni.shop^
 ||dr-estate.com^
 ||dr-kopfhoerer.de^
-||dr-michael-huss.de^
 ||drachekind.de^
 ||dragonballmerch.de^
 ||dramatice.com^
@@ -3710,7 +3705,6 @@
 ||elisabethwien.at^
 ||elisaluna-handel24.de^
 ||elise-schmuck.de^
-||elisirofficial.com^
 ||eliteai-t.com^
 ||elitepie.com^
 ||elitesafetrading.com^
@@ -4374,7 +4368,6 @@
 ||figurenverkauf.com^
 ||figurinestoys.com^
 ||filamniceent.com^
-||fillamoda.com^
 ||fillethumn.com^
 ||fillinger.shop^
 ||filloutlet.com^
@@ -4551,9 +4544,6 @@
 ||fmi-finance.com^
 ||fmtrader.com^
 ||fniyitegeka.org^
-||foamr.ch^
-||foamr.de^
-||foamr.nl^
 ||fodgramstar.com^
 ||foerdertechniks.com^
 ||fogatoshop.com^
@@ -4735,7 +4725,6 @@
 ||fuehrungsregister.de^
 ||fuehrungszeugnis.at^
 ||fuelglovet.com^
-||fuelmeister.de^
 ||fugespace.com^
 ||fugitive.top^
 ||fuhrmann.store^
@@ -5675,7 +5664,6 @@
 ||haustierbedarfshop.com^
 ||haustiererabatt.com^
 ||haustiereshop.com^
-||haustierstolz.de^
 ||haustirwelten.de^
 ||hausture.com^
 ||hausundgarten.haus^
@@ -6691,7 +6679,6 @@
 ||jeulia.de^
 ||jewelleryina.com^
 ||jewelryclaire.com^
-||jewelrymejuri.com^
 ||jewelrynovainc.com^
 ||jgfrqhh.top^
 ||jiajo.com^
@@ -6921,10 +6908,7 @@
 ||kanyecharms.store^
 ||kanziii.net^
 ||kanzlei-keller-luers.de^
-||kanzlei-niva.de^
 ||kanzlei-ra.net^
-||kanzlei-statz.de^
-||kanzlei-zimmermann-partner.com^
 ||kaotikofire.shop^
 ||kapackgmbh.com^
 ||kaperes.com^
@@ -8067,7 +8051,6 @@
 ||manlyfor.com^
 ||manlyhost.com^
 ||mannerapotheke24.com^
-||mannheimmodehaus.com^
 ||mansclothes.com^
 ||mansolutionsgroup.com^
 ||user.manson-group.pro^
@@ -9097,7 +9080,6 @@
 ||nebulain.com^
 ||necessityi.com^
 ||necklaceh.com^
-||neclune.com^
 ||neded.de^
 ||needsary.com^
 ||needtohike.com^
@@ -9555,8 +9537,6 @@
 ||adl.okhxm.shop^
 ||okohausplus.com^
 ||okun.shop^
-||okuracookware.ch^
-||okuracookware.de^
 ||olangdeutschland.de^
 ||olangsdeutschland.de^
 ||olanzas.de^
@@ -9626,7 +9606,6 @@
 ||onkmusic.com^
 ||online-apotek.no^
 ||online-arbeit.com^
-||online-betrugs-hilfe.de^
 ||online-file-converter.com^
 ||online-health-pharm.com^
 ||online-indiegames.de^
@@ -11296,7 +11275,6 @@
 ||schrank-shop.com^
 ||schrankede.com^
 ||schraubenpro.com^
-||schreyer-ra.de^
 ||schuhebaer.com^
 ||schuhegiesswein.com^
 ||schuhegunstignice.de^
@@ -13258,7 +13236,6 @@
 ||vacamy.com^
 ||vacuumed.de^
 ||vaillantproservice.at^
-||market.vailmere.com^
 ||vakrin.com^
 ||valeko.de^
 ||valentinocanada.com^
@@ -13470,13 +13447,11 @@
 ||video-markt.com^
 ||videospiel-markt.de^
 ||vider.fun^
-||vienessa.com^
 ||vienna-modehaus.at^
 ||vienna-stil.at^
 ||viennaapartments.org^
 ||viennaaustrohotel.com^
 ||viennameerschaum.com^
-||viennamode.com^
 ||viennastil.at^
 ||vientooffice.de^
 ||vierjahreszeitengarten.com^
@@ -14229,7 +14204,6 @@
 ||zainabchemicals.com^
 ||zaladowintersale.shop^
 ||zalandode.com^
-||zalandode.top^
 ||zalandonline.de^
 ||zalandoonline.de^
 ||zalandora.com^
@@ -14238,7 +14212,6 @@
 ||zaloweb.me^
 ||zaloweb.pro^
 ||zalvori.com^
-||zaniro.shop^
 ||zanondo.com^
 ||zanvon.com^
 ||zanzea.com^
@@ -14316,12 +14289,10 @@
 ||zilool.com^
 ||zimmerpflanzens.com^
 ||zimtahorn.de^
-||zinniafolkartsdeeu.shop^
 ||zinpp.com^
 ||zinsacm.com^
 ||zinsfuchs.com^
 ||zinsmanager.de^
-||zinzendorf-mode.at^
 ||zipgoat.com^
 ||zirella.de^
 ||zitysports.com^

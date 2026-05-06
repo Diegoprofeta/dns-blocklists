@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 May 2026 09:48 UTC
-# Version: 2026.0506.0948.10
+# Last modified: 06 May 2026 17:00 UTC
+# Version: 2026.0506.1700.54
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 45001
+# Number of entries: 45022
 #
 *.0-bdmbet.com
 *.00.game
@@ -6457,6 +6457,7 @@
 *.ag-vipcasino.com
 *.ag777.monster
 *.agamble.com
+*.agar-io.space
 *.agathacub.com
 *.agbong88.com
 *.agen-bola.org
@@ -19203,6 +19204,7 @@
 *.du88.com
 *.du88.in
 *.du88.info
+*.du88.ink
 *.du88.pro
 *.du88casinobet.com
 *.dubaicasinogamerealmoney.com
@@ -20530,6 +20532,7 @@
 *.ewinner.pl
 *.ex88asia.com
 *.ex88casinobet.com
+*.exatothemoon.online
 *.exbeteu.com
 *.excelbet.ro
 *.excelbetcasinocodbonus.cfd
@@ -20798,6 +20801,7 @@
 *.famecasino-aff103.xyz
 *.famecasino-aff104.xyz
 *.familygameonline.be
+*.familyguiding.com
 *.familytoto4d.com
 *.fan-sport.com
 *.fanaticash.com
@@ -23381,6 +23385,7 @@
 *.harrys-casinos-online.com
 *.harta138slot.com
 *.harybox.com
+*.haseesongandcraft.com
 *.hash.game
 *.hash-lucky-casino.pl
 *.hashflare.io
@@ -23658,6 +23663,7 @@
 *.hira88.com
 *.hispanosnba.com
 *.hit.club
+*.hit-technology.site
 *.hit789.casino
 *.hitamscattercasino.online
 *.hitamscattercasino.site
@@ -31050,6 +31056,7 @@
 *.nonukcasinosforukplayers.com
 *.nonukgccasinos.net
 *.nonukonlinecasinos.com
+*.noose-snus.shop
 *.nopeampi.com
 *.nopein.com
 *.nordestebets.top
@@ -32517,6 +32524,7 @@
 *.ovocasino.com
 *.ovocasino.se
 *.ow5.casino
+*.ow55.net
 *.owasispoker.com
 *.owl888.live
 *.owlcat.games
@@ -32614,6 +32622,8 @@
 *.pafbet.lv
 *.pafcasinofr.com
 *.pafcasinose.com
+*.pafi-kotabekasi.store
+*.pafi-snus.shop
 *.pafibaritokualakab.org
 *.pafibatee.org
 *.pafibintang.site
@@ -32622,18 +32632,27 @@
 *.pafiecekecek.site
 *.pafiempatlawangkab.org
 *.pafigabus.org
+*.pafigedungajibaru.org
 *.pafijateng.site
 *.pafijepon.org
 *.pafikemtuk.org
 *.pafikutamakmur.org
 *.pafilembeantimur.org
 *.pafilumar.org
+*.pafimekarbaru.org
+*.pafimekarjaya.org
+*.pafimempawahtimur.org
+*.pafimukok.org
 *.pafinglegok.org
+*.pafinguling.org
 *.pafipaminggir.org
 *.pafipamonabarat.org
 *.pafipamonautara.org
 *.pafipamukanselatan.org
+*.pafipasimarannu.org
+*.pafipasirsakti.org
 *.pafipelepatilir.org
+*.pafipengaron.org
 *.pafipronojiwo.org
 *.pafipuspo.org
 *.pafitripamakmur.org
@@ -37154,6 +37173,7 @@
 *.securecasino-login.live
 *.securecasino-spin.click
 *.secureonlinecasinowithfastwithdrawaloptions.com
+*.securerpc.com
 *.seedendor.io
 *.seenews.com
 *.segerpark.net
@@ -40543,6 +40563,7 @@
 *.travelrew.com
 *.travesseiropg.com
 *.trbet.com
+*.trdnc.vip
 *.treasure-slots.com
 *.treasureboxbd.net
 *.treasureisland.com
@@ -40782,6 +40803,7 @@
 *.twoupcasino.com
 *.twoupcasinonew.com
 *.tws.bet
+*.twsu8.com
 *.twt777bets.com
 *.tx666casinobet.com
 *.tx68casinobet.com
@@ -44392,6 +44414,7 @@
 *.xparibet.com
 *.xpay168.com
 *.xpgames.bet
+*.xpj6268.net
 *.xqchess.com
 *.xra.casino
 *.xrdevlog.com
@@ -44407,6 +44430,7 @@
 *.xstjdfmb.com
 *.xtip.de
 *.xtpcasino.bio
+*.xu55.vip
 *.xur.casino
 *.xv9.casino
 *.xvipcasinobet.com
@@ -44868,8 +44892,6 @@
 *.zipangcasino.com
 *.zipcasino.com
 *.zipcasino.site
-*.zirvebets-app.com
-*.zirvelbets.com
 *.zitobox.com
 *.zixcasino.ca
 *.zizobet.com
@@ -44899,7 +44921,6 @@
 *.zodiacbet.com
 *.zodiaccasino.com
 *.zodiaccasinopromocode.ca
-*.zoloftp.com
 *.zolotoloto.com
 *.zombie900.pro
 *.zomclubcasinobet.com

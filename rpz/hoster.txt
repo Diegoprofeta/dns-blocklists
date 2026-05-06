@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778056980 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778090820 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 May 2026 08:43 UTC
-; Version: 2026.0506.0843.26
+; Last modified: 06 May 2026 18:07 UTC
+; Version: 2026.0506.1807.26
 ; Syntax: RPZ
-; Number of entries: 2644
+; Number of entries: 2650
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -38,6 +38,8 @@ qu.am CNAME .
 *.qu.am CNAME .
 4everland.app CNAME .
 *.4everland.app CNAME .
+ic0.app CNAME .
+*.ic0.app CNAME .
 teleporthq.app CNAME .
 *.teleporthq.app CNAME .
 h4g3z1-hoster.web.app CNAME .
@@ -514,6 +516,8 @@ comxa.com CNAME .
 *.comxa.com CNAME .
 conohawing.com CNAME .
 *.conohawing.com CNAME .
+convertri.com CNAME .
+*.convertri.com CNAME .
 coolfreepages.com CNAME .
 *.coolfreepages.com CNAME .
 128-199-7-137.cprapid.com CNAME .
@@ -1776,6 +1780,8 @@ seite.info CNAME .
 *.8b.io CNAME .
 boxmode.io CNAME .
 *.boxmode.io CNAME .
+ghost.io CNAME .
+*.ghost.io CNAME .
 dcr.sehlat.io CNAME .
 *.dcr.sehlat.io CNAME .
 soup.io CNAME .

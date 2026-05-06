@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 May 2026 09:54 UTC
-# Version: 2026.0506.0954.41
+# Last modified: 06 May 2026 16:53 UTC
+# Version: 2026.0506.1653.24
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
-# Number of entries: 435
+# Number of entries: 434
 #
 0.0.0.0 ss.0001.xyz 003153.xyz ns.00dani.me dns.010812.xyz dns.080590.xyz 0815cloud.de adblock.0815cloud.de passwordsafe.0815cloud.de wlan.0815cloud.de
 0.0.0.0 0ms.dev cdn.0ms.dev dns.0ooo.icu 1.0rz.space 2.0rz.space adguardhome.0x4min.xyz dns.0x55.net dns-revers.1-au.net hk.100992.xyz
@@ -440,9 +440,8 @@
 0.0.0.0 adguard.ygd.lol ns6.ygy.ru dns.yingroad.top appart.yoannchappaz.best hk.yoosoo.cc com.you-seen.fr net01.youcef.io adguard.youler.com dns.youni.win
 0.0.0.0 your-dns.run yovbak.com guard.yps.tw ys4.de dus.ysbs.uk dns.ytpom.ru dns2.ytpom.ru dns.yu.dev adguard.yuki2th.xyz
 0.0.0.0 yundun.icu httpdns.yunxindns.com s1.yushuncompany.com dns.yuu-g.net yuvelirtut.website dns.yuyz.net dns.yuzia.cc httpdns.gslb.yy.com dns.yyaan.com
-0.0.0.0 dns.yyaan.top adg.yybyy.wiki dns.daemon.za.net zabolotskikh.dev dns.zachbosh.com adguard.zachitect.com zakaria.website sdns.zakaria.website akylah.zapto.org
-0.0.0.0 dns.zarchbox.fr zaziss.com zburger.top zdn.ro register.zedzander.com dns.zemows.industries adguard-kartoffel.zernico.de oraclejp01.zerotorez.com dns.zfsystem.tech
-0.0.0.0 d.zhanchuraevv.ru zhengkaiyun.top httpdns.zhihu.com doh.zhongbr.uk res.zijji.com adguard01.zitronen-server.de doh.zknt.org dns.zky666.fun xyz2.zmjflow.com
-0.0.0.0 xyz3.zmjflow.com dns.zmobiletech.com online.zotio.ru zougloub.eu d.zscale.gq ztv.su lookup.zucx.net dns.zui.lol zulkas.top
-0.0.0.0 httpdns.zybang.com ams.core.access.zznet.fun hkg.core.access.zznet.fun lax.core.access.zznet.fun nrt.core.access.zznet.fun sin.core.access.zznet.fun syd.core.access.zznet.fun hkg2.edge.access.zznet.fun sin2.edge.access.zznet.fun
-0.0.0.0 dns.zzuhacker.cn 
+0.0.0.0 dns.yyaan.top adg.yybyy.wiki dns.daemon.za.net zabolotskikh.dev adguard.zachitect.com zakaria.website sdns.zakaria.website akylah.zapto.org dns.zarchbox.fr
+0.0.0.0 zaziss.com zburger.top zdn.ro register.zedzander.com dns.zemows.industries adguard-kartoffel.zernico.de oraclejp01.zerotorez.com dns.zfsystem.tech d.zhanchuraevv.ru
+0.0.0.0 zhengkaiyun.top httpdns.zhihu.com doh.zhongbr.uk res.zijji.com adguard01.zitronen-server.de doh.zknt.org dns.zky666.fun xyz2.zmjflow.com xyz3.zmjflow.com
+0.0.0.0 dns.zmobiletech.com online.zotio.ru zougloub.eu d.zscale.gq ztv.su dns.zui.lol zulkas.top httpdns.zybang.com ams.core.access.zznet.fun
+0.0.0.0 hkg.core.access.zznet.fun lax.core.access.zznet.fun nrt.core.access.zznet.fun sin.core.access.zznet.fun syd.core.access.zznet.fun hkg2.edge.access.zznet.fun sin2.edge.access.zznet.fun dns.zzuhacker.cn 

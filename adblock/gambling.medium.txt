@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 May 2026 09:46 UTC
-! Version: 2026.0506.0946.38
+! Last modified: 06 May 2026 16:58 UTC
+! Version: 2026.0506.1658.47
 ! Syntax: AdBlock
-! Number of entries: 100318
+! Number of entries: 100336
 !
 ||0-0-7casino.com^
 ||0-0-casino.com^
@@ -13124,6 +13124,7 @@
 ||ag777.monster^
 ||ag777slots.com^
 ||agamble.com^
+||agar-io.space^
 ||agathacub.com^
 ||agb188.org^
 ||agbong88.com^
@@ -14385,6 +14386,7 @@
 ||applebet365.com^
 ||applecasinoguncel.com^
 ||appleicasino.net^
+||applelucky.app^
 ||applepay-casino-es.net^
 ||applepaycasino.de^
 ||applepaycasino.dk^
@@ -41731,6 +41733,7 @@
 ||du88.com^
 ||du88.in^
 ||du88.info^
+||du88.ink^
 ||du88.pro^
 ||du88casinobet.com^
 ||dubaicasino.us^
@@ -44751,6 +44754,7 @@
 ||ex88asia.com^
 ||ex88casinobet.com^
 ||exabets.com^
+||exatothemoon.online^
 ||exbet66.com^
 ||exbeteu.com^
 ||excel-bets.com^
@@ -45348,6 +45352,7 @@
 ||famecasinogiris.online^
 ||family-game-online-casino-be.com^
 ||familygameonline.be^
+||familyguiding.com^
 ||familytoto4d.com^
 ||famousbiography.net^
 ||fan-sport.com^
@@ -51353,6 +51358,7 @@
 ||harusmaju.com^
 ||harvestclay.com^
 ||harybox.com^
+||haseesongandcraft.com^
 ||hash.game^
 ||hash-lucky-casino.pl^
 ||hashcracking.ru^
@@ -51944,6 +51950,7 @@
 ||hispanosnba.com^
 ||historyofgreekfood.org^
 ||hit.club^
+||hit-technology.site^
 ||hit21.club^
 ||hit32.club^
 ||hit789.casino^
@@ -68719,6 +68726,7 @@
 ||nonukonlinecasinos.com^
 ||noodlespin-casino.pt^
 ||noodlespincasino.pt^
+||noose-snus.shop^
 ||nopeampi.com^
 ||nopein.com^
 ||nordestebets.top^
@@ -71918,6 +71926,7 @@
 ||ovocasino.se^
 ||ow-journey.com^
 ||ow5.casino^
+||ow55.net^
 ||ow7.casino^
 ||owasispoker.com^
 ||owl888.live^
@@ -72129,6 +72138,8 @@
 ||pafbet.lv^
 ||pafcasinofr.com^
 ||pafcasinose.com^
+||pafi-kotabekasi.store^
+||pafi-snus.shop^
 ||pafibarat.org^
 ||pafibaritokualakab.org^
 ||pafibatee.org^
@@ -72139,6 +72150,7 @@
 ||pafiecekecek.site^
 ||pafiempatlawangkab.org^
 ||pafigabus.org^
+||pafigedungajibaru.org^
 ||pafijateng.site^
 ||pafijepon.org^
 ||pafikabkutai.org^
@@ -72156,15 +72168,23 @@
 ||pafilembeantimur.org^
 ||pafilumar.org^
 ||pafimedan.shop^
+||pafimekarbaru.org^
+||pafimekarjaya.org^
+||pafimempawahtimur.org^
+||pafimukok.org^
 ||pafinagahimalaya.org^
 ||pafinglegok.org^
+||pafinguling.org^
 ||pafipaminggir.org^
 ||pafipamonabarat.org^
 ||pafipamonautara.org^
 ||pafipamukanselatan.org^
 ||pafipapekalongan.org^
+||pafipasimarannu.org^
+||pafipasirsakti.org^
 ||pafipelepatilir.org^
 ||pafipemenang.org^
+||pafipengaron.org^
 ||pafipronojiwo.org^
 ||pafipuspo.org^
 ||pafirakenpet.org^
@@ -82336,6 +82356,7 @@
 ||securecasino-spin.click^
 ||securecryptocasinos.net^
 ||secureonlinecasinowithfastwithdrawaloptions.com^
+||securerpc.com^
 ||securetcasino-giris.click^
 ||securityforge.ca^
 ||sedvodka-casino.space^
@@ -90214,6 +90235,7 @@
 ||trcasino-spin.top^
 ||trcasinoerisim.com^
 ||trcasinonetwork.link^
+||trdnc.vip^
 ||treasia-design.com^
 ||treasure-cove-casino.ca^
 ||treasure-slots.com^
@@ -90782,6 +90804,7 @@
 ||twoupcasinonew.com^
 ||twoupcasinopokies.com^
 ||tws.bet^
+||twsu8.com^
 ||twt777bets.com^
 ||twtapps.com^
 ||tx666casinobet.com^
@@ -98873,6 +98896,7 @@
 ||xparibet.com^
 ||xpay168.com^
 ||xpgames.bet^
+||xpj6268.net^
 ||xpt-poker.com^
 ||xqchess.com^
 ||xra.casino^
@@ -98909,6 +98933,7 @@
 ||xtremeslotscasino.com^
 ||xts.casino^
 ||xty661.com^
+||xu55.vip^
 ||xud.casino^
 ||xur.casino^
 ||xuxubets.com^
@@ -99921,7 +99946,6 @@
 ||zeusvipslots.xyz^
 ||zeuswin.shop^
 ||zeuswincasinofr.shop^
-||zevbets.com^
 ||zezebets.com^
 ||zfm.casino^
 ||zfn.casino^
@@ -100000,9 +100024,6 @@
 ||zipcasino-login.live^
 ||zipcasino-sports.bet^
 ||zipcasinos.net^
-||zirvebets-app.com^
-||zirvebets1.com^
-||zirvelbets.com^
 ||zitobox.com^
 ||ziw.casino^
 ||zixcasino.ca^
@@ -100038,7 +100059,6 @@
 ||zo91isw.com^
 ||zobetslot.com^
 ||zoccer-casino.bet^
-||zoccer-casino.ink^
 ||zoccer-casino.pro^
 ||zoccer-casino-cz.com^
 ||zoccer-casino-es.com^
@@ -100084,7 +100104,6 @@
 ||zodiaccasinosistersites.online^
 ||zodiaccasinosnz.com^
 ||zolobet.pro^
-||zoloftp.com^
 ||zolotoloto.com^
 ||zom55.com^
 ||zoma-casino-zooma.top^
@@ -100288,7 +100307,6 @@
 ||zx88casinovip.com^
 ||zx8j.casino^
 ||zxcvbnm.shop^
-||zxx.casino^
 ||zy4z.casino^
 ||zyngapoker.com^
 ||zyngapoker.io^

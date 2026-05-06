@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 May 2026 09:55 UTC
-# Version: 2026.0506.0955.32
+# Last modified: 06 May 2026 16:54 UTC
+# Version: 2026.0506.1654.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 18261
+# Number of entries: 18257
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -18011,7 +18011,6 @@ local=/yyssr.org/
 local=/yyvjf.cn/
 local=/z01g.com/
 local=/z04g.com/
-local=/z0yo7ww.online/
 local=/z10g.org/
 local=/z11g.com/
 local=/z1j9ortoc.online/
@@ -18023,7 +18022,6 @@ local=/dns.daemon.za.net/
 local=/ask.teaching.za.com/
 local=/zabolotskikh.dev/
 local=/zaborona.help/
-local=/dns.zachbosh.com/
 local=/adguard.zachitect.com/
 local=/zadmin.dev/
 local=/zagbit.com/
@@ -18222,7 +18220,6 @@ local=/online.zotio.ru/
 local=/vpn.zotus.ru/
 local=/zougloub.eu/
 local=/zpath.net/
-local=/zpn.im/
 local=/zproxy.org/
 local=/zqazgydo.cc/
 local=/zqntvkud.cc/
@@ -18237,7 +18234,6 @@ local=/ztpvqxcr.cc/
 local=/zttqwgui.com/
 local=/ztv.su/
 local=/ztz-100.net/
-local=/lookup.zucx.net/
 local=/zugvpn.help/
 local=/dns.zui.lol/
 local=/zulkas.top/

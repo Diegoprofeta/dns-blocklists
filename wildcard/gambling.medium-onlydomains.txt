@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 May 2026 09:46 UTC
-# Version: 2026.0506.0946.38
+# Last modified: 06 May 2026 16:58 UTC
+# Version: 2026.0506.1658.47
 # Syntax: Domains (without subdomains)
-# Number of entries: 100318
+# Number of entries: 100336
 #
 0-0-7casino.com
 0-0-casino.com
@@ -13123,6 +13123,7 @@ ag53915.top
 ag777.monster
 ag777slots.com
 agamble.com
+agar-io.space
 agathacub.com
 agb188.org
 agbong88.com
@@ -14384,6 +14385,7 @@ appjlhb.top
 applebet365.com
 applecasinoguncel.com
 appleicasino.net
+applelucky.app
 applepay-casino-es.net
 applepaycasino.de
 applepaycasino.dk
@@ -41730,6 +41732,7 @@ du88.club
 du88.com
 du88.in
 du88.info
+du88.ink
 du88.pro
 du88casinobet.com
 dubaicasino.us
@@ -44750,6 +44753,7 @@ ewinner.pl
 ex88asia.com
 ex88casinobet.com
 exabets.com
+exatothemoon.online
 exbet66.com
 exbeteu.com
 excel-bets.com
@@ -45347,6 +45351,7 @@ famecasinobatumi.vip
 famecasinogiris.online
 family-game-online-casino-be.com
 familygameonline.be
+familyguiding.com
 familytoto4d.com
 famousbiography.net
 fan-sport.com
@@ -51352,6 +51357,7 @@ harum77.vip
 harusmaju.com
 harvestclay.com
 harybox.com
+haseesongandcraft.com
 hash.game
 hash-lucky-casino.pl
 hashcracking.ru
@@ -51943,6 +51949,7 @@ hisbets.com
 hispanosnba.com
 historyofgreekfood.org
 hit.club
+hit-technology.site
 hit21.club
 hit32.club
 hit789.casino
@@ -68718,6 +68725,7 @@ nonukgccasinos.net
 nonukonlinecasinos.com
 noodlespin-casino.pt
 noodlespincasino.pt
+noose-snus.shop
 nopeampi.com
 nopein.com
 nordestebets.top
@@ -71917,6 +71925,7 @@ ovocasino.org
 ovocasino.se
 ow-journey.com
 ow5.casino
+ow55.net
 ow7.casino
 owasispoker.com
 owl888.live
@@ -72128,6 +72137,8 @@ paf-casino-sverige.com
 pafbet.lv
 pafcasinofr.com
 pafcasinose.com
+pafi-kotabekasi.store
+pafi-snus.shop
 pafibarat.org
 pafibaritokualakab.org
 pafibatee.org
@@ -72138,6 +72149,7 @@ pafidapurbet.info
 pafiecekecek.site
 pafiempatlawangkab.org
 pafigabus.org
+pafigedungajibaru.org
 pafijateng.site
 pafijepon.org
 pafikabkutai.org
@@ -72155,15 +72167,23 @@ pafikutamakmur.org
 pafilembeantimur.org
 pafilumar.org
 pafimedan.shop
+pafimekarbaru.org
+pafimekarjaya.org
+pafimempawahtimur.org
+pafimukok.org
 pafinagahimalaya.org
 pafinglegok.org
+pafinguling.org
 pafipaminggir.org
 pafipamonabarat.org
 pafipamonautara.org
 pafipamukanselatan.org
 pafipapekalongan.org
+pafipasimarannu.org
+pafipasirsakti.org
 pafipelepatilir.org
 pafipemenang.org
+pafipengaron.org
 pafipronojiwo.org
 pafipuspo.org
 pafirakenpet.org
@@ -82335,6 +82355,7 @@ securecasino-login.live
 securecasino-spin.click
 securecryptocasinos.net
 secureonlinecasinowithfastwithdrawaloptions.com
+securerpc.com
 securetcasino-giris.click
 securityforge.ca
 sedvodka-casino.space
@@ -90213,6 +90234,7 @@ trcasino-livebet.click
 trcasino-spin.top
 trcasinoerisim.com
 trcasinonetwork.link
+trdnc.vip
 treasia-design.com
 treasure-cove-casino.ca
 treasure-slots.com
@@ -90781,6 +90803,7 @@ twoupcasino-au.org
 twoupcasinonew.com
 twoupcasinopokies.com
 tws.bet
+twsu8.com
 twt777bets.com
 twtapps.com
 tx666casinobet.com
@@ -98872,6 +98895,7 @@ xpage777.net
 xparibet.com
 xpay168.com
 xpgames.bet
+xpj6268.net
 xpt-poker.com
 xqchess.com
 xra.casino
@@ -98908,6 +98932,7 @@ xtremebingoslotsbingogame2026.com
 xtremeslotscasino.com
 xts.casino
 xty661.com
+xu55.vip
 xud.casino
 xur.casino
 xuxubets.com
@@ -99920,7 +99945,6 @@ zeusslots.org
 zeusvipslots.xyz
 zeuswin.shop
 zeuswincasinofr.shop
-zevbets.com
 zezebets.com
 zfm.casino
 zfn.casino
@@ -99999,9 +100023,6 @@ zipcasino-de.com
 zipcasino-login.live
 zipcasino-sports.bet
 zipcasinos.net
-zirvebets-app.com
-zirvebets1.com
-zirvelbets.com
 zitobox.com
 ziw.casino
 zixcasino.ca
@@ -100037,7 +100058,6 @@ zo88casinobet.com
 zo91isw.com
 zobetslot.com
 zoccer-casino.bet
-zoccer-casino.ink
 zoccer-casino.pro
 zoccer-casino-cz.com
 zoccer-casino-es.com
@@ -100083,7 +100103,6 @@ zodiaccasinopromocode.ca
 zodiaccasinosistersites.online
 zodiaccasinosnz.com
 zolobet.pro
-zoloftp.com
 zolotoloto.com
 zom55.com
 zoma-casino-zooma.top
@@ -100287,7 +100306,6 @@ zx777slots.com
 zx88casinovip.com
 zx8j.casino
 zxcvbnm.shop
-zxx.casino
 zy4z.casino
 zyngapoker.com
 zyngapoker.io

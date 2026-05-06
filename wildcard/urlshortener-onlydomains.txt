@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 May 2026 07:47 UTC
-# Version: 2026.0506.0747.24
+# Last modified: 06 May 2026 16:54 UTC
+# Version: 2026.0506.1654.49
 # Syntax: Domains (without subdomains)
-# Number of entries: 9894
+# Number of entries: 9891
 #
 0.gp
 00m.in
@@ -9758,7 +9758,6 @@ z5h.cn
 z6c.de
 z9.fr
 z9n.net
-zabipu.com
 2b1s.zacharyhurdle.com
 zain.jo
 zak.by
@@ -9768,7 +9767,6 @@ zapurl.me
 zapurl.net
 zapurls.com
 zarnecka.com
-zass.to
 zaya.io
 s.zazuko.com
 zbitly.com
@@ -9858,7 +9856,6 @@ zopen.to
 go.zordo.in
 go.zordo.net
 zort.me
-zort.my
 zorts.me
 zotter.click
 zotter.link

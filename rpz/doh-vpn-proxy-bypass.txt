@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778061300 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778086440 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 May 2026 09:55 UTC
-; Version: 2026.0506.0955.32
+; Last modified: 06 May 2026 16:54 UTC
+; Version: 2026.0506.1654.08
 ; Syntax: RPZ
-; Number of entries: 36522
+; Number of entries: 36514
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -17479,8 +17479,6 @@ z3d9.com CNAME .
 *.z3d9.com CNAME .
 ask.teaching.za.com CNAME .
 *.ask.teaching.za.com CNAME .
-dns.zachbosh.com CNAME .
-*.dns.zachbosh.com CNAME .
 adguard.zachitect.com CNAME .
 *.adguard.zachitect.com CNAME .
 zagbit.com CNAME .
@@ -20243,8 +20241,6 @@ unp.im CNAME .
 *.unp.im CNAME .
 vanyavpn.im CNAME .
 *.vanyavpn.im CNAME .
-zpn.im CNAME .
-*.zpn.im CNAME .
 pork.immo CNAME .
 *.pork.immo CNAME .
 y3suyx0cg2lewi2dmn.advaitghaisas.in CNAME .
@@ -27441,8 +27437,6 @@ zscalertwo.net CNAME .
 *.zscalertwo.net CNAME .
 ztz-100.net CNAME .
 *.ztz-100.net CNAME .
-lookup.zucx.net CNAME .
-*.lookup.zucx.net CNAME .
 aioz.network CNAME .
 *.aioz.network CNAME .
 dns.b33.network CNAME .
@@ -28407,8 +28401,6 @@ yrpr48mox1f0iv1.online CNAME .
 *.yrpr48mox1f0iv1.online CNAME .
 ywtm5afvcjjihelual.online CNAME .
 *.ywtm5afvcjjihelual.online CNAME .
-z0yo7ww.online CNAME .
-*.z0yo7ww.online CNAME .
 z1j9ortoc.online CNAME .
 *.z1j9ortoc.online CNAME .
 z2l8ae5mv83sgzkutimxp.online CNAME .

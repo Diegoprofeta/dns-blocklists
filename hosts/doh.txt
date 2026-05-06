@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 May 2026 09:54 UTC
-# Version: 2026.0506.0954.41
+# Last modified: 06 May 2026 16:53 UTC
+# Version: 2026.0506.1653.24
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3907
+# Number of entries: 3905
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3876,7 +3876,6 @@
 0.0.0.0 adg.yybyy.wiki
 0.0.0.0 dns.daemon.za.net
 0.0.0.0 zabolotskikh.dev
-0.0.0.0 dns.zachbosh.com
 0.0.0.0 adguard.zachitect.com
 0.0.0.0 zakaria.website
 0.0.0.0 sdns.zakaria.website
@@ -3905,7 +3904,6 @@
 0.0.0.0 zougloub.eu
 0.0.0.0 d.zscale.gq
 0.0.0.0 ztv.su
-0.0.0.0 lookup.zucx.net
 0.0.0.0 dns.zui.lol
 0.0.0.0 zulkas.top
 0.0.0.0 httpdns.zybang.com

@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 May 2026 09:55 UTC
-! Version: 2026.0506.0955.32
+! Last modified: 06 May 2026 16:54 UTC
+! Version: 2026.0506.1654.08
 ! Syntax: AdBlock
-! Number of entries: 18261
+! Number of entries: 18257
 !
 ||000000555.xyz^
 ||ss.0001.xyz^
@@ -18012,7 +18012,6 @@
 ||yyvjf.cn^
 ||z01g.com^
 ||z04g.com^
-||z0yo7ww.online^
 ||z10g.org^
 ||z11g.com^
 ||z1j9ortoc.online^
@@ -18024,7 +18023,6 @@
 ||ask.teaching.za.com^
 ||zabolotskikh.dev^
 ||zaborona.help^
-||dns.zachbosh.com^
 ||adguard.zachitect.com^
 ||zadmin.dev^
 ||zagbit.com^
@@ -18223,7 +18221,6 @@
 ||vpn.zotus.ru^
 ||zougloub.eu^
 ||zpath.net^
-||zpn.im^
 ||zproxy.org^
 ||zqazgydo.cc^
 ||zqntvkud.cc^
@@ -18238,7 +18235,6 @@
 ||zttqwgui.com^
 ||ztv.su^
 ||ztz-100.net^
-||lookup.zucx.net^
 ||zugvpn.help^
 ||dns.zui.lol^
 ||zulkas.top^

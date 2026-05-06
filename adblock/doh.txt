@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 May 2026 09:54 UTC
-! Version: 2026.0506.0954.41
+! Last modified: 06 May 2026 16:53 UTC
+! Version: 2026.0506.1653.24
 ! Syntax: AdBlock
-! Number of entries: 3447
+! Number of entries: 3445
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -3418,7 +3418,6 @@
 ||adg.yybyy.wiki^
 ||dns.daemon.za.net^
 ||zabolotskikh.dev^
-||dns.zachbosh.com^
 ||adguard.zachitect.com^
 ||zakaria.website^
 ||akylah.zapto.org^
@@ -3446,7 +3445,6 @@
 ||zougloub.eu^
 ||d.zscale.gq^
 ||ztv.su^
-||lookup.zucx.net^
 ||dns.zui.lol^
 ||zulkas.top^
 ||httpdns.zybang.com^

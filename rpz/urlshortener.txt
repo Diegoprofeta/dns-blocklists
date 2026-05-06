@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778053620 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778086440 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 May 2026 07:47 UTC
-; Version: 2026.0506.0747.24
+; Last modified: 06 May 2026 16:54 UTC
+; Version: 2026.0506.1654.49
 ; Syntax: RPZ
-; Number of entries: 19788
+; Number of entries: 19782
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -7767,8 +7767,6 @@ z-url.com CNAME .
 *.z-url.com CNAME .
 z4sh.com CNAME .
 *.z4sh.com CNAME .
-zabipu.com CNAME .
-*.zabipu.com CNAME .
 2b1s.zacharyhurdle.com CNAME .
 *.2b1s.zacharyhurdle.com CNAME .
 zaplinkz.com CNAME .
@@ -14819,8 +14817,6 @@ wz.my CNAME .
 *.wz.my CNAME .
 zlr.my CNAME .
 *.zlr.my CNAME .
-zort.my CNAME .
-*.zort.my CNAME .
 zynga.my CNAME .
 *.zynga.my CNAME .
 aet.na CNAME .
@@ -18381,8 +18377,6 @@ yorl.to CNAME .
 *.yorl.to CNAME .
 youlink.to CNAME .
 *.youlink.to CNAME .
-zass.to CNAME .
-*.zass.to CNAME .
 zopen.to CNAME .
 *.zopen.to CNAME .
 zyp.to CNAME .

@@ -3158,6 +3158,13 @@
       }
     },
     {
+      "PK": "convertri.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "cool.hn",
       "action": {
         "do": 0,
@@ -4607,6 +4614,13 @@
       }
     },
     {
+      "PK": "ghost.io",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "gilde.in",
       "action": {
         "do": 0,
@@ -5056,6 +5070,13 @@
     },
     {
       "PK": "iblogger.org",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ic0.app",
       "action": {
         "do": 0,
         "status": 1
