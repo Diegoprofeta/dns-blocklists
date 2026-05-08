@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778143800 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778230080 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 May 2026 08:50 UTC
-; Version: 2026.0507.0850.25
+; Last modified: 08 May 2026 08:48 UTC
+; Version: 2026.0508.0848.34
 ; Syntax: RPZ
-; Number of entries: 2652
+; Number of entries: 2654
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -38,12 +38,16 @@ qu.am CNAME .
 *.qu.am CNAME .
 4everland.app CNAME .
 *.4everland.app CNAME .
+created.app CNAME .
+*.created.app CNAME .
 ic0.app CNAME .
 *.ic0.app CNAME .
 teleporthq.app CNAME .
 *.teleporthq.app CNAME .
 h4g3z1-hoster.web.app CNAME .
 *.h4g3z1-hoster.web.app CNAME .
+zapier.app CNAME .
+*.zapier.app CNAME .
 blogspot.com.ar CNAME .
 *.blogspot.com.ar CNAME .
 114.at CNAME .
@@ -382,8 +386,6 @@ bloggactif.com CNAME .
 *.bloggactif.com CNAME .
 bloggazzo.com CNAME .
 *.bloggazzo.com CNAME .
-blogger.com CNAME .
-*.blogger.com CNAME .
 bloggerchest.com CNAME .
 *.bloggerchest.com CNAME .
 bloggin-ads.com CNAME .
@@ -734,6 +736,8 @@ homestead.com CNAME .
 *.homestead.com CNAME .
 hostedforfree.com CNAME .
 *.hostedforfree.com CNAME .
+hostingersite.com CNAME .
+*.hostingersite.com CNAME .
 hostingsiteforfree.com CNAME .
 *.hostingsiteforfree.com CNAME .
 hostkda.com CNAME .
@@ -922,8 +926,6 @@ royal-host.com CNAME .
 *.royal-host.com CNAME .
 rozblog.com CNAME .
 *.rozblog.com CNAME .
-rssing.com CNAME .
-*.rssing.com CNAME .
 runhosting.com CNAME .
 *.runhosting.com CNAME .
 schoolrack.com CNAME .
@@ -936,8 +938,6 @@ seite.com CNAME .
 *.seite.com CNAME .
 sharkserve.com CNAME .
 *.sharkserve.com CNAME .
-shivtr.com CNAME .
-*.shivtr.com CNAME .
 simdif.com CNAME .
 *.simdif.com CNAME .
 sitepalace.com CNAME .
@@ -1508,6 +1508,8 @@ de.gd CNAME .
 *.de.gd CNAME .
 rf.gd CNAME .
 *.rf.gd CNAME .
+example-website.work.gd CNAME .
+*.example-website.work.gd CNAME .
 24.gg CNAME .
 *.24.gg CNAME .
 eu.gg CNAME .

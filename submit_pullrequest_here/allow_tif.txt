@@ -56,6 +56,7 @@ jjpool.fr
 *.goatcounter.com
 *.gofile.io
 *.gov-static.tech
+*.mullvad.net
 *.qcloudteo.com
 *.santandermedia.com
 *.suijinetworks.com

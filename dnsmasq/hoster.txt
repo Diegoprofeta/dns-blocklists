@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 May 2026 08:50 UTC
-# Version: 2026.0507.0850.25
+# Last modified: 08 May 2026 08:48 UTC
+# Version: 2026.0508.0848.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1326
+# Number of entries: 1327
 #
 local=/000a.de/
 local=/000free.us/
@@ -255,7 +255,6 @@ local=/blogg.se/
 local=/bloggactif.com/
 local=/bloggazzo.com/
 local=/blogger.ba/
-local=/blogger.com/
 local=/blogger.hu/
 local=/bloggerchest.com/
 local=/bloggin-ads.com/
@@ -478,6 +477,7 @@ local=/208-115-225-138.cprapid.com/
 local=/3-89-181-9.cprapid.com/
 local=/sitebeat.crazydomains.com/
 local=/creacionblog.com/
+local=/created.app/
 local=/creatorlink.net/
 local=/cryptonight.net/
 local=/cs-clan.org/
@@ -718,6 +718,7 @@ local=/host.sk/
 local=/hostedforfree.com/
 local=/hostfree.pw/
 local=/hostingas.in/
+local=/hostingersite.com/
 local=/hostingsiteforfree.com/
 local=/hostkda.com/
 local=/hostland.pro/
@@ -1031,7 +1032,6 @@ local=/rf.gd/
 local=/ro.gp/
 local=/royal-host.com/
 local=/rozblog.com/
-local=/rssing.com/
 local=/ru.cm/
 local=/ru.gp/
 local=/ru.nu/
@@ -1064,7 +1064,6 @@ local=/service.lc/
 local=/share.lc/
 local=/sharkserve.com/
 local=/blog.shinobi.jp/
-local=/shivtr.com/
 local=/shop.co/
 local=/shop.fm/
 local=/shop-pro.jp/
@@ -1281,6 +1280,7 @@ local=/widblog.com/
 local=/wiki.lc/
 local=/will-dich.eu/
 local=/wixapps.net/
+local=/example-website.work.gd/
 local=/world.mu/
 local=/world-blog.de/
 local=/world-store.de/
@@ -1327,6 +1327,7 @@ local=/z.gp/
 local=/za.gp/
 local=/awi.za.com/
 local=/ishg.za.com/
+local=/zapier.app/
 local=/zoekvinden.nl/
 local=/zohosites.com/
 local=/zoomshare.com/

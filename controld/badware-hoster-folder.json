@@ -1793,13 +1793,6 @@
       }
     },
     {
-      "PK": "blogger.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "blogger.hu",
       "action": {
         "do": 0,
@@ -3207,6 +3200,13 @@
       }
     },
     {
+      "PK": "created.app",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "creatorlink.net",
       "action": {
         "do": 0,
@@ -3957,6 +3957,13 @@
     },
     {
       "PK": "exactpages.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "example-website.work.gd",
       "action": {
         "do": 0,
         "status": 1
@@ -4895,6 +4902,13 @@
     },
     {
       "PK": "hostingas.in",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "hostingersite.com",
       "action": {
         "do": 0,
         "status": 1
@@ -7106,13 +7120,6 @@
       }
     },
     {
-      "PK": "rssing.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ru.cm",
       "action": {
         "do": 0,
@@ -7317,13 +7324,6 @@
     },
     {
       "PK": "sharkserve.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "shivtr.com",
       "action": {
         "do": 0,
         "status": 1
@@ -9214,6 +9214,13 @@
     },
     {
       "PK": "za.gp",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "zapier.app",
       "action": {
         "do": 0,
         "status": 1
