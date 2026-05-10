@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 May 2026 16:59 UTC
-# Version: 2026.0509.1659.24
+# Last modified: 10 May 2026 07:48 UTC
+# Version: 2026.0510.0748.28
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9909
+# Number of entries: 9921
 #
 local=/0.gp/
 local=/00m.in/
@@ -1798,6 +1798,7 @@ local=/mypnp.co.za/
 local=/links.nivbook.co.il/
 local=/ourmagazines.co.uk/
 local=/p-it.co.uk/
+local=/qrgen.co.uk/
 local=/qtn.co.il/
 local=/go.sbws.co.uk/
 local=/shortlink.co.za/
@@ -1836,6 +1837,7 @@ local=/coil-forms.com/
 local=/coinbarlink.net/
 local=/coinbot.kr/
 local=/coinclix.co/
+local=/coinpr.info/
 local=/coklat.vip/
 local=/link.colborlight.com/
 local=/akhatry.com.np/
@@ -1894,6 +1896,7 @@ local=/used.com.ph/
 local=/useek.com.au/
 local=/vanlifediyfitouts.com.au/
 local=/bi.vitalmedbrasilia.com.br/
+local=/vm88.com.co/
 local=/wwon.com.br/
 local=/xpol.com.tr/
 local=/youlinks.com.au/
@@ -1934,7 +1937,9 @@ local=/couic.fr/
 local=/couldyouredirectmeplease.com/
 local=/coupa.ng/
 local=/coz.de/
+local=/cpamarketing.ro/
 local=/cpbr.link/
+local=/cpdnet.org/
 local=/cph.bz/
 local=/cplay.top/
 local=/cplink.co/
@@ -2069,6 +2074,7 @@ local=/cutly.in/
 local=/cutly.me/
 local=/cutly.pro/
 local=/cutlyx.com/
+local=/cutme.io/
 local=/cutmeshort.com/
 local=/cutmoa.com/
 local=/cutmy.link/
@@ -2093,6 +2099,7 @@ local=/cuttly.pro/
 local=/cutto.io/
 local=/cutts.in/
 local=/cutturl.xyz/
+local=/cutur.link/
 local=/cuturl.cloud/
 local=/cuturl.com/
 local=/cuturl.net/
@@ -2132,6 +2139,7 @@ local=/d80.ir/
 local=/da.gd/
 local=/daa.pl/
 local=/dad.do/
+local=/daduslot88.life/
 local=/dafa01.net/
 local=/dafa07.net/
 local=/dafire.cloud/
@@ -2179,6 +2187,7 @@ local=/dcps.co/
 local=/dcri.io/
 local=/dcshru.ru/
 local=/dd.ma/
+local=/ddlsu.com/
 local=/ddot.click/
 local=/ddot.to/
 local=/ddw.nu/
@@ -2217,6 +2226,7 @@ local=/designcommerce.agency/
 local=/designrigs.com/
 local=/desin.me/
 local=/wwww.destockdrive.com/
+local=/web3.destore.network/
 local=/detonnot.com/
 local=/qr.dev.eg/
 local=/s.devh.in/
@@ -2307,6 +2317,7 @@ local=/dnt.st/
 local=/do.co/
 local=/do.my/
 local=/doaistri.com/
+local=/doburl.com/
 local=/dockr.ly/
 local=/docmti.id/
 local=/docremedio.xyz/
@@ -2324,6 +2335,7 @@ local=/domainul.com/
 local=/domi.link/
 local=/domixox.com/
 local=/domlink.ink/
+local=/doods.sbs/
 local=/doodsty.fun/
 local=/doonor.com/
 local=/dopice.sk/

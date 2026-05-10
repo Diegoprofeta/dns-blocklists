@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 May 2026 09:35 UTC
-# Version: 2026.0509.0935.24
+# Last modified: 10 May 2026 09:44 UTC
+# Version: 2026.0510.0944.28
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1479
+# Number of entries: 1480
 #
 *.0000000000000000000000.com
 *.0x.no
@@ -226,6 +226,7 @@
 *.coreytech.com
 *.couchpotatofries.org
 *.counterlight.com
+*.cpct.com
 *.cpsnet.cz
 *.crabdance.com
 *.crackedsidewalks.com

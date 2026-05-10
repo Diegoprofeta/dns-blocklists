@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778345880 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778406300 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 May 2026 16:58 UTC
-; Version: 2026.0509.1658.39
+; Last modified: 10 May 2026 09:45 UTC
+; Version: 2026.0510.0945.51
 ; Syntax: RPZ
-; Number of entries: 36562
+; Number of entries: 36602
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -575,10 +575,14 @@ edu-english.asolafirma.com.ar CNAME .
 *.edu-english.asolafirma.com.ar CNAME .
 cmdc.astrodestino.com.ar CNAME .
 *.cmdc.astrodestino.com.ar CNAME .
+tasks.media.bianchetti.com.ar CNAME .
+*.tasks.media.bianchetti.com.ar CNAME .
 blankdocument.cassain.com.ar CNAME .
 *.blankdocument.cassain.com.ar CNAME .
 eggmanmasterplan.comtek.com.ar CNAME .
 *.eggmanmasterplan.comtek.com.ar CNAME .
+tailsmasterplan.comtek.com.ar CNAME .
+*.tailsmasterplan.comtek.com.ar CNAME .
 cd.data-express.com.ar CNAME .
 *.cd.data-express.com.ar CNAME .
 ud.data-express.com.ar CNAME .
@@ -675,6 +679,10 @@ hehehegnmath.dns.army CNAME .
 *.hehehegnmath.dns.army CNAME .
 homec92.dns.army CNAME .
 *.homec92.dns.army CNAME .
+jolly1.dns.army CNAME .
+*.jolly1.dns.army CNAME .
+moremore.dns.army CNAME .
+*.moremore.dns.army CNAME .
 resolver.arpa CNAME .
 *.resolver.arpa CNAME .
 atomicspike.art CNAME .
@@ -809,6 +817,8 @@ vanyavpn.at CNAME .
 *.vanyavpn.at CNAME .
 dns.alwynstudio.com.au CNAME .
 *.dns.alwynstudio.com.au CNAME .
+sunmer-camp.bestprograms4kids.com.au CNAME .
+*.sunmer-camp.bestprograms4kids.com.au CNAME .
 dns.cloud88.com.au CNAME .
 *.dns.cloud88.com.au CNAME .
 freshhistory.drsanjay.com.au CNAME .
@@ -6725,6 +6735,8 @@ crawlbase.com CNAME .
 *.crawlbase.com CNAME .
 crbtqxdu.com CNAME .
 *.crbtqxdu.com CNAME .
+createssh.com CNAME .
+*.createssh.com CNAME .
 creativechurchnetwork.com CNAME .
 *.creativechurchnetwork.com CNAME .
 cool.creatyc.com CNAME .
@@ -7435,6 +7447,8 @@ dowhitewhale.com CNAME .
 *.dowhitewhale.com CNAME .
 downloads-kl.com CNAME .
 *.downloads-kl.com CNAME .
+downloads-klvpn.com CNAME .
+*.downloads-klvpn.com CNAME .
 downloads-kuailian.com CNAME .
 *.downloads-kuailian.com CNAME .
 downloads-lets.com CNAME .
@@ -18259,6 +18273,8 @@ changjinglu.dev CNAME .
 *.changjinglu.dev CNAME .
 v.cheerfun.dev CNAME .
 *.v.cheerfun.dev CNAME .
+fern.crosbreaker.dev CNAME .
+*.fern.crosbreaker.dev CNAME .
 curser.dev CNAME .
 *.curser.dev CNAME .
 dns.daw.dev CNAME .
@@ -20227,6 +20243,24 @@ ag.hostme.co.il CNAME .
 *.ag.hostme.co.il CNAME .
 nordvpn.co.il CNAME .
 *.nordvpn.co.il CNAME .
+chejfnreeje.vets.co.il CNAME .
+*.chejfnreeje.vets.co.il CNAME .
+football.coach.vets.co.il CNAME .
+*.football.coach.vets.co.il CNAME .
+fern-the-goat.vets.co.il CNAME .
+*.fern-the-goat.vets.co.il CNAME .
+fernisbest.vets.co.il CNAME .
+*.fernisbest.vets.co.il CNAME .
+jncbfekejd.vets.co.il CNAME .
+*.jncbfekejd.vets.co.il CNAME .
+monkeys9238822.vets.co.il CNAME .
+*.monkeys9238822.vets.co.il CNAME .
+wecookedthistimebri.vets.co.il CNAME .
+*.wecookedthistimebri.vets.co.il CNAME .
+xocjckekrn.vets.co.il CNAME .
+*.xocjckekrn.vets.co.il CNAME .
+yes.vets.co.il CNAME .
+*.yes.vets.co.il CNAME .
 us.aab.im CNAME .
 *.us.aab.im CNAME .
 doh.angry.im CNAME .
@@ -20491,6 +20525,8 @@ cv2.info CNAME .
 *.cv2.info CNAME .
 dageyun.info CNAME .
 *.dageyun.info CNAME .
+digitalvpn.info CNAME .
+*.digitalvpn.info CNAME .
 directoryproxy.info CNAME .
 *.directoryproxy.info CNAME .
 dnscrypt.info CNAME .
@@ -34373,6 +34409,8 @@ piano.goal.the-black-hole.co.uk CNAME .
 *.piano.goal.the-black-hole.co.uk CNAME .
 tigervpns.co.uk CNAME .
 *.tigervpns.co.uk CNAME .
+uk-proxy.co.uk CNAME .
+*.uk-proxy.co.uk CNAME .
 unblocksites.co.uk CNAME .
 *.unblocksites.co.uk CNAME .
 dns1.understandingcyber.co.uk CNAME .
@@ -36177,6 +36215,8 @@ simple-education.xyz CNAME .
 *.simple-education.xyz CNAME .
 simply-history.xyz CNAME .
 *.simply-history.xyz CNAME .
+sinaproject.xyz CNAME .
+*.sinaproject.xyz CNAME .
 skibidislicers.xyz CNAME .
 *.skibidislicers.xyz CNAME .
 skytreeapi.xyz CNAME .

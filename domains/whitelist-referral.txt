@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 May 2026 07:29 UTC
-# Version: 2026.0509.0729.20
+# Last modified: 10 May 2026 07:29 UTC
+# Version: 2026.0510.0729.55
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2233
+# Number of entries: 2244
 #
 1-aclk.net
 1aurl.io
@@ -331,6 +331,7 @@ seu2.cleverreach.com
 163840.seu2.cleverreach.com
 164394.seu2.cleverreach.com
 166541.seu2.cleverreach.com
+166879.seu2.cleverreach.com
 174192.seu2.cleverreach.com
 176903.seu2.cleverreach.com
 177168.seu2.cleverreach.com
@@ -430,6 +431,7 @@ seu2.cleverreach.com
 359752.seu2.cleverreach.com
 361290.seu2.cleverreach.com
 363224.seu2.cleverreach.com
+369713.seu2.cleverreach.com
 372230.seu2.cleverreach.com
 374108.seu2.cleverreach.com
 374768.seu2.cleverreach.com
@@ -506,6 +508,7 @@ k.cocooncenter.com
 aax-eu.amazon.com.be
 aax-eu.amazon.com.tr
 aax-fe.amazon.com.au
+fff.com.vn
 adservice.google.com.ar
 adservice.google.com.au
 adservice.google.com.bd
@@ -644,6 +647,7 @@ click.convertkit-mail4.com
 51ce15f1.click.convertkit-mail4.com
 985c544d.click.convertkit-mail4.com
 9a0ee07c.click.convertkit-mail4.com
+b43d6384.click.convertkit-mail4.com
 d3b9d64f.click.convertkit-mail4.com
 e4c5c2ea.click.convertkit-mail4.com
 ff2daa42.click.convertkit-mail4.com
@@ -656,6 +660,7 @@ open.convertkit-mail4.com
 07494aa4.open.convertkit-mail4.com
 088a5f37.open.convertkit-mail4.com
 0c7d4f8e.open.convertkit-mail4.com
+104ffb11.open.convertkit-mail4.com
 162809b3.open.convertkit-mail4.com
 2fc9b2f8.open.convertkit-mail4.com
 3c5984bd.open.convertkit-mail4.com
@@ -675,6 +680,7 @@ a01c829f.open.convertkit-mail4.com
 a4d65a79.open.convertkit-mail4.com
 b43d6384.open.convertkit-mail4.com
 bbdc1d35.open.convertkit-mail4.com
+bc25b130.open.convertkit-mail4.com
 bfe50086.open.convertkit-mail4.com
 c4d2e6d6.open.convertkit-mail4.com
 c9475d8b.open.convertkit-mail4.com
@@ -727,7 +733,9 @@ m-s6iau.custobar.com
 m-sgd5h.custobar.com
 m-so.custobar.com
 m-swjb2.custobar.com
+m-swt.custobar.com
 m-szy.custobar.com
+m-tcg.custobar.com
 m-tfe.custobar.com
 m-tmsif.custobar.com
 m-va.custobar.com
@@ -1107,6 +1115,7 @@ adservice.google.no
 adservice.google.pl
 adservice.google.ps
 adservice.google.ro
+adservice.google.rs
 adservice.google.ru
 adservice.google.se
 adservice.google.sk
@@ -1177,6 +1186,7 @@ sites.hscoscdn-eu1.net
 25882072.sites.hscoscdn-eu1.net
 25896552.sites.hscoscdn-eu1.net
 25913237.sites.hscoscdn-eu1.net
+26019959.sites.hscoscdn-eu1.net
 26125366.sites.hscoscdn-eu1.net
 26213917.sites.hscoscdn-eu1.net
 26247228.sites.hscoscdn-eu1.net
@@ -1185,6 +1195,7 @@ sites.hscoscdn-eu1.net
 26544488.sites.hscoscdn-eu1.net
 26556211.sites.hscoscdn-eu1.net
 26609264.sites.hscoscdn-eu1.net
+26742987.sites.hscoscdn-eu1.net
 26743233.sites.hscoscdn-eu1.net
 26750902.sites.hscoscdn-eu1.net
 26826924.sites.hscoscdn-eu1.net

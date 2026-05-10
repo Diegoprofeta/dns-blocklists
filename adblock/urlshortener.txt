@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 09 May 2026 16:59 UTC
-! Version: 2026.0509.1659.24
+! Last modified: 10 May 2026 07:48 UTC
+! Version: 2026.0510.0748.28
 ! Syntax: AdBlock
-! Number of entries: 9909
+! Number of entries: 9921
 !
 ||0.gp^
 ||00m.in^
@@ -1799,6 +1799,7 @@
 ||links.nivbook.co.il^
 ||ourmagazines.co.uk^
 ||p-it.co.uk^
+||qrgen.co.uk^
 ||qtn.co.il^
 ||go.sbws.co.uk^
 ||shortlink.co.za^
@@ -1837,6 +1838,7 @@
 ||coinbarlink.net^
 ||coinbot.kr^
 ||coinclix.co^
+||coinpr.info^
 ||coklat.vip^
 ||link.colborlight.com^
 ||akhatry.com.np^
@@ -1895,6 +1897,7 @@
 ||useek.com.au^
 ||vanlifediyfitouts.com.au^
 ||bi.vitalmedbrasilia.com.br^
+||vm88.com.co^
 ||wwon.com.br^
 ||xpol.com.tr^
 ||youlinks.com.au^
@@ -1935,7 +1938,9 @@
 ||couldyouredirectmeplease.com^
 ||coupa.ng^
 ||coz.de^
+||cpamarketing.ro^
 ||cpbr.link^
+||cpdnet.org^
 ||cph.bz^
 ||cplay.top^
 ||cplink.co^
@@ -2070,6 +2075,7 @@
 ||cutly.me^
 ||cutly.pro^
 ||cutlyx.com^
+||cutme.io^
 ||cutmeshort.com^
 ||cutmoa.com^
 ||cutmy.link^
@@ -2094,6 +2100,7 @@
 ||cutto.io^
 ||cutts.in^
 ||cutturl.xyz^
+||cutur.link^
 ||cuturl.cloud^
 ||cuturl.com^
 ||cuturl.net^
@@ -2133,6 +2140,7 @@
 ||da.gd^
 ||daa.pl^
 ||dad.do^
+||daduslot88.life^
 ||dafa01.net^
 ||dafa07.net^
 ||dafire.cloud^
@@ -2180,6 +2188,7 @@
 ||dcri.io^
 ||dcshru.ru^
 ||dd.ma^
+||ddlsu.com^
 ||ddot.click^
 ||ddot.to^
 ||ddw.nu^
@@ -2218,6 +2227,7 @@
 ||designrigs.com^
 ||desin.me^
 ||wwww.destockdrive.com^
+||web3.destore.network^
 ||detonnot.com^
 ||qr.dev.eg^
 ||s.devh.in^
@@ -2308,6 +2318,7 @@
 ||do.co^
 ||do.my^
 ||doaistri.com^
+||doburl.com^
 ||dockr.ly^
 ||docmti.id^
 ||docremedio.xyz^
@@ -2325,6 +2336,7 @@
 ||domi.link^
 ||domixox.com^
 ||domlink.ink^
+||doods.sbs^
 ||doodsty.fun^
 ||doonor.com^
 ||dopice.sk^

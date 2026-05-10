@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 May 2026 16:59 UTC
-# Version: 2026.0509.1659.55
+# Last modified: 10 May 2026 09:38 UTC
+# Version: 2026.0510.0938.36
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 12553
+# Number of entries: 12583
 #
 *.003396815.xyz
 *.004430.xyz
@@ -949,6 +949,7 @@
 *.animetorrents.com
 *.animetorrents.me
 *.animetosho.org
+*.animetosho.xyz
 *.animeua.club
 *.animeultima.to
 *.animevibe.tv
@@ -2315,6 +2316,7 @@
 *.swimhereford.co.uk
 *.thepb.co.uk
 *.thepiratebay.co.com
+*.trackerzone.co.uk
 *.warez4ever.co.il
 *.xalaflix.co.uk
 *.coalyf.beer
@@ -2325,6 +2327,7 @@
 *.codelist.cc
 *.watch.coen.ovh
 *.coexist.biz
+*.coflix.app
 *.coflix.bet
 *.coflix.blog
 *.coflix.boo
@@ -2335,6 +2338,7 @@
 *.coflix.fi
 *.coflix.foo
 *.coflix.men
+*.coflix.moe
 *.coflix.mov
 *.coflix.nexus
 *.coflix.ninja
@@ -2413,8 +2417,10 @@
 *.salamonline.com.bd
 *.seriezloaded.com.ng
 *.skynet.com.bd
+*.slnisp.com.bd
 *.soap2day.com.co
 *.starflix.com.br
+*.startflix.com.br
 *.steamunlocked.com.br
 *.streamm4u.com.co
 *.strimki.com.pl
@@ -2433,9 +2439,11 @@
 *.xalaflix.com.se
 *.yt1s.com.co
 *.www.midea123.z-media.com.cn
+*.zenkimex.com.mx
 *.comandofilmetorrent.com
 *.comandohdtorrents.com
 *.comandotorrenthd.net
+*.comandotorrents.com
 *.comandotorrents.org
 *.comandotorrentshd.net
 *.mywebpages.comcast.net
@@ -2514,6 +2522,7 @@
 *.crack.ms
 *.crack-cd.com
 *.crack-cd.net
+*.crack4patch.com
 *.crack4soft.com
 *.crack55.com
 *.crack81.com
@@ -2793,6 +2802,7 @@
 *.ddosbreak.com
 *.ddosclub.com
 *.ddosforhire.net
+*.ddosit.net
 *.ddostheworld.com
 *.ddownload.com
 *.tracker.ddunlimited.net
@@ -2830,6 +2840,7 @@
 *.open.demonoid.ch
 *.open-tracker.demonoid.ch
 *.open-v6.demonoid.ch
+*.public.demonoid.ch
 *.demons-eye.me
 *.dendox.org
 *.deporte-libre.click
@@ -2861,6 +2872,7 @@
 *.dfast.app
 *.dfichiers.com
 *.dflix.live
+*.em.dfnbd.net
 *.tube.dfnbd.net
 *.dfox.it
 *.mixes.dfx.at
@@ -2892,6 +2904,7 @@
 *.digimoviez40.top
 *.diginetbd.net
 *.digital-eliteboard.com
+*.digital-zone.xyz
 *.digitalboots.net
 *.tracker.digitalcore.club
 *.www2.digitaldistractions.org
@@ -2987,6 +3000,7 @@
 *.share.dmhy.org
 *.u2.dmhy.org
 *.dna2day.com
+*.dnbtracker.org
 *.dnetbd.com
 *.dnetdrive.com
 *.dnf24.com
@@ -3013,6 +3027,7 @@
 *.dodi-repacks.site
 *.dognzb.cr
 *.doile378vtt.com
+*.tracker.doko.moe
 *.dokumen.pub
 *.dokumentalne.net
 *.dolwiz.com
@@ -3054,8 +3069,10 @@
 *.dood.com
 *.dood.contractors
 *.dood.cool
+*.dood.dev
 *.dood.digital
 *.dood.fan
+*.dood.fans
 *.dood.fun
 *.dood.host
 *.dood.ink
@@ -3066,6 +3083,7 @@
 *.dood.ltd
 *.dood.lu
 *.dood.meme
+*.dood.mov
 *.dood.mx
 *.dood.net
 *.dood.news
@@ -3097,6 +3115,7 @@
 *.dood.ws
 *.dood.yt
 *.dood.zip
+*.doodcdn.co
 *.doodcdn.com
 *.doodcdn.io
 *.doodd.stream
@@ -3183,6 +3202,7 @@
 *.downturk.net
 *.doxma.com
 *.dp27.ru
+*.dpstream.cc
 *.dpstream.lol
 *.dpstream.net
 *.dpstream.rip
@@ -3205,6 +3225,7 @@
 *.dramago.com
 *.dramaqu.app
 *.dramaqu.cloud
+*.dramaqu.info
 *.dramaqu.net
 *.dramaqu.vip
 *.dramaqu.website
@@ -9640,6 +9661,8 @@
 *.stalker-world.ru
 *.stanthecaddy.com
 *.star4m.com
+*.starckfilmes-v14.com
+*.starckfilmes-v15.com
 *.stardiima.top
 *.starfiles.co
 *.starflixbd.com
@@ -10098,6 +10121,9 @@
 *.sudo-flix.lol
 *.sudo-flix.rip
 *.suesupriano.com
+*.sultansportv0350.com
+*.sultansportv0470.com
+*.sultansportv0810.com
 *.sumorb.com
 *.sumotorrent.com
 *.sumotorrent.sx
@@ -10239,6 +10265,9 @@
 *.taraftarium24-amp.online
 *.taraftarium24-hdizle17.vip
 *.taraftarium24-hdizle19.vip
+*.taraftarium24-patron33.vip
+*.taraftarium24bjk.com
+*.taraftarium24pro10.site
 *.taringa.net
 *.tarjetaroja.me
 *.tarjetarojaenvivo.me
@@ -12234,6 +12263,7 @@
 *.yallashoothub.com
 *.yamgo.com
 *.yams.tf
+*.yanime.online
 *.yaplukon.org
 *.yaps.cc
 *.yarrlist.net

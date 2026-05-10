@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778345940 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778399280 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 May 2026 16:59 UTC
-; Version: 2026.0509.1659.24
+; Last modified: 10 May 2026 07:48 UTC
+; Version: 2026.0510.0748.28
 ; Syntax: RPZ
-; Number of entries: 19818
+; Number of entries: 19842
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2405,6 +2405,8 @@ coinclix.co CNAME .
 *.coinclix.co CNAME .
 tinyurl.smart-home.com.co CNAME .
 *.tinyurl.smart-home.com.co CNAME .
+vm88.com.co CNAME .
+*.vm88.com.co CNAME .
 cplink.co CNAME .
 *.cplink.co CNAME .
 crdrv.co CNAME .
@@ -4049,6 +4051,8 @@ dbolc.com CNAME .
 *.dbolc.com CNAME .
 go.dbs.com CNAME .
 *.go.dbs.com CNAME .
+ddlsu.com CNAME .
+*.ddlsu.com CNAME .
 de2wa.com CNAME .
 *.de2wa.com CNAME .
 dealsfindersgroup.com CNAME .
@@ -4117,6 +4121,8 @@ dmvrenew.com CNAME .
 *.dmvrenew.com CNAME .
 doaistri.com CNAME .
 *.doaistri.com CNAME .
+doburl.com CNAME .
+*.doburl.com CNAME .
 dohggte.com CNAME .
 *.dohggte.com CNAME .
 doiop.com CNAME .
@@ -10289,6 +10295,8 @@ calendrierbdp.info CNAME .
 *.calendrierbdp.info CNAME .
 cinecom.info CNAME .
 *.cinecom.info CNAME .
+coinpr.info CNAME .
+*.coinpr.info CNAME .
 cookcenter.info CNAME .
 *.cookcenter.info CNAME .
 cqma.info CNAME .
@@ -10705,6 +10713,8 @@ ctfl.io CNAME .
 *.ctfl.io CNAME .
 cuer.io CNAME .
 *.cuer.io CNAME .
+cutme.io CNAME .
+*.cutme.io CNAME .
 cuttify.io CNAME .
 *.cuttify.io CNAME .
 cuttly.io CNAME .
@@ -12267,6 +12277,8 @@ chekc.life CNAME .
 *.chekc.life CNAME .
 conns.life CNAME .
 *.conns.life CNAME .
+daduslot88.life CNAME .
+*.daduslot88.life CNAME .
 decimalegion.life CNAME .
 *.decimalegion.life CNAME .
 disanspam.life CNAME .
@@ -12489,6 +12501,8 @@ cute.link CNAME .
 *.cute.link CNAME .
 cutmy.link CNAME .
 *.cutmy.link CNAME .
+cutur.link CNAME .
+*.cutur.link CNAME .
 cwr.link CNAME .
 *.cwr.link CNAME .
 d138.link CNAME .
@@ -15509,6 +15523,8 @@ zsms.net CNAME .
 *.zsms.net CNAME .
 zxq.net CNAME .
 *.zxq.net CNAME .
+web3.destore.network CNAME .
+*.web3.destore.network CNAME .
 git.new CNAME .
 *.git.new CNAME .
 aawsat.news CNAME .
@@ -15965,6 +15981,8 @@ coreprob.coreprobation.org CNAME .
 *.coreprob.coreprobation.org CNAME .
 i.coscup.org CNAME .
 *.i.coscup.org CNAME .
+cpdnet.org CNAME .
+*.cpdnet.org CNAME .
 goto.cream.org CNAME .
 *.goto.cream.org CNAME .
 cshort.org CNAME .
@@ -16993,6 +17011,8 @@ b0.ro CNAME .
 *.b0.ro CNAME .
 s.cdw.ro CNAME .
 *.s.cdw.ro CNAME .
+cpamarketing.ro CNAME .
+*.cpamarketing.ro CNAME .
 curl.ro CNAME .
 *.curl.ro CNAME .
 damoro.ro CNAME .
@@ -17241,6 +17261,8 @@ wft.sa CNAME .
 *.wft.sa CNAME .
 wi.sa CNAME .
 *.wi.sa CNAME .
+doods.sbs CNAME .
+*.doods.sbs CNAME .
 retireetravelcare.sbs CNAME .
 *.retireetravelcare.sbs CNAME .
 shortlink.sbs CNAME .
@@ -18789,6 +18811,8 @@ ourmagazines.co.uk CNAME .
 *.ourmagazines.co.uk CNAME .
 p-it.co.uk CNAME .
 *.p-it.co.uk CNAME .
+qrgen.co.uk CNAME .
+*.qrgen.co.uk CNAME .
 go.sbws.co.uk CNAME .
 *.go.sbws.co.uk CNAME .
 shortlinks.co.uk CNAME .

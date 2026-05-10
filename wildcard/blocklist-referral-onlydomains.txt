@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 May 2026 07:29 UTC
-# Version: 2026.0509.0729.20
+# Last modified: 10 May 2026 07:29 UTC
+# Version: 2026.0510.0729.55
 # Syntax: Domains (without subdomains)
-# Number of entries: 1545
+# Number of entries: 1549
 #
 1-aclk.net
 1aurl.io
@@ -282,6 +282,7 @@ k.cocooncenter.com
 aax-eu.amazon.com.be
 aax-eu.amazon.com.tr
 aax-fe.amazon.com.au
+fff.com.vn
 adservice.google.com.ar
 adservice.google.com.au
 adservice.google.com.bd
@@ -354,7 +355,9 @@ m-s6iau.custobar.com
 m-sgd5h.custobar.com
 m-so.custobar.com
 m-swjb2.custobar.com
+m-swt.custobar.com
 m-szy.custobar.com
+m-tcg.custobar.com
 m-tfe.custobar.com
 m-tmsif.custobar.com
 m-va.custobar.com
@@ -629,6 +632,7 @@ adservice.google.no
 adservice.google.pl
 adservice.google.ps
 adservice.google.ro
+adservice.google.rs
 adservice.google.ru
 adservice.google.se
 adservice.google.sk

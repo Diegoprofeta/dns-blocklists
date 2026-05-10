@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 May 2026 16:58 UTC
-# Version: 2026.0509.1658.39
+# Last modified: 10 May 2026 09:45 UTC
+# Version: 2026.0510.0945.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 18281
+# Number of entries: 18301
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -4034,11 +4034,21 @@ local=/dns1.thylacine.co.nz/
 local=/dns2.thylacine.co.nz/
 local=/tigervpns.co.uk/
 local=/doh.tsmu.co.id/
+local=/uk-proxy.co.uk/
 local=/unblocksites.co.uk/
 local=/dns1.understandingcyber.co.uk/
 local=/dns.unknown-universe.co.uk/
 local=/vanillacoke.co.uk/
 local=/sainttech.veranda.co.id/
+local=/chejfnreeje.vets.co.il/
+local=/football.coach.vets.co.il/
+local=/fern-the-goat.vets.co.il/
+local=/fernisbest.vets.co.il/
+local=/jncbfekejd.vets.co.il/
+local=/monkeys9238822.vets.co.il/
+local=/wecookedthistimebri.vets.co.il/
+local=/xocjckekrn.vets.co.il/
+local=/yes.vets.co.il/
 local=/vpn-proxies.co.cc/
 local=/vpn-services.co.cc/
 local=/vpncompare.co.uk/
@@ -4123,12 +4133,14 @@ local=/mathhomeworkplus.arpangautam.com.np/
 local=/edu-english.asolafirma.com.ar/
 local=/cmdc.astrodestino.com.ar/
 local=/api.bcsdny.com.de/
+local=/sunmer-camp.bestprograms4kids.com.au/
 local=/67.bfcontrol.com.mx/
 local=/67in2026.bfcontrol.com.mx/
 local=/learnvcsa.bfcontrol.com.mx/
 local=/pnontop.bfcontrol.com.mx/
 local=/vcsa.rosin.bfcontrol.com.mx/
 local=/weloveplayernation.bfcontrol.com.mx/
+local=/tasks.media.bianchetti.com.ar/
 local=/ugh.binodbabusharma.com.np/
 local=/test.businessconnect.com.tr/
 local=/hai.carladutra.com.br/
@@ -4145,6 +4157,7 @@ local=/cns-web-kuailian.com.cn/
 local=/co-kuailian.com.cn/
 local=/dns.complianceauditores.com.br/
 local=/eggmanmasterplan.comtek.com.ar/
+local=/tailsmasterplan.comtek.com.ar/
 local=/study.construtoradantas.com.br/
 local=/croxyproxy.com.in/
 local=/cs-kuailian.com.cn/
@@ -4501,6 +4514,7 @@ local=/crazycattle3d.lol/
 local=/crazyfastrace.lol/
 local=/crazysurfer.info/
 local=/crbtqxdu.com/
+local=/createssh.com/
 local=/createssh.net/
 local=/creationlong.org/
 local=/creativechurchnetwork.com/
@@ -4522,6 +4536,7 @@ local=/crieewy.cn/
 local=/crimson-latch.com/
 local=/cristianocosta.me/
 local=/dns.itsec.crolla.net/
+local=/fern.crosbreaker.dev/
 local=/crosswall.cc/
 local=/crownproxy.com/
 local=/crownrealty.org/
@@ -4976,6 +4991,7 @@ local=/tierbase3.fra1.cdn.digitaloceanspaces.com/
 local=/net4ebur.fra1.digitaloceanspaces.com/
 local=/package.nyc3.digitaloceanspaces.com/
 local=/dns.digitalsize.net/
+local=/digitalvpn.info/
 local=/diglet.org/
 local=/dild.loan/
 local=/eka.dilli.dev/
@@ -5081,6 +5097,8 @@ local=/fargos2.dns.army/
 local=/guigu.dns.army/
 local=/hehehegnmath.dns.army/
 local=/homec92.dns.army/
+local=/jolly1.dns.army/
+local=/moremore.dns.army/
 local=/dns.dns-53.com/
 local=/dns.dns-53.uk/
 local=/dns.dns-53.us/
@@ -5367,6 +5385,7 @@ local=/dowindows.net/
 local=/downloadhiro.app/
 local=/downloadqq.xyz/
 local=/downloads-kl.com/
+local=/downloads-klvpn.com/
 local=/downloads-kuailian.com/
 local=/downloads-lets.com/
 local=/downloads-letsvpn.com/
@@ -14506,6 +14525,7 @@ local=/simplevpn.net/
 local=/simplexsolutionsinc.com/
 local=/simply-history.xyz/
 local=/dns.simplylinux.ch/
+local=/sinaproject.xyz/
 local=/dns.sindominio.net/
 local=/bring-your-own.sinewave.cc/
 local=/sing-box.org/
