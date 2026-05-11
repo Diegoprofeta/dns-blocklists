@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778443140 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778516640 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 May 2026 19:59 UTC
-; Version: 2026.0510.1959.40
+; Last modified: 11 May 2026 16:24 UTC
+; Version: 2026.0511.1624.14
 ; Syntax: RPZ
-; Number of entries: 36612
+; Number of entries: 36640
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -2391,6 +2391,8 @@ gscloud.cfd CNAME .
 *.gscloud.cfd CNAME .
 hazepeak.cfd CNAME .
 *.hazepeak.cfd CNAME .
+interdoge.cfd CNAME .
+*.interdoge.cfd CNAME .
 lightspeedisgay.cfd CNAME .
 *.lightspeedisgay.cfd CNAME .
 mohamedadel.cfd CNAME .
@@ -10377,6 +10379,8 @@ ilazonrw.com CNAME .
 *.ilazonrw.com CNAME .
 ilcsdnkf.com CNAME .
 *.ilcsdnkf.com CNAME .
+ilinhy.com CNAME .
+*.ilinhy.com CNAME .
 ilink-a.com CNAME .
 *.ilink-a.com CNAME .
 ilmxs.com CNAME .
@@ -10407,6 +10411,8 @@ image-grid-maker.com CNAME .
 *.image-grid-maker.com CNAME .
 imaginelearningmath.com CNAME .
 *.imaginelearningmath.com CNAME .
+dns.imaicool.com CNAME .
+*.dns.imaicool.com CNAME .
 ad.imblien.com CNAME .
 *.ad.imblien.com CNAME .
 noads.imbuffering.com CNAME .
@@ -10597,6 +10603,8 @@ intervpn.com CNAME .
 *.intervpn.com CNAME .
 intl-alliance.com CNAME .
 *.intl-alliance.com CNAME .
+myhw.helper1.investigacionpolitica.com CNAME .
+*.myhw.helper1.investigacionpolitica.com CNAME .
 invisv.com CNAME .
 *.invisv.com CNAME .
 iohnhbly.com CNAME .
@@ -17929,8 +17937,6 @@ atlantic.dyn1.de CNAME .
 *.atlantic.dyn1.de CNAME .
 dns.dyn1.de CNAME .
 *.dns.dyn1.de CNAME .
-jrdnswork.dyndns1.de CNAME .
-*.jrdnswork.dyndns1.de CNAME .
 adbox-v9.dynipv6.de CNAME .
 *.adbox-v9.dynipv6.de CNAME .
 interstaller-ae.dynipv6.de CNAME .
@@ -22241,6 +22247,8 @@ hitvpn.lol CNAME .
 *.hitvpn.lol CNAME .
 rt.http3.lol CNAME .
 *.rt.http3.lol CNAME .
+iproxy.lol CNAME .
+*.iproxy.lol CNAME .
 is-a-fag.lol CNAME .
 *.is-a-fag.lol CNAME .
 itop-vpn.lol CNAME .
@@ -22625,6 +22633,8 @@ dns.huas.me CNAME .
 *.dns.huas.me CNAME .
 huojian.me CNAME .
 *.huojian.me CNAME .
+iportal.me CNAME .
+*.iportal.me CNAME .
 jkdns.me CNAME .
 *.jkdns.me CNAME .
 dns.johndave.me CNAME .
@@ -31017,6 +31027,8 @@ gossr.pw CNAME .
 *.gossr.pw CNAME .
 fisdinstructure.gotroot.pw CNAME .
 *.fisdinstructure.gotroot.pw CNAME .
+govpn.pw CNAME .
+*.govpn.pw CNAME .
 dns.iteo.pw CNAME .
 *.dns.iteo.pw CNAME .
 k3n.pw CNAME .
@@ -32773,6 +32785,8 @@ geminipro.shop CNAME .
 *.geminipro.shop CNAME .
 gooningforever.shop CNAME .
 *.gooningforever.shop CNAME .
+nana.rammer.grnyiui.shop CNAME .
+*.nana.rammer.grnyiui.shop CNAME .
 hfgx.shop CNAME .
 *.hfgx.shop CNAME .
 hl-jsq.shop CNAME .
@@ -32783,6 +32797,10 @@ ip4exordir.shop CNAME .
 *.ip4exordir.shop CNAME .
 ipayday.shop CNAME .
 *.ipayday.shop CNAME .
+anyweatherispepsiweather.1903.jdymqic.shop CNAME .
+*.anyweatherispepsiweather.1903.jdymqic.shop CNAME .
+6767alpharizzmath.jdymqic.shop CNAME .
+*.6767alpharizzmath.jdymqic.shop CNAME .
 s8.amazonaws.jdymqic.shop CNAME .
 *.s8.amazonaws.jdymqic.shop CNAME .
 ijustwanttstowork.dsylexia.jdymqic.shop CNAME .
@@ -33479,6 +33497,8 @@ ednovas.tech CNAME .
 *.ednovas.tech CNAME .
 dns.everdns.tech CNAME .
 *.dns.everdns.tech CNAME .
+hanniel.tech CNAME .
+*.hanniel.tech CNAME .
 truf.khaosfallen.tech CNAME .
 *.truf.khaosfallen.tech CNAME .
 mathlearning.tech CNAME .
@@ -34865,8 +34885,16 @@ traffix.uz CNAME .
 *.traffix.uz CNAME .
 drive.google.com.hs.vc CNAME .
 *.drive.google.com.hs.vc CNAME .
+defoclasswork.hs.vc CNAME .
+*.defoclasswork.hs.vc CNAME .
+freakybob.hs.vc CNAME .
+*.freakybob.hs.vc CNAME .
+jahyussif.hs.vc CNAME .
+*.jahyussif.hs.vc CNAME .
 grid.know.hs.vc CNAME .
 *.grid.know.hs.vc CNAME .
+proxyforfriends.hs.vc CNAME .
+*.proxyforfriends.hs.vc CNAME .
 browserstephen.webs.vc CNAME .
 *.browserstephen.webs.vc CNAME .
 kahoot67.webs.vc CNAME .

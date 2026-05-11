@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 May 2026 19:58 UTC
-! Version: 2026.0510.1958.20
+! Last modified: 11 May 2026 16:23 UTC
+! Version: 2026.0511.1623.00
 ! Syntax: AdBlock
-! Number of entries: 1481
+! Number of entries: 1477
 !
 ||0000000000000000000000.com^
 ||0x.no^
@@ -261,7 +261,6 @@
 ||ddnsking.com^
 ||ddnslive.com^
 ||ddnss.ch^
-||ddnss.de^
 ||ddnss.eu^
 ||ddnss.org^
 ||ddnssec.de^
@@ -639,7 +638,6 @@
 ||gw.lt^
 ||gw1.org^
 ||h-o-s-t.name^
-||h0stname.net^
 ||h1x.com^
 ||h4ck.me^
 ||hackquest.com^
@@ -660,6 +658,7 @@
 ||hiddencorner.org^
 ||hijaxdesigns.com^
 ||hin.tw^
+||hiprinter.com^
 ||his.name^
 ||hitremixes.com^
 ||hldns.ru^
@@ -670,7 +669,6 @@
 ||hokum-smack.com^
 ||home.kg^
 ||home-webserver.de^
-||home64.de^
 ||homedns.org^
 ||homeftp.net^
 ||homeftp.org^
@@ -918,7 +916,6 @@
 ||maurinfor.com^
 ||mcsoft.org^
 ||mcwrite.net^
-||ddns.me.uk^
 ||dynamicdns.me.uk^
 ||medbury.com^
 ||medittech.com^
@@ -1169,7 +1166,6 @@
 ||pudim.info^
 ||qc.to^
 ||qhigh.com^
-||qlbv.vn^
 ||qpoe.com^
 ||qthome.org^
 ||quackerscomic.com^
@@ -1196,6 +1192,7 @@
 ||root64.de^
 ||roth.ca^
 ||route64.de^
+||roxa.org^
 ||rpz.su^
 ||rtam.net^
 ||rum.si^
@@ -1363,7 +1360,6 @@
 ||thingsnewandused.com^
 ||thruhere.net^
 ||tinyrealm.com^
-||tobuy.us^
 ||toh.info^
 ||topdns.com^
 ||topsddns.net^

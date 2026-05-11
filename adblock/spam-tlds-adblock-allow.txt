@@ -756,6 +756,7 @@
 @@||saint2.su^
 @@||ada.support^
 @@||jitsi.support^
+@@||windrose.support^
 @@||s-wings.surf^
 @@||filemoon.sx^
 @@||voe.sx^
@@ -803,6 +804,7 @@
 @@||suiten.top^
 @@||thedesk.top^
 @@||vsdb.top^
+@@||gather.town^
 @@||lofi.town^
 @@||tilde.town^
 @@||composer.trade^

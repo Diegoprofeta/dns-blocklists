@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 May 2026 20:00 UTC
-# Version: 2026.0510.2000.25
+# Last modified: 11 May 2026 14:42 UTC
+# Version: 2026.0511.1442.36
 # Syntax: Domains (without subdomains)
-# Number of entries: 9927
+# Number of entries: 9879
 #
 0.gp
 00m.in
@@ -84,7 +84,6 @@ a.189.cn
 1dietplans.com
 1do.me
 1drv.ms
-1ea.ir
 1fashionable.xyz
 1fi.us
 1fy.ir
@@ -106,7 +105,6 @@ a.189.cn
 1nk.co
 1nom.org
 1o.pl
-1o2.ir
 1oe9.one
 1p.io
 1pma.com
@@ -161,7 +159,6 @@ a.189.cn
 263.vn
 27g.ru
 2ad.in
-2ad.ir
 2big.at
 2cm.es
 2doc.net
@@ -216,7 +213,6 @@ t.2merkato.com
 301.nz
 301.tv
 301l.ir
-302.pl
 30na.ma
 30t.me
 30tools.com
@@ -262,7 +258,6 @@ k.3es.io
 4.gp
 4.ly
 4-bio.link
-420.bio
 42jump.com
 42l.fr
 42url.com
@@ -728,7 +723,6 @@ ana.ms
 anacon.org
 analyticslinker.ovh
 link.anam.ch
-anbisu.com
 anch.co
 anchorurl.cloud
 ancstry.me
@@ -913,7 +907,6 @@ awc.li
 aws.tl
 aws3.link
 aws3-demo.link
-awtgatp.com
 aww.al
 awwurl.com
 awy.to
@@ -999,10 +992,8 @@ bb.vg
 bb8.mn
 bbb.bz
 bbc.in
-bbcrle.com
 bbff.me
 bbva.info
-bc.ax
 bc.tc
 bc.vc
 bca.id
@@ -1406,7 +1397,6 @@ budur.li
 budurl.com
 buff.link
 buff.ly
-buho.link
 bui.lk
 bui.st
 buildinhockinghills.com
@@ -1495,7 +1485,6 @@ captl1.co
 captur.in
 direct.cardgifters.com
 cardinates.me
-cardiox-care.com
 cardprofile.de
 cardprofile.link
 cardstap.com
@@ -1869,14 +1858,12 @@ mytools.graphic.com.gh
 u.hazelbrookrfs.com.au
 url.hle.com.tw
 link.inexxus.com.br
-iup.com.tr
 linkboard.com.br
 linksbr.com.br
 links.luckreceptivo.com.br
 conteudo.megasoft.com.br
 mpfi.com.ph
 nabio.com.br
-natura.com.vc
 salesadvisor.nazriproton.com.my
 onelink.com.do
 readystart.com.au
@@ -1929,7 +1916,6 @@ coreprob.coreprobation.org
 url.coronassh.com
 cort.as
 cort.li
-cort.my
 cortalo.net
 i.coscup.org
 cosmos.ac
@@ -1971,7 +1957,6 @@ crisp.to
 critch.it
 crizons.pro
 kutt.crmgroup.ru
-croc.global
 cropped.xyz
 crourl.com
 crovio.pro
@@ -2014,7 +1999,6 @@ cuanbio.com
 linkprotect.cudasvc.com
 cuer.io
 cuk.one
-cukbaray.com
 cul.ke
 cultm.ac
 culy.top
@@ -2399,7 +2383,6 @@ dstats.net
 dstly.xyz
 link.dstrct.at
 dswurl.de
-dsyixm.com
 dtdg.co
 dti.io
 dtl.la
@@ -2516,7 +2499,6 @@ go.edh.tw
 edin.ac
 editricity.xyz
 edl.io
-edm.to
 edmno1.info
 edne.tw
 ednn.link
@@ -2904,7 +2886,6 @@ freegamesjiliwin63.online
 freeshorten.com
 freeshorturl.com
 freeshorturls.com
-freeurlshort.com
 freshlnk.com
 freze.it
 frizzymedia.com
@@ -3044,6 +3025,7 @@ getfinefile.com
 geti.in
 getlasso.co
 getlickd.com
+getlink.at
 getlink.space
 getmovie.vip
 getpcp.net
@@ -3115,6 +3097,7 @@ glob.li
 globargains.com
 glol.in
 glolin.com
+glowin88.site
 glss.co
 gma.abc
 gmh.bz
@@ -3203,6 +3186,7 @@ goqrgen.com
 gorio.page
 goshopurl.com
 goshort.pro
+goshrink.com
 gosite.org
 gosm.link
 gosmart.fit
@@ -3423,6 +3407,7 @@ hocmai.link
 hodroffs.com
 hoeg.it
 hoholah.xyz
+hoki108.shop
 hoki1dana.site
 hoki22crot.com
 hokidana.vip
@@ -3515,6 +3500,7 @@ go.hw.net
 hxp2.com
 hyperlinker.io
 hyperlnk.io
+hyperly.co
 hypershort.com
 m.hyperskill.org
 hyperurl.co
@@ -3642,6 +3628,7 @@ imgo.cc
 imgus.cc
 imlcc.link
 imo.cx
+imo-call.shop
 impl.us
 in.gl
 in.mt
@@ -3667,6 +3654,7 @@ inf.so
 inf.to
 infa.ltd
 link.infini.fr
+info.ms
 infobaepe.com
 infy.com
 ingatdomainku.org
@@ -3753,6 +3741,7 @@ iql.ink
 iqr.im
 ir.cx
 ira.mx
+irbaz.ir
 irng.ca
 irohi.com
 is.am
@@ -3779,6 +3768,9 @@ isols.co
 istel.co
 isterratrk.com
 istincy.com
+videy.isuaceh.com
+videyfour.isuaceh.com
+videytwo.isuaceh.com
 isurl.cc
 isurt.com
 isw.pub
@@ -3900,7 +3892,6 @@ jjlco.net
 jkf.lv
 jks.bio
 jktc.pro
-jlsfcd.com
 jmal.top
 jmeet.io
 jmp.ad
@@ -3989,7 +3980,6 @@ kask.us
 kata.to
 shortly.kata.ai
 sms.katapult.com
-katespadesneakpeek.com
 katzr.net
 kav.site
 kave.to
@@ -4117,7 +4107,6 @@ kort.ca
 korta.nu
 korta.st
 kortlink.dk
-kota.lk
 go.kotelov.com
 kotl.in
 go.kout.ro
@@ -4150,7 +4139,6 @@ kuiklink.com
 kuku.lu
 kulink.me
 kumawink.com
-kuoqnt.com
 kurly.it
 kurv.gr
 kurz.jetzt
@@ -4179,7 +4167,6 @@ l-k.io
 l-n.app
 l00p.eu
 l138.co
-l1k.ir
 l1nk.fr
 l1nk.me
 l1nx.ai
@@ -4217,7 +4204,6 @@ lapaksensa.info
 lapakwede.site
 larindahooks.link
 lastonekm.net
-lat.ms
 latingram.my
 latinhire.com
 lativ.tw
@@ -4237,7 +4223,6 @@ learnit.today
 direct.learnspread.io
 lebow.me
 leenker.io
-lef.link
 legacyecho-ai.com
 lego.build
 leica.gs
@@ -4312,7 +4297,6 @@ likes.fans
 likifi.com
 lil.ee
 lil.ge
-lil.so
 lil.vc
 lilbt.com
 lillink.net
@@ -4357,7 +4341,6 @@ link-z.net
 link1.li
 link1s.com
 link1s.net
-link1s.top
 link2.it
 link2.pt
 link24.in
@@ -4399,7 +4382,6 @@ linkbitty.com
 linkbloomer.com
 linkbreakers.com
 linkbuddha.com
-linkbulks.com
 linkbun.ch
 linkbun.com
 linkburst.online
@@ -4420,7 +4402,6 @@ linkdel.bio
 linkdly.com
 linkdly.me
 linkdoer.com
-linkdom.co
 linkdom.me
 linkdpx.xyz
 linkdrip.com
@@ -4535,7 +4516,6 @@ linkotomy.com
 linkotw.live
 linkp.ir
 linkp.online
-linkpad.pro
 linkpage.it
 linkpara.bio
 linkpatel.com
@@ -4547,7 +4527,6 @@ linkprotbkita.com
 linkqb.com
 linkqr.io
 linkr.com
-linkr.it
 linkr.uk
 linkr.vc
 linkraya.com
@@ -4977,7 +4956,6 @@ mattos.design
 matwo.fr
 mavlinks.com
 mavlynk.com
-u.mavrev.com
 mawar500.cc
 maxiurl.com
 maxlink.lol
@@ -5102,7 +5080,6 @@ microbakery.ca
 microh.link
 microlink.ro
 microlinkfy.io
-microlinks.io
 microsoftaistories.com
 microsoftfiles.live
 microurl.in
@@ -5452,7 +5429,6 @@ on.natgeo.com
 nathanaeldan.pro
 natsbee.link
 nature.ly
-naturl.io
 nav.cx
 naver.me
 go.navi.gg
@@ -5617,7 +5593,6 @@ ntbx.ir
 ntck.co
 ntlink.co
 ntn.so
-ntuc.co
 ntynak.com
 li.nuabee.fr
 nuak.org
@@ -5727,9 +5702,7 @@ om.ly
 omegalinks.in
 omg.ae
 omg.ms
-omie.marketing
 omni.ag
-omukrpo.com
 on-line.link
 on4t.com
 on4t.net
@@ -6044,7 +6017,6 @@ pipr.es
 pitchwall.co
 piti.nc
 pitlink.com
-pitt.health
 piurl.com
 pixel.link
 pixel.xin
@@ -6978,7 +6950,6 @@ sharetabs.com
 shareurl.io
 shareus.io
 shareyou.link
-shatu.nl
 shavel.ink
 shavelinks.com
 shct.io
@@ -7200,7 +7171,6 @@ shortlyfi.com
 shortlync.com
 shortlynks.com
 shortlyqr.com
-shortlyurl.in
 shortlyx.de
 shortma.de
 shortmaro.live
@@ -7216,7 +7186,6 @@ shortna.me
 shortnd.com
 shortneer.com
 shortner.app
-shortner.cc
 shortner.us
 shortnermaxi.com
 shortnerurl.org
@@ -7345,7 +7314,6 @@ shrnk.link
 shrnkz.com
 shroomxum.com
 shrt.co
-shrt.in
 shrt.it
 shrt.st
 shrt.vip
@@ -7371,7 +7339,6 @@ shrtna.com
 shrtnly.pro
 shrtnr.pro
 shrtr.cc
-shrtru.com
 shrtso.com
 shrturl.com
 shrturl.io
@@ -7883,7 +7850,6 @@ swsig.de
 swsupt.com
 swtt.cc
 short.swurl.xyz
-sxrm.tr
 sy.pe
 sy.to
 syb.la
@@ -8150,7 +8116,6 @@ timnao.link
 timxxx.ink
 tin.li
 go.tinder.com
-tinderurl.com
 tini.cc
 tini.cx
 tinky.cc
@@ -8177,7 +8142,6 @@ tiny-link.org
 tiny-links.com
 tiny-links.net
 tiny-url.me
-tiny123.com
 tiny1z.com
 tiny4t.com
 tinyard.co
@@ -8563,7 +8527,6 @@ u.nu
 u.to
 u-link.asia
 link.u-pov.ru
-u0c.net
 u2.to
 u2l.io
 u2s.ca
@@ -8669,7 +8632,6 @@ unyku.id
 uofr.us
 uoft.me
 url.uog.edu
-uom.link
 uorbursarysupport.com
 uos.cc
 up.to
@@ -8687,7 +8649,6 @@ upyun.online
 upzat.com
 upziq.com
 ur.link
-ur-l.ru
 ur0.link
 ur1.ca
 ur3.us
@@ -8824,7 +8785,6 @@ urlifypoint.com
 urlifys.com
 urlin.bio
 urlin.it
-urlinkz.me
 urlino.net
 urlintel.com
 urlio.co
@@ -8909,7 +8869,6 @@ urlshortx.io
 urlshoter.com
 urlshtr.com
 urlsmall.com
-urlsmall.link
 urlsminify.com
 urlsmush.com
 urlsnap.com
@@ -9526,7 +9485,6 @@ ws-link.de
 ws91.cn
 on.wsj.com
 wslat.net
-wso.li
 wssurl.com
 wsurl.link
 wtc.la
@@ -9577,7 +9535,6 @@ xbx.lv
 url.xcode.no
 xcrl.us
 xdomain.io
-xdxd.org
 xemoday.com
 xemthem.link
 xenvn.com
@@ -9659,7 +9616,6 @@ xut.io
 xvirt.it
 xxlink.me
 xxs.pt
-xxuse.com
 xxxdwz.cc
 xxxdwz.co
 xxxdwz.com
@@ -9689,7 +9645,6 @@ yap.im
 yas.fyi
 yaso.su
 yatesinspayments.com
-yatradham.net
 yau.sh
 yayin.la
 yb.gd
@@ -9701,7 +9656,6 @@ yect.com
 yelp.to
 yep.it
 yep.pt
-yepp.link
 yero.it
 yes.link
 yesb.app
@@ -9803,7 +9757,6 @@ zapurl.me
 zapurl.net
 zapurls.com
 zarnecka.com
-zaya.io
 s.zazuko.com
 zbitly.com
 zc.vg
@@ -9865,7 +9818,6 @@ ziypto.com
 zizi.ly
 zkrat.me
 zkrt.cz
-zlasds.com
 zlink.fun
 zlinks.me
 zln.do

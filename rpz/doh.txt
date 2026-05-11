@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778443080 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778499960 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 May 2026 19:58 UTC
-; Version: 2026.0510.1958.53
+; Last modified: 11 May 2026 11:46 UTC
+; Version: 2026.0511.1146.58
 ; Syntax: RPZ
-; Number of entries: 6902
+; Number of entries: 6908
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1217,8 +1217,12 @@ dns.ikataruto.com CNAME .
 *.dns.ikataruto.com CNAME .
 mnsvless.ikwb.com CNAME .
 *.mnsvless.ikwb.com CNAME .
+ilinhy.com CNAME .
+*.ilinhy.com CNAME .
 ilmxs.com CNAME .
 *.ilmxs.com CNAME .
+dns.imaicool.com CNAME .
+*.dns.imaicool.com CNAME .
 ad.imblien.com CNAME .
 *.ad.imblien.com CNAME .
 noads.imbuffering.com CNAME .
@@ -6097,6 +6101,8 @@ dns.daarrk.tech CNAME .
 *.dns.daarrk.tech CNAME .
 dns.everdns.tech CNAME .
 *.dns.everdns.tech CNAME .
+hanniel.tech CNAME .
+*.hanniel.tech CNAME .
 dns.moraes.tech CNAME .
 *.dns.moraes.tech CNAME .
 qqmcfw.tech CNAME .

@@ -680,13 +680,6 @@
       }
     },
     {
-      "PK": "500mb.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "50megs.com",
       "action": {
         "do": 0,
@@ -701,14 +694,14 @@
       }
     },
     {
-      "PK": "530.at",
+      "PK": "50webs.org",
       "action": {
         "do": 0,
         "status": 1
       }
     },
     {
-      "PK": "5gbfree.com",
+      "PK": "530.at",
       "action": {
         "do": 0,
         "status": 1
@@ -1269,6 +1262,13 @@
     },
     {
       "PK": "atspace.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "atspace.org",
       "action": {
         "do": 0,
         "status": 1
@@ -4362,13 +4362,6 @@
       }
     },
     {
-      "PK": "girlsense.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "glitch.me",
       "action": {
         "do": 0,
@@ -6028,6 +6021,13 @@
       }
     },
     {
+      "PK": "netspace.net.au",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "netten.ru",
       "action": {
         "do": 0,
@@ -7107,6 +7107,13 @@
     },
     {
       "PK": "sophiashantidaniel.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sosblog.com",
       "action": {
         "do": 0,
         "status": 1

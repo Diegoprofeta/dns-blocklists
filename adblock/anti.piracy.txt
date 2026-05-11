@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 May 2026 20:01 UTC
-! Version: 2026.0510.2001.02
+! Last modified: 11 May 2026 16:16 UTC
+! Version: 2026.0511.1616.54
 ! Syntax: AdBlock
-! Number of entries: 12605
+! Number of entries: 12625
 !
 ||003396815.xyz^
 ||004430.xyz^
@@ -912,6 +912,7 @@
 ||animemolecules.com^
 ||animemoviespot.com^
 ||animemusicvideos.org^
+||animenagi.com^
 ||animencodes.com^
 ||animenosub.to^
 ||animeon.club^
@@ -4747,6 +4748,7 @@
 ||gomoviefree.sc^
 ||gomovies.click^
 ||gomovies.film^
+||gomovies.guru^
 ||gomovies.kim^
 ||gomovies.ltd^
 ||gomovies.men^
@@ -4768,6 +4770,7 @@
 ||goojara.ch^
 ||goojara.to^
 ||gopee.monster^
+||gophie.cam^
 ||retracker.gorcomnet.ru^
 ||gostream.cool^
 ||gostream.eu^
@@ -4804,6 +4807,7 @@
 ||gtorrent.pro^
 ||gtorrent.ru^
 ||gtorrents.sbs^
+||gtorrents.site^
 ||guarda-serie.click^
 ||guardaflix.com^
 ||guardaflix.fm^
@@ -4863,6 +4867,7 @@
 ||guardaserie.vg^
 ||guardaserie.video^
 ||guardaserie.website^
+||guardaserie.world^
 ||guardaserie.ws^
 ||guardaserie.wtf^
 ||guardaserie.xyz^
@@ -4936,6 +4941,7 @@
 ||tracker.harry.lu^
 ||haruhichan.com^
 ||harum168gol.cfd^
+||zerocool.has.it^
 ||haschcon.com^
 ||ytqhd.hauxcore.de^
 ||haxmac.cc^
@@ -4949,6 +4955,7 @@
 ||hazebooter.com^
 ||hazeflix.com^
 ||hbosus.com^
+||hd-bits.ro^
 ||hd-cztorrent.cz^
 ||hd-rezka.pro^
 ||hd-source.to^
@@ -5006,6 +5013,7 @@
 ||hdfilme.legal^
 ||hdfilme.life^
 ||hdfilme.me^
+||hdfilme.media^
 ||hdfilme.my^
 ||hdfilme.net^
 ||hdfilme.nl^
@@ -5057,9 +5065,11 @@
 ||hdmovie2.archi^
 ||hdmovie2.asia^
 ||hdmovie2.at^
+||hdmovie2.autos^
 ||hdmovie2.bar^
 ||hdmovie2.bargains^
 ||hdmovie2.beauty^
+||hdmovie2.beer^
 ||hdmovie2.best^
 ||hdmovie2.bet^
 ||hdmovie2.bid^
@@ -5132,6 +5142,7 @@
 ||hdmovie2.gr^
 ||hdmovie2.graphics^
 ||hdmovie2.gratis^
+||hdmovie2.gripe^
 ||hdmovie2.guru^
 ||hdmovie2.gy^
 ||hdmovie2.hair^
@@ -5255,6 +5266,7 @@
 ||hdmovie2.wang^
 ||hdmovie2.watch^
 ||hdmovie2.webcam^
+||hdmovie2.win^
 ||hdmovie2.work^
 ||hdmovie2.ws^
 ||hdmovie2.wtf^
@@ -5342,6 +5354,7 @@
 ||hesgoal.pro^
 ||hesgoal.today^
 ||hesgoal.watch^
+||hesgoal.website^
 ||hesgoal.world^
 ||hesgoal-tv.space^
 ||hesgoal1.net^
@@ -5622,6 +5635,7 @@
 ||intos382gos.com^
 ||intrepidbd.com^
 ||invalid.pw^
+||inzarbod.site^
 ||watch.inzi.dev^
 ||tracker.iochimari.moe^
 ||ionbooter.com^
@@ -5635,6 +5649,7 @@
 ||ip8ktv.com^
 ||ipacrack.com^
 ||ipalibrary.me^
+||ipboot.xyz^
 ||speedtest.iperson.xyz^
 ||tracker.iperson.xyz^
 ||v2.iperson.xyz^
@@ -5649,6 +5664,7 @@
 ||ipmart-forum.com^
 ||ipstress.in^
 ||ipstresser.com^
+||ipstresser.wtf^
 ||iptorrents.com^
 ||iptv-web.app^
 ||iptv4me.net^
@@ -5656,6 +5672,7 @@
 ||iptvguard.app^
 ||iptvonly.tv^
 ||iptvprova.com^
+||iptvs.pw^
 ||iptvsource.com^
 ||iptvstream.tv^
 ||iptvsupra.com^
@@ -5745,6 +5762,7 @@
 ||japscan.ws^
 ||javafooty.com^
 ||javbus.com^
+||javccdd.net^
 ||javfeed.com^
 ||javjunkies.com^
 ||javlibrary.com^
@@ -8127,6 +8145,7 @@
 ||pdfroom.com^
 ||peace-and.love^
 ||peckservers.com^
+||u.peer-exchange.download^
 ||peers.fm^
 ||peersteers.org^
 ||pegleg.it^
@@ -10951,6 +10970,7 @@
 ||tpbpiratebayproxy.com^
 ||tpbproxy.xyz^
 ||tpbproxypirate.com^
+||udp.trackarr.org^
 ||tracker.army^
 ||tracker.bz^
 ||tracker.cl^
@@ -11190,7 +11210,6 @@
 ||ultraflixhd.net^
 ||ultramovies.net^
 ||cerf.cs.umd.edu^
-||websites.umich.edu^
 ||ummagurau.com^
 ||umq.me^
 ||tracker.umunu.ru^
@@ -12374,6 +12393,7 @@
 ||adobecccrack2017formacandwindows.yolasite.com^
 ||allserver.yolasite.com^
 ||utvbd.yolasite.com^
+||yomovies.health^
 ||yomovies.pet^
 ||yomovies.productions^
 ||yomovies.technology^

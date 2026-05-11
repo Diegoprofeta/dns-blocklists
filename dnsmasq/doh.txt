@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 May 2026 19:58 UTC
-# Version: 2026.0510.1958.53
+# Last modified: 11 May 2026 11:46 UTC
+# Version: 2026.0511.1146.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3451
+# Number of entries: 3454
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1577,6 +1577,7 @@ local=/dns.hakutakucn.com/
 local=/dns.hanahira.dev/
 local=/adguard.haneulo.com/
 local=/dns.hanmey.de/
+local=/hanniel.tech/
 local=/dns.hannielzhang.com/
 local=/jp.hannielzhang.com/
 local=/d.hansj.cc/
@@ -1745,7 +1746,9 @@ local=/iij.jp/
 local=/ikarosalpha.xyz/
 local=/dns.ikataruto.com/
 local=/mnsvless.ikwb.com/
+local=/ilinhy.com/
 local=/ilmxs.com/
+local=/dns.imaicool.com/
 local=/ad.imblien.com/
 local=/noads.imbuffering.com/
 local=/dns.imchristian.de/

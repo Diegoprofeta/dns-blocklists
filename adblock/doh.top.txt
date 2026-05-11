@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 May 2026 19:59 UTC
-! Version: 2026.0510.1959.25
+! Last modified: 11 May 2026 11:47 UTC
+! Version: 2026.0511.1147.32
 ! Syntax: AdBlock
-! Number of entries: 3397
+! Number of entries: 3399
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -1714,7 +1714,9 @@
 ||ikarosalpha.xyz^
 ||dns.ikataruto.com^
 ||mnsvless.ikwb.com^
+||ilinhy.com^
 ||ilmxs.com^
+||dns.imaicool.com^
 ||ad.imblien.com^
 ||noads.imbuffering.com^
 ||dns.imchristian.de^

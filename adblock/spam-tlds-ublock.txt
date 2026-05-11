@@ -11,10 +11,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 May 2026 19:38 UTC
-! Version: 2026.0510.1938.02
+! Last modified: 11 May 2026 16:25 UTC
+! Version: 2026.0511.1625.10
 ! Syntax: uBlock
-! Number of latin TLDs: 294 - punycode TLDs: 151
+! Number of latin TLDs: 296 - punycode TLDs: 151
 !
 ||actor^$doc
 ||africa^$doc,domain=~nation.africa
@@ -69,6 +69,7 @@
 ||cm^$doc,domain=~google.cm|~prop.cm
 ||co.com^$doc
 ||college^$doc
+||com.cn^$doc
 ||computer^$doc,domain=~helium.computer|~libre.computer|~neat.computer|~silly.computer
 ||consulting^$doc
 ||cool^$doc,domain=~cnyes.cool|~compromise.cool|~eagle.cool|~shirtz.cool|~upbitit.cool
@@ -202,6 +203,7 @@
 ||onl^$doc,domain=~gc.onl
 ||online^$doc,domain=~2kweb.online|~adguard-vpn.online|~argon2.online|~bebraver.online|~blink.online|~cf-equality.online|~dancewave.online|~discuss.online|~dnslookup.online|~dnsspeedtest.online|~eufh.online|~fireshinegames.online|~flexilead.online|~forceofwind.online|~geoigarape.online|~grapheneos.online|~incdn.online|~infomax.online|~instructions.online|~manuals.online|~mastodon.online|~mrprice.online|~open.online|~order.online|~owncast.online|~photostore24.online|~radarpayment.online|~randemretail.online|~ravendawn.online|~shueisha.online|~vmwesa.online|~zander.online
 ||ooo^$doc,domain=~term.ooo|~toast.ooo
+||org.cn^$doc
 ||partners^$doc,domain=~1password.partners|~nvidia.partners|~stripe.partners|~xh.partners
 ||parts^$doc
 ||party^$doc,domain=~ducks.party|~mstdn.party|~ntc.party|~spankbang.party|~wmars.party
@@ -261,7 +263,7 @@
 ||studio^$doc,domain=~affinity.studio|~ai.studio|~firebase.studio|~flourish.studio|~starapps.studio|~woodsea.studio|~zenn.studio
 ||style^$doc,domain=~primer.style|~shiki.style
 ||su^$doc,domain=~encode.su|~jpg4.su|~jpg6.su|~promportal.su|~saint2.su
-||support^$doc,domain=~ada.support|~jitsi.support
+||support^$doc,domain=~ada.support|~jitsi.support|~windrose.support
 ||surf^$doc,domain=~s-wings.surf
 ||sx^$doc,domain=~filemoon.sx|~voe.sx
 ||sydney^$doc
@@ -276,7 +278,7 @@
 ||today^$doc,domain=~addtocart.today|~applefans.today|~archive.today|~eventz.today|~futurology.today|~lemmy.today|~oceanhero.today|~oldweb.today|~som.today|~type.today
 ||tokyo^$doc
 ||top^$doc,domain=~ambr.top|~caitlin.top|~chillx.top|~corriente.top|~cpolar.top|~dinsden.top|~edgeless.top|~magefan.top|~mastodon.top|~mianbeian.top|~nfmirrorcdn.top|~noru.top|~pegelinux.top|~polar.top|~qwertycxz.top|~reminder.top|~saltwood.top|~shucks.top|~strims.top|~suiten.top|~thedesk.top|~vsdb.top
-||town^$doc,domain=~lofi.town|~tilde.town
+||town^$doc,domain=~gather.town|~lofi.town|~tilde.town
 ||trade^$doc,domain=~composer.trade|~dx.trade|~kite.trade
 ||trading^$doc
 ||tube^$doc,domain=~hoes.tube|~neat.tube

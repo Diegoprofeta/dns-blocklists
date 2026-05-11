@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778443260 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778516160 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 May 2026 20:01 UTC
-; Version: 2026.0510.2001.02
+; Last modified: 11 May 2026 16:16 UTC
+; Version: 2026.0511.1616.54
 ; Syntax: RPZ
-; Number of entries: 25210
+; Number of entries: 25250
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -564,6 +564,8 @@ eurostreamings.autos CNAME .
 *.eurostreamings.autos CNAME .
 film-pertutti.autos CNAME .
 *.film-pertutti.autos CNAME .
+hdmovie2.autos CNAME .
+*.hdmovie2.autos CNAME .
 kkiste.autos CNAME .
 *.kkiste.autos CNAME .
 moviedokan.autos CNAME .
@@ -774,6 +776,8 @@ eurostreamings.beer CNAME .
 *.eurostreamings.beer CNAME .
 guardaserietv.beer CNAME .
 *.guardaserietv.beer CNAME .
+hdmovie2.beer CNAME .
+*.hdmovie2.beer CNAME .
 netmirror.beer CNAME .
 *.netmirror.beer CNAME .
 nuclein.beer CNAME .
@@ -1440,6 +1444,8 @@ french-stream.cam CNAME .
 *.french-stream.cam CNAME .
 gogo-flix.cam CNAME .
 *.gogo-flix.cam CNAME .
+gophie.cam CNAME .
+*.gophie.cam CNAME .
 guardaserie.cam CNAME .
 *.guardaserie.cam CNAME .
 hdfull.cam CNAME .
@@ -3288,6 +3294,8 @@ animemolecules.com CNAME .
 *.animemolecules.com CNAME .
 animemoviespot.com CNAME .
 *.animemoviespot.com CNAME .
+animenagi.com CNAME .
+*.animenagi.com CNAME .
 animencodes.com CNAME .
 *.animencodes.com CNAME .
 animepahe.com CNAME .
@@ -9740,6 +9748,8 @@ kmspico.download CNAME .
 *.kmspico.download CNAME .
 olamovies.download CNAME .
 *.olamovies.download CNAME .
+u.peer-exchange.download CNAME .
+*.u.peer-exchange.download CNAME .
 revancedapp.download CNAME .
 *.revancedapp.download CNAME .
 streamingcommunityz.download CNAME .
@@ -9764,8 +9774,6 @@ diva.sfsu.edu CNAME .
 *.diva.sfsu.edu CNAME .
 cerf.cs.umd.edu CNAME .
 *.cerf.cs.umd.edu CNAME .
-websites.umich.edu CNAME .
-*.websites.umich.edu CNAME .
 guardaserie.education CNAME .
 *.guardaserie.education CNAME .
 streamingcommunity.education CNAME .
@@ -10792,6 +10800,8 @@ vegamovies.green CNAME .
 *.1tamilblasters.gripe CNAME .
 9kmovies.gripe CNAME .
 *.9kmovies.gripe CNAME .
+hdmovie2.gripe CNAME .
+*.hdmovie2.gripe CNAME .
 vegamovies.gripe CNAME .
 *.vegamovies.gripe CNAME .
 altadefinizione.group CNAME .
@@ -10818,6 +10828,8 @@ piracy.guide CNAME .
 *.piracy.guide CNAME .
 crichd.guru CNAME .
 *.crichd.guru CNAME .
+gomovies.guru CNAME .
+*.gomovies.guru CNAME .
 hdmovie2.guru CNAME .
 *.hdmovie2.guru CNAME .
 lookmovie.guru CNAME .
@@ -10874,6 +10886,8 @@ vegamovies.haus CNAME .
 *.vegamovies.haus CNAME .
 hdmovie2.health CNAME .
 *.hdmovie2.health CNAME .
+yomovies.health CNAME .
+*.yomovies.health CNAME .
 10hitmovies.help CNAME .
 *.10hitmovies.help CNAME .
 altadefinizionegratis.help CNAME .
@@ -12282,6 +12296,8 @@ guardarefilm.it CNAME .
 *.guardarefilm.it CNAME .
 guardaserie.it CNAME .
 *.guardaserie.it CNAME .
+zerocool.has.it CNAME .
+*.zerocool.has.it CNAME .
 hdtorrents.it CNAME .
 *.hdtorrents.it CNAME .
 ilgeniodellostreaming.it CNAME .
@@ -13706,6 +13722,8 @@ freemovies.media CNAME .
 *.freemovies.media CNAME .
 guardaserie.media CNAME .
 *.guardaserie.media CNAME .
+hdfilme.media CNAME .
+*.hdfilme.media CNAME .
 hdmovie2.media CNAME .
 *.hdmovie2.media CNAME .
 lordfilm-2025.media CNAME .
@@ -14926,6 +14944,8 @@ isrbx.net CNAME .
 *.isrbx.net CNAME .
 itorrents-igruha.net CNAME .
 *.itorrents-igruha.net CNAME .
+javccdd.net CNAME .
+*.javccdd.net CNAME .
 jetload.net CNAME .
 *.jetload.net CNAME .
 jkanime.net CNAME .
@@ -18386,6 +18406,8 @@ toutestgratuit.org CNAME .
 *.toutestgratuit.org CNAME .
 tparser.org CNAME .
 *.tparser.org CNAME .
+udp.trackarr.org CNAME .
+*.udp.trackarr.org CNAME .
 traderz.org CNAME .
 *.traderz.org CNAME .
 traht.org CNAME .
@@ -19372,6 +19394,8 @@ discord.heihachi.pw CNAME .
 *.discord.heihachi.pw CNAME .
 invalid.pw CNAME .
 *.invalid.pw CNAME .
+iptvs.pw CNAME .
+*.iptvs.pw CNAME .
 kickasstorrents.pw CNAME .
 *.kickasstorrents.pw CNAME .
 home.kray.pw CNAME .
@@ -19690,6 +19714,8 @@ filelist.ro CNAME .
 *.filelist.ro CNAME .
 fshd.ro CNAME .
 *.fshd.ro CNAME .
+hd-bits.ro CNAME .
+*.hd-bits.ro CNAME .
 hgzone.ro CNAME .
 *.hgzone.ro CNAME .
 hianimes.ro CNAME .
@@ -20860,6 +20886,8 @@ glacierfalcon72.site CNAME .
 *.glacierfalcon72.site CNAME .
 gostream.site CNAME .
 *.gostream.site CNAME .
+gtorrents.site CNAME .
+*.gtorrents.site CNAME .
 guardaserie.site CNAME .
 *.guardaserie.site CNAME .
 guardaserietv.site CNAME .
@@ -20868,6 +20896,8 @@ hdmovie2.site CNAME .
 *.hdmovie2.site CNAME .
 ilgeniodellostreaming.site CNAME .
 *.ilgeniodellostreaming.site CNAME .
+inzarbod.site CNAME .
+*.inzarbod.site CNAME .
 italia-film.site CNAME .
 *.italia-film.site CNAME .
 juraganfilm.site CNAME .
@@ -24104,6 +24134,8 @@ fzmovies.website CNAME .
 *.fzmovies.website CNAME .
 guardaserie.website CNAME .
 *.guardaserie.website CNAME .
+hesgoal.website CNAME .
+*.hesgoal.website CNAME .
 instasave.website CNAME .
 *.instasave.website CNAME .
 kinox.website CNAME .
@@ -24190,6 +24222,8 @@ flixtor.win CNAME .
 *.flixtor.win CNAME .
 hdfilme.win CNAME .
 *.hdfilme.win CNAME .
+hdmovie2.win CNAME .
+*.hdmovie2.win CNAME .
 myflixer.win CNAME .
 *.myflixer.win CNAME .
 pinoymovieshub.win CNAME .
@@ -24274,6 +24308,8 @@ fmovies.world CNAME .
 *.fmovies.world CNAME .
 gamebounty.world CNAME .
 *.gamebounty.world CNAME .
+guardaserie.world CNAME .
+*.guardaserie.world CNAME .
 guardaserietv.world CNAME .
 *.guardaserietv.world CNAME .
 hdf.world CNAME .
@@ -24582,6 +24618,8 @@ guardaserie.wtf CNAME .
 *.guardaserie.wtf CNAME .
 hdmovie2.wtf CNAME .
 *.hdmovie2.wtf CNAME .
+ipstresser.wtf CNAME .
+*.ipstresser.wtf CNAME .
 kinox.wtf CNAME .
 *.kinox.wtf CNAME .
 megakino.wtf CNAME .
@@ -24876,6 +24914,8 @@ inattvgir-amp.xyz CNAME .
 *.inattvgir-amp.xyz CNAME .
 ind-unblock.xyz CNAME .
 *.ind-unblock.xyz CNAME .
+ipboot.xyz CNAME .
+*.ipboot.xyz CNAME .
 speedtest.iperson.xyz CNAME .
 *.speedtest.iperson.xyz CNAME .
 tracker.iperson.xyz CNAME .

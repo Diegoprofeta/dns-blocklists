@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 May 2026 19:58 UTC
-# Version: 2026.0510.1958.20
+# Last modified: 11 May 2026 16:23 UTC
+# Version: 2026.0511.1623.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1481
+# Number of entries: 1477
 #
 local=/0000000000000000000000.com/
 local=/0x.no/
@@ -260,7 +260,6 @@ local=/ddnsguru.com/
 local=/ddnsking.com/
 local=/ddnslive.com/
 local=/ddnss.ch/
-local=/ddnss.de/
 local=/ddnss.eu/
 local=/ddnss.org/
 local=/ddnssec.de/
@@ -638,7 +637,6 @@ local=/guthriecontainers.com/
 local=/gw.lt/
 local=/gw1.org/
 local=/h-o-s-t.name/
-local=/h0stname.net/
 local=/h1x.com/
 local=/h4ck.me/
 local=/hackquest.com/
@@ -659,6 +657,7 @@ local=/hicam.net/
 local=/hiddencorner.org/
 local=/hijaxdesigns.com/
 local=/hin.tw/
+local=/hiprinter.com/
 local=/his.name/
 local=/hitremixes.com/
 local=/hldns.ru/
@@ -669,7 +668,6 @@ local=/hobby-site.org/
 local=/hokum-smack.com/
 local=/home.kg/
 local=/home-webserver.de/
-local=/home64.de/
 local=/homedns.org/
 local=/homeftp.net/
 local=/homeftp.org/
@@ -917,7 +915,6 @@ local=/marieblazek.com/
 local=/maurinfor.com/
 local=/mcsoft.org/
 local=/mcwrite.net/
-local=/ddns.me.uk/
 local=/dynamicdns.me.uk/
 local=/medbury.com/
 local=/medittech.com/
@@ -1168,7 +1165,6 @@ local=/publicvm.com/
 local=/pudim.info/
 local=/qc.to/
 local=/qhigh.com/
-local=/qlbv.vn/
 local=/qpoe.com/
 local=/qthome.org/
 local=/quackerscomic.com/
@@ -1195,6 +1191,7 @@ local=/root.sx/
 local=/root64.de/
 local=/roth.ca/
 local=/route64.de/
+local=/roxa.org/
 local=/rpz.su/
 local=/rtam.net/
 local=/rum.si/
@@ -1362,7 +1359,6 @@ local=/theworkpc.com/
 local=/thingsnewandused.com/
 local=/thruhere.net/
 local=/tinyrealm.com/
-local=/tobuy.us/
 local=/toh.info/
 local=/topdns.com/
 local=/topsddns.net/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 May 2026 07:29 UTC
-# Version: 2026.0510.0729.55
+# Last modified: 11 May 2026 08:16 UTC
+# Version: 2026.0511.0816.18
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2244
+# Number of entries: 2248
 #
 1-aclk.net
 1aurl.io
@@ -324,6 +324,7 @@ seu2.cleverreach.com
 145360.seu2.cleverreach.com
 151339.seu2.cleverreach.com
 154366.seu2.cleverreach.com
+156485.seu2.cleverreach.com
 159529.seu2.cleverreach.com
 161417.seu2.cleverreach.com
 161683.seu2.cleverreach.com
@@ -405,6 +406,7 @@ seu2.cleverreach.com
 313131.seu2.cleverreach.com
 315011.seu2.cleverreach.com
 315021.seu2.cleverreach.com
+315713.seu2.cleverreach.com
 316004.seu2.cleverreach.com
 317076.seu2.cleverreach.com
 317901.seu2.cleverreach.com
@@ -453,6 +455,7 @@ seu2.cleverreach.com
 444969.seu2.cleverreach.com
 448914.seu2.cleverreach.com
 449357.seu2.cleverreach.com
+450011.seu2.cleverreach.com
 92652.seu2.cleverreach.com
 94324.seu2.cleverreach.com
 94641.seu2.cleverreach.com
@@ -701,6 +704,7 @@ ff42b03a.open.convertkit-mail4.com
 preferences.convertkit-mail4.com
 preview.convertkit-mail4.com
 unsubscribe.convertkit-mail4.com
+06dea2c1.unsubscribe.convertkit-mail4.com
 e4c5c2ea.unsubscribe.convertkit-mail4.com
 data.digital.costco.ca
 data.digital.costco.com

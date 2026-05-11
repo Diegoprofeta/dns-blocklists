@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778443080 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778516580 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 May 2026 19:58 UTC
-; Version: 2026.0510.1958.20
+; Last modified: 11 May 2026 16:23 UTC
+; Version: 2026.0511.1623.00
 ; Syntax: RPZ
-; Number of entries: 2962
+; Number of entries: 2954
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -798,6 +798,8 @@ heroinewarrior.com CNAME .
 *.heroinewarrior.com CNAME .
 hijaxdesigns.com CNAME .
 *.hijaxdesigns.com CNAME .
+hiprinter.com CNAME .
+*.hiprinter.com CNAME .
 hitremixes.com CNAME .
 *.hitremixes.com CNAME .
 hobby-site.com CNAME .
@@ -1504,8 +1506,6 @@ api64.de CNAME .
 *.api64.de CNAME .
 clickip.de CNAME .
 *.clickip.de CNAME .
-ddnss.de CNAME .
-*.ddnss.de CNAME .
 ddnssec.de CNAME .
 *.ddnssec.de CNAME .
 dns64.de CNAME .
@@ -1536,8 +1536,6 @@ fuettertdasnetz.de CNAME .
 *.fuettertdasnetz.de CNAME .
 home-webserver.de CNAME .
 *.home-webserver.de CNAME .
-home64.de CNAME .
-*.home64.de CNAME .
 iot64.de CNAME .
 *.iot64.de CNAME .
 ipv64.de CNAME .
@@ -2070,8 +2068,6 @@ from-ny.net CNAME .
 *.from-ny.net CNAME .
 gets-it.net CNAME .
 *.gets-it.net CNAME .
-h0stname.net CNAME .
-*.h0stname.net CNAME .
 ham-radio-op.net CNAME .
 *.ham-radio-op.net CNAME .
 hbmc.net CNAME .
@@ -2604,6 +2600,8 @@ readmyblog.org CNAME .
 *.readmyblog.org CNAME .
 reijn.org CNAME .
 *.reijn.org CNAME .
+roxa.org CNAME .
+*.roxa.org CNAME .
 ruok.org CNAME .
 *.ruok.org CNAME .
 selfip.org CNAME .
@@ -2886,8 +2884,6 @@ fdns.uk CNAME .
 *.fdns.uk CNAME .
 freeddns.uk CNAME .
 *.freeddns.uk CNAME .
-ddns.me.uk CNAME .
-*.ddns.me.uk CNAME .
 dynamicdns.me.uk CNAME .
 *.dynamicdns.me.uk CNAME .
 d-n-s.org.uk CNAME .
@@ -2958,14 +2954,10 @@ shacknet.us CNAME .
 *.shacknet.us CNAME .
 stuff-4-sale.us CNAME .
 *.stuff-4-sale.us CNAME .
-tobuy.us CNAME .
-*.tobuy.us CNAME .
 hs.vc CNAME .
 *.hs.vc CNAME .
 webs.vc CNAME .
 *.webs.vc CNAME .
-qlbv.vn CNAME .
-*.qlbv.vn CNAME .
 k.vu CNAME .
 *.k.vu CNAME .
 dyndns.ws CNAME .

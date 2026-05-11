@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 May 2026 21:17 UTC
-# Version: 2026.0510.2117.23
+# Last modified: 11 May 2026 15:26 UTC
+# Version: 2026.0511.1526.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1258
+# Number of entries: 1259
 #
 local=/000.pe/
 local=/000a.de/
@@ -105,11 +105,10 @@ local=/433.at/
 local=/4everland.app/
 local=/4kp.de/
 local=/4u2.de/
-local=/500mb.net/
 local=/50megs.com/
 local=/50webs.com/
+local=/50webs.org/
 local=/530.at/
-local=/5gbfree.com/
 local=/5mp.eu/
 local=/5on.de/
 local=/5oo.de/
@@ -187,6 +186,7 @@ local=/at.st/
 local=/atsnx.com/
 local=/atspace.biz/
 local=/atspace.com/
+local=/atspace.org/
 local=/atwebpages.com/
 local=/au.gp/
 local=/aufbauend.de/
@@ -640,7 +640,6 @@ local=/gg123.vip/
 local=/ghost.io/
 local=/gilde.in/
 local=/gildenseite.de/
-local=/girlsense.com/
 local=/glitch.me/
 local=/sp.gname.net/
 local=/godaddysites.com/
@@ -871,6 +870,7 @@ local=/name.vg/
 local=/narod.ru/
 local=/nazuka.net/
 local=/neocities.org/
+local=/netspace.net.au/
 local=/netai.net/
 local=/netfast.org/
 local=/nethouse.ru/
@@ -1029,6 +1029,7 @@ local=/socialsmp.com/
 local=/solidwebhost.com/
 local=/somee.com/
 local=/sophiashantidaniel.com/
+local=/sosblog.com/
 local=/soup.io/
 local=/space.lc/
 local=/sport-pro.de/

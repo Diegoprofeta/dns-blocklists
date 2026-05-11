@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 May 2026 19:59 UTC
-# Version: 2026.0510.1959.40
+# Last modified: 11 May 2026 16:24 UTC
+# Version: 2026.0511.1624.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 18306
+# Number of entries: 18320
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -5586,7 +5586,6 @@ local=/dns.dyn1.de/
 local=/akhilkalwakurthy.dyndns.org/
 local=/ueni.dyndns.org/
 local=/roucious.dyndns-remote.com/
-local=/jrdnswork.dyndns1.de/
 local=/adbox-v9.dynipv6.de/
 local=/interstaller-ae.dynipv6.de/
 local=/interstellar-ad.dynipv6.de/
@@ -7671,6 +7670,7 @@ local=/gouzicloud.com/
 local=/gouziyunclash.com/
 local=/gouziyunjc.com/
 local=/govacademyhub.com/
+local=/govpn.pw/
 local=/govpolicyhub.com/
 local=/apamerican.govt.hu/
 local=/office.govt.hu/
@@ -7779,6 +7779,7 @@ local=/grim-ora.ru/
 local=/adg.grinavto.ru/
 local=/dns.grinevich.eu/
 local=/dnsblock.grisumedia.de/
+local=/nana.rammer.grnyiui.shop/
 local=/zinko.grocerybear.lat/
 local=/dns.groupesaintmichel.fr/
 local=/ashtonisapig.groups.id/
@@ -7946,6 +7947,7 @@ local=/supbro.handle.ar/
 local=/topofthemorning.handle.ar/
 local=/adguard.haneulo.com/
 local=/dns.hanmey.de/
+local=/hanniel.tech/
 local=/dns.hannielzhang.com/
 local=/jp.hannielzhang.com/
 local=/hans-kuailian.com/
@@ -8556,7 +8558,11 @@ local=/hriscanskaadventistickacrkva.com/
 local=/hrj939rzl.online/
 local=/hrzn1.site/
 local=/drive.google.com.hs.vc/
+local=/defoclasswork.hs.vc/
+local=/freakybob.hs.vc/
+local=/jahyussif.hs.vc/
 local=/grid.know.hs.vc/
+local=/proxyforfriends.hs.vc/
 local=/hs5vae2vi.online/
 local=/apply.hsdjefferson.org/
 local=/info.hsdjefferson.org/
@@ -8820,6 +8826,7 @@ local=/mnsvless.ikwb.com/
 local=/ilazonrw.com/
 local=/ilcsdnkf.com/
 local=/ilhoyml8z94bkq5h87sgmh.online/
+local=/ilinhy.com/
 local=/ilink-a.com/
 local=/forschoolonlyss.ilja.org/
 local=/ilmxs.com/
@@ -8847,6 +8854,7 @@ local=/imageflow.club/
 local=/youtube.imagetemplate.net/
 local=/imagetrove.org/
 local=/imaginelearningmath.com/
+local=/dns.imaicool.com/
 local=/imbavpn.mom/
 local=/ad.imblien.com/
 local=/noads.imbuffering.com/
@@ -8993,6 +9001,7 @@ local=/instantunblock.com/
 local=/wildcard.instructure.site/
 local=/math.intasarn.com/
 local=/intego.com/
+local=/interdoge.cfd/
 local=/interncloud.info/
 local=/science.internet-slackers.us/
 local=/academic.internetbowser.com/
@@ -9010,6 +9019,7 @@ local=/intl-alliance.com/
 local=/inunison.net/
 local=/riquee.inuo.pub/
 local=/dns.invent.hr/
+local=/myhw.helper1.investigacionpolitica.com/
 local=/invisv.com/
 local=/iohnhbly.com/
 local=/ion.pm/
@@ -9047,11 +9057,13 @@ local=/ipinator.com/
 local=/iplama.com/
 local=/ipnproxy.com/
 local=/dns.ipoac.nl/
+local=/iportal.me/
 local=/ipprotectionauth.goog/
 local=/ipracevpn.com/
 local=/iprovpn.com/
 local=/iprovpn.dev/
 local=/iproxy.blog/
+local=/iproxy.lol/
 local=/iproxyvpn.mom/
 local=/iproyal.com/
 local=/ipsec-vpn.help/
@@ -9279,6 +9291,8 @@ local=/argus1.jcconnell.com/
 local=/jcdns.fun/
 local=/dns.jd.com/
 local=/jdsaaz7dplvp.online/
+local=/anyweatherispepsiweather.1903.jdymqic.shop/
+local=/6767alpharizzmath.jdymqic.shop/
 local=/s8.amazonaws.jdymqic.shop/
 local=/ijustwanttstowork.dsylexia.jdymqic.shop/
 local=/securly.com.jedimasters.net/

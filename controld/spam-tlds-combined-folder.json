@@ -1358,6 +1358,13 @@
       }
     },
     {
+      "PK": "*.com.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "comick.pictures",
       "action": {
         "do": 1,
@@ -2824,6 +2831,13 @@
       "PK": "*.garden",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "gather.town",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
@@ -5456,6 +5470,13 @@
       "PK": "order.online",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.org.cn",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },
@@ -8277,6 +8298,13 @@
       "PK": "*.win",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "windrose.support",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },

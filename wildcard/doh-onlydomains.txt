@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 May 2026 19:58 UTC
-# Version: 2026.0510.1958.53
+# Last modified: 11 May 2026 11:46 UTC
+# Version: 2026.0511.1146.58
 # Syntax: Domains (without subdomains)
-# Number of entries: 3451
+# Number of entries: 3454
 #
 ss.0001.xyz
 003153.xyz
@@ -1577,6 +1577,7 @@ dns.hakutakucn.com
 dns.hanahira.dev
 adguard.haneulo.com
 dns.hanmey.de
+hanniel.tech
 dns.hannielzhang.com
 jp.hannielzhang.com
 d.hansj.cc
@@ -1745,7 +1746,9 @@ iij.jp
 ikarosalpha.xyz
 dns.ikataruto.com
 mnsvless.ikwb.com
+ilinhy.com
 ilmxs.com
+dns.imaicool.com
 ad.imblien.com
 noads.imbuffering.com
 dns.imchristian.de
