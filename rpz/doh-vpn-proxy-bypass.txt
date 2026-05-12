@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778580300 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778606400 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 May 2026 10:05 UTC
-; Version: 2026.0512.1005.47
+; Last modified: 12 May 2026 17:20 UTC
+; Version: 2026.0512.1720.27
 ; Syntax: RPZ
-; Number of entries: 36700
+; Number of entries: 36708
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -18559,6 +18559,8 @@ unblockit.pages.dev CNAME .
 *.unblockit.pages.dev CNAME .
 uv-staticf.pages.dev CNAME .
 *.uv-staticf.pages.dev CNAME .
+vaporgithub.pages.dev CNAME .
+*.vaporgithub.pages.dev CNAME .
 vaporsite.pages.dev CNAME .
 *.vaporsite.pages.dev CNAME .
 wowinterstellar.pages.dev CNAME .
@@ -32875,6 +32877,8 @@ obscurenamelab.shop CNAME .
 *.obscurenamelab.shop CNAME .
 dns.olimpya44.shop CNAME .
 *.dns.olimpya44.shop CNAME .
+paradise-human.shop CNAME .
+*.paradise-human.shop CNAME .
 rivrs.shop CNAME .
 *.rivrs.shop CNAME .
 secure-proxy.shop CNAME .
@@ -36185,6 +36189,10 @@ partmo5.xyz CNAME .
 *.partmo5.xyz CNAME .
 paskam.xyz CNAME .
 *.paskam.xyz CNAME .
+loan.paymdm.xyz CNAME .
+*.loan.paymdm.xyz CNAME .
+pepetio.xyz CNAME .
+*.pepetio.xyz CNAME .
 perceptrons.xyz CNAME .
 *.perceptrons.xyz CNAME .
 pingbi.xyz CNAME .

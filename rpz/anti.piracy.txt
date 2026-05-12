@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778579880 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778605920 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 May 2026 09:58 UTC
-; Version: 2026.0512.0958.18
+; Last modified: 12 May 2026 17:12 UTC
+; Version: 2026.0512.1712.06
 ; Syntax: RPZ
-; Number of entries: 25316
+; Number of entries: 25340
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1898,6 +1898,8 @@ supervideo.cc CNAME .
 *.supervideo.cc CNAME .
 theindex.cc CNAME .
 *.theindex.cc CNAME .
+theoldschool.cc CNAME .
+*.theoldschool.cc CNAME .
 tinyzonetv.cc CNAME .
 *.tinyzonetv.cc CNAME .
 tlgetin.cc CNAME .
@@ -4530,6 +4532,12 @@ dizipal2065.com CNAME .
 *.dizipal2065.com CNAME .
 dizipal2066.com CNAME .
 *.dizipal2066.com CNAME .
+dizipal2067.com CNAME .
+*.dizipal2067.com CNAME .
+dizipal2069.com CNAME .
+*.dizipal2069.com CNAME .
+dizipal2070.com CNAME .
+*.dizipal2070.com CNAME .
 dizipall32.com CNAME .
 *.dizipall32.com CNAME .
 djconway.com CNAME .
@@ -6792,6 +6800,8 @@ oceansofgamess.com CNAME .
 *.oceansofgamess.com CNAME .
 oceantogames.com CNAME .
 *.oceantogames.com CNAME .
+oday-warez.com CNAME .
+*.oday-warez.com CNAME .
 offcloud.com CNAME .
 *.offcloud.com CNAME .
 official-kmspico.com CNAME .
@@ -6926,6 +6936,8 @@ patalpuri.com CNAME .
 *.patalpuri.com CNAME .
 patchfree.com CNAME .
 *.patchfree.com CNAME .
+patchsoftwares.com CNAME .
+*.patchsoftwares.com CNAME .
 patoghu.com CNAME .
 *.patoghu.com CNAME .
 patudom.com CNAME .
@@ -12022,6 +12034,8 @@ nhlstreams.io CNAME .
 *.nhlstreams.io CNAME .
 novaflix.io CNAME .
 *.novaflix.io CNAME .
+oboom.io CNAME .
+*.oboom.io CNAME .
 ohh.io CNAME .
 *.ohh.io CNAME .
 opentracker.io CNAME .
@@ -13552,6 +13566,8 @@ ssb14.nohost.me CNAME .
 *.ssb14.nohost.me CNAME .
 tracker.nrx.me CNAME .
 *.tracker.nrx.me CNAME .
+omgwtfnzbs.me CNAME .
+*.omgwtfnzbs.me CNAME .
 ddn.oncast.me CNAME .
 *.ddn.oncast.me CNAME .
 onhax.me CNAME .
@@ -13568,6 +13584,8 @@ tracker.oppaiti.me CNAME .
 *.tracker.oppaiti.me CNAME .
 passthepopcorn.me CNAME .
 *.passthepopcorn.me CNAME .
+pelisplus.me CNAME .
+*.pelisplus.me CNAME .
 piratepc.me CNAME .
 *.piratepc.me CNAME .
 tracker.pixelcove.me CNAME .
@@ -17060,6 +17078,8 @@ byrutgame.org CNAME .
 *.byrutgame.org CNAME .
 byxatab.org CNAME .
 *.byxatab.org CNAME .
+c411.org CNAME .
+*.c411.org CNAME .
 candownload.org CNAME .
 *.candownload.org CNAME .
 cartoonchaos.org CNAME .
@@ -20760,6 +20780,8 @@ luxmovies1.shop CNAME .
 *.luxmovies1.shop CNAME .
 moviesmod3.shop CNAME .
 *.moviesmod3.shop CNAME .
+olamovies.shop CNAME .
+*.olamovies.shop CNAME .
 purstream.shop CNAME .
 *.purstream.shop CNAME .
 putlockers.shop CNAME .
@@ -22234,6 +22256,8 @@ nox.to CNAME .
 *.nox.to CNAME .
 noxx.to CNAME .
 *.noxx.to CNAME .
+nzb.to CNAME .
+*.nzb.to CNAME .
 ogladaj.to CNAME .
 *.ogladaj.to CNAME .
 ololo.to CNAME .

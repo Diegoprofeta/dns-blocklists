@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778580240 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778606340 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 May 2026 10:04 UTC
-; Version: 2026.0512.1004.59
+; Last modified: 12 May 2026 17:19 UTC
+; Version: 2026.0512.1719.15
 ; Syntax: RPZ
-; Number of entries: 6914
+; Number of entries: 6920
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -5977,6 +5977,8 @@ moamao.shop CNAME .
 *.moamao.shop CNAME .
 dns.olimpya44.shop CNAME .
 *.dns.olimpya44.shop CNAME .
+paradise-human.shop CNAME .
+*.paradise-human.shop CNAME .
 polisitogel.show CNAME .
 *.polisitogel.show CNAME .
 privacydns.go6lab.si CNAME .
@@ -6853,6 +6855,10 @@ irgrdns.nullapp.xyz CNAME .
 *.irgrdns.nullapp.xyz CNAME .
 paskam.xyz CNAME .
 *.paskam.xyz CNAME .
+loan.paymdm.xyz CNAME .
+*.loan.paymdm.xyz CNAME .
+pepetio.xyz CNAME .
+*.pepetio.xyz CNAME .
 pingbi.xyz CNAME .
 *.pingbi.xyz CNAME .
 pm1239-bd.xyz CNAME .

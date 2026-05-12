@@ -223,6 +223,7 @@
 @@||passkeys.directory^
 @@||reactnative.directory^
 @@||real.discount^
+@@||cal.diy^
 @@||chainsawman.dog^
 @@||heika.dog^
 @@||misskey.dog^

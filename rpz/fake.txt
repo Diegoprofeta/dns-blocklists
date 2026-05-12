@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778574240 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778601660 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 May 2026 08:24 UTC
-; Version: 2026.0512.0824.49
+; Last modified: 12 May 2026 16:01 UTC
+; Version: 2026.0512.1601.58
 ; Syntax: RPZ
-; Number of entries: 29694
+; Number of entries: 29704
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -5774,10 +5774,6 @@ dwellgallery.com CNAME .
 *.dwellgallery.com CNAME .
 dwellinguse.com CNAME .
 *.dwellinguse.com CNAME .
-dwelllayered.com CNAME .
-*.dwelllayered.com CNAME .
-dwellmingle.com CNAME .
-*.dwellmingle.com CNAME .
 dwellserene.com CNAME .
 *.dwellserene.com CNAME .
 dwnewstoday.com CNAME .
@@ -12636,6 +12632,8 @@ oldmoneylondon.com CNAME .
 *.oldmoneylondon.com CNAME .
 olivespielzeug.com CNAME .
 *.olivespielzeug.com CNAME .
+olxbg.com CNAME .
+*.olxbg.com CNAME .
 olyava.com CNAME .
 *.olyava.com CNAME .
 omecyer.com CNAME .
@@ -12684,6 +12682,8 @@ onex-trade.com CNAME .
 *.onex-trade.com CNAME .
 onfinery.com CNAME .
 *.onfinery.com CNAME .
+emma.oninu.com CNAME .
+*.emma.oninu.com CNAME .
 onitsukatigerschweiz.com CNAME .
 *.onitsukatigerschweiz.com CNAME .
 onitsukatigervogue.com CNAME .
@@ -12910,6 +12910,8 @@ otech-duesseldorf.com CNAME .
 *.otech-duesseldorf.com CNAME .
 otkph.com CNAME .
 *.otkph.com CNAME .
+ottoramed.com CNAME .
+*.ottoramed.com CNAME .
 ottowhale.com CNAME .
 *.ottowhale.com CNAME .
 oudoor-camping-sale.com CNAME .
@@ -13054,6 +13056,8 @@ oxelvian.com CNAME .
 *.oxelvian.com CNAME .
 oxfordmarkets.com CNAME .
 *.oxfordmarkets.com CNAME .
+oxfordnewstoday.com CNAME .
+*.oxfordnewstoday.com CNAME .
 oxtrades.com CNAME .
 *.oxtrades.com CNAME .
 oyemas.com CNAME .
@@ -13064,6 +13068,8 @@ ozempic-shop.com CNAME .
 *.ozempic-shop.com CNAME .
 ozempicbezreceptu.com CNAME .
 *.ozempicbezreceptu.com CNAME .
+ozempickaufenn.com CNAME .
+*.ozempickaufenn.com CNAME .
 ozempickaufenohnerezept.com CNAME .
 *.ozempickaufenohnerezept.com CNAME .
 ozpillsdirect.com CNAME .
@@ -23780,6 +23786,8 @@ petbloom.de CNAME .
 *.petbloom.de CNAME .
 peterjeskouhren.de CNAME .
 *.peterjeskouhren.de CNAME .
+peterkaiserschuhe.de CNAME .
+*.peterkaiserschuhe.de CNAME .
 peterkenkelgruppe.de CNAME .
 *.peterkenkelgruppe.de CNAME .
 petrixa.de CNAME .
@@ -23802,6 +23810,8 @@ photoschneider.de CNAME .
 *.photoschneider.de CNAME .
 photovoltaikprofis.de CNAME .
 *.photovoltaikprofis.de CNAME .
+phpapps.de CNAME .
+*.phpapps.de CNAME .
 pibok.de CNAME .
 *.pibok.de CNAME .
 picom-nfz.de CNAME .
@@ -24464,8 +24474,6 @@ seikouhr.de CNAME .
 *.seikouhr.de CNAME .
 secure.selure.de CNAME .
 *.secure.selure.de CNAME .
-sem-solar.de CNAME .
-*.sem-solar.de CNAME .
 senade.de CNAME .
 *.senade.de CNAME .
 sendros.de CNAME .
@@ -27048,6 +27056,8 @@ oofos-sandals.net CNAME .
 *.oofos-sandals.net CNAME .
 ospreysuomi.net CNAME .
 *.ospreysuomi.net CNAME .
+otha.net CNAME .
+*.otha.net CNAME .
 ottoxaus.net CNAME .
 *.ottoxaus.net CNAME .
 paliodisiena.net CNAME .
@@ -27784,8 +27794,6 @@ gabor.com.se CNAME .
 *.gabor.com.se CNAME .
 sovkonc.ept.se CNAME .
 *.sovkonc.ept.se CNAME .
-vuisdj.sho CNAME .
-*.vuisdj.sho CNAME .
 aacloth.shop CNAME .
 *.aacloth.shop CNAME .
 aedes.shop CNAME .
@@ -28122,8 +28130,6 @@ gutkauf.shop CNAME .
 *.gutkauf.shop CNAME .
 gymshark-vip.shop CNAME .
 *.gymshark-vip.shop CNAME .
-gzalsxcp.shop CNAME .
-*.gzalsxcp.shop CNAME .
 hadorn.shop CNAME .
 *.hadorn.shop CNAME .
 hahalandsale.shop CNAME .
@@ -29170,6 +29176,10 @@ obaspa.store CNAME .
 *.obaspa.store CNAME .
 ooctaviat.store CNAME .
 *.ooctaviat.store CNAME .
+outsale.store CNAME .
+*.outsale.store CNAME .
+owabs.store CNAME .
+*.owabs.store CNAME .
 paito-hkpools.store CNAME .
 *.paito-hkpools.store CNAME .
 petoutlet.store CNAME .

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 May 2026 10:04 UTC
-# Version: 2026.0512.1004.59
+# Last modified: 12 May 2026 17:19 UTC
+# Version: 2026.0512.1719.15
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3919
+# Number of entries: 3922
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2924,6 +2924,7 @@
 0.0.0.0 adguard.pangerl.it
 0.0.0.0 dns.panszelescik.pl
 0.0.0.0 dns-ovh.panszelescik.pl
+0.0.0.0 paradise-human.shop
 0.0.0.0 dns.pari.network
 0.0.0.0 pashagame456.com
 0.0.0.0 paskam.xyz
@@ -2932,6 +2933,7 @@
 0.0.0.0 wg.pastorov.ru
 0.0.0.0 nas.patrick-antoine.fr
 0.0.0.0 dns.paxavemedia.com
+0.0.0.0 loan.paymdm.xyz
 0.0.0.0 vps-ovh.pb2004.pl
 0.0.0.0 dns.pccoach.nl
 0.0.0.0 pcgo.fun
@@ -2940,6 +2942,7 @@
 0.0.0.0 www.pdnssrvagh.online
 0.0.0.0 dns.peb-schmidt.de
 0.0.0.0 fuchur.pentament.de
+0.0.0.0 pepetio.xyz
 0.0.0.0 dns.periactes.com
 0.0.0.0 dns0.permafrostmiami.com
 0.0.0.0 dns.pernika.net

@@ -764,6 +764,13 @@
       }
     },
     {
+      "PK": "cal.diy",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "camhub.world",
       "action": {
         "do": 1,
