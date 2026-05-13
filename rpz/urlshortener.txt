@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778616420 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778660760 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 May 2026 20:07 UTC
-; Version: 2026.0512.2007.37
+; Last modified: 13 May 2026 08:26 UTC
+; Version: 2026.0513.0826.41
 ; Syntax: RPZ
-; Number of entries: 19806
+; Number of entries: 19838
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -89,6 +89,8 @@ rabit.ae CNAME .
 *.rabit.ae CNAME .
 sho.ae CNAME .
 *.sho.ae CNAME .
+shorturl.ae CNAME .
+*.shorturl.ae CNAME .
 tiny.ae CNAME .
 *.tiny.ae CNAME .
 urls.ae CNAME .
@@ -1167,6 +1169,8 @@ lets.rok.biz CNAME .
 *.lets.rok.biz CNAME .
 sbms.biz CNAME .
 *.sbms.biz CNAME .
+shorturl.biz CNAME .
+*.shorturl.biz CNAME .
 sinyi.biz CNAME .
 *.sinyi.biz CNAME .
 tinyurls.biz CNAME .
@@ -1749,6 +1753,8 @@ ricn.cc CNAME .
 *.ricn.cc CNAME .
 rsgo.cc CNAME .
 *.rsgo.cc CNAME .
+sa-link.cc CNAME .
+*.sa-link.cc CNAME .
 sayapbola.cc CNAME .
 *.sayapbola.cc CNAME .
 scay.cc CNAME .
@@ -1939,6 +1945,8 @@ sh7.ch CNAME .
 *.sh7.ch CNAME .
 shoort.ch CNAME .
 *.shoort.ch CNAME .
+shrtn.ch CNAME .
+*.shrtn.ch CNAME .
 shurl.ch CNAME .
 *.shurl.ch CNAME .
 link.stluzi.ch CNAME .
@@ -6155,6 +6163,8 @@ riot.com CNAME .
 *.riot.com CNAME .
 ritmarket.com CNAME .
 *.ritmarket.com CNAME .
+rizchi.com CNAME .
+*.rizchi.com CNAME .
 rmmlink.com CNAME .
 *.rmmlink.com CNAME .
 rngts.com CNAME .
@@ -6503,6 +6513,8 @@ shotzon.com CNAME .
 *.shotzon.com CNAME .
 shourl.com CNAME .
 *.shourl.com CNAME .
+show-ma.com CNAME .
+*.show-ma.com CNAME .
 showhntoday.com CNAME .
 *.showhntoday.com CNAME .
 showrtner.com CNAME .
@@ -6593,6 +6605,8 @@ sitegpl.com CNAME .
 *.sitegpl.com CNAME .
 sitioz.com CNAME .
 *.sitioz.com CNAME .
+skanshort.com CNAME .
+*.skanshort.com CNAME .
 skiplinko.com CNAME .
 *.skiplinko.com CNAME .
 slamfootball.com CNAME .
@@ -6607,6 +6621,8 @@ slitcy.com CNAME .
 *.slitcy.com CNAME .
 slotamina.com CNAME .
 *.slotamina.com CNAME .
+slpre.com CNAME .
+*.slpre.com CNAME .
 slptr.com CNAME .
 *.slptr.com CNAME .
 slslink.com CNAME .
@@ -9337,6 +9353,8 @@ rb.gy CNAME .
 *.rb.gy CNAME .
 short.gy CNAME .
 *.short.gy CNAME .
+sk.gy CNAME .
+*.sk.gy CNAME .
 ty.gy CNAME .
 *.ty.gy CNAME .
 refr.health CNAME .
@@ -11397,6 +11415,8 @@ rizy.ir CNAME .
 *.rizy.ir CNAME .
 sarmadinst.ir CNAME .
 *.sarmadinst.ir CNAME .
+sibly.ir CNAME .
+*.sibly.ir CNAME .
 slby.ir CNAME .
 *.slby.ir CNAME .
 tinylink.ir CNAME .
@@ -12805,6 +12825,8 @@ putar.link CNAME .
 *.putar.link CNAME .
 q8at.link CNAME .
 *.q8at.link CNAME .
+qdrop.link CNAME .
+*.qdrop.link CNAME .
 qrcreator.link CNAME .
 *.qrcreator.link CNAME .
 quee.link CNAME .
@@ -12859,6 +12881,8 @@ short-url.link CNAME .
 *.short-url.link CNAME .
 short1.link CNAME .
 *.short1.link CNAME .
+shortbio.link CNAME .
+*.shortbio.link CNAME .
 shortenme.link CNAME .
 *.shortenme.link CNAME .
 shortest.link CNAME .
@@ -14331,6 +14355,8 @@ shtn.me CNAME .
 *.shtn.me CNAME .
 shurl.me CNAME .
 *.shurl.me CNAME .
+shw.me CNAME .
+*.shw.me CNAME .
 short.silex.me CNAME .
 *.short.silex.me CNAME .
 sindo.me CNAME .
@@ -16695,6 +16721,8 @@ shrinkme.pro CNAME .
 *.shrinkme.pro CNAME .
 shrinky.pro CNAME .
 *.shrinky.pro CNAME .
+shrtct.pro CNAME .
+*.shrtct.pro CNAME .
 shrtnly.pro CNAME .
 *.shrtnly.pro CNAME .
 shrtnr.pro CNAME .
@@ -17273,6 +17301,8 @@ pym.se CNAME .
 *.pym.se CNAME .
 qra.se CNAME .
 *.qra.se CNAME .
+rt.se CNAME .
+*.rt.se CNAME .
 slnk.se CNAME .
 *.slnk.se CNAME .
 wts2.smhi.se CNAME .
@@ -18511,6 +18541,8 @@ rutgon.top CNAME .
 *.rutgon.top CNAME .
 selink.top CNAME .
 *.selink.top CNAME .
+sewei.top CNAME .
+*.sewei.top CNAME .
 shortclient.top CNAME .
 *.shortclient.top CNAME .
 shortyurl.top CNAME .

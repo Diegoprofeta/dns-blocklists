@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 May 2026 20:06 UTC
-# Version: 2026.0512.2006.54
+# Last modified: 13 May 2026 09:37 UTC
+# Version: 2026.0513.0937.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 18358
+# Number of entries: 18387
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -3479,6 +3479,28 @@ local=/adguardhome.favrep.ovh/
 local=/dns.faze.dev/
 local=/ns0.fdn.fr/
 local=/ns1.fdn.fr/
+local=/vpn.fdn.fr/
+local=/vpn-rw.fdn.fr/
+local=/vpn1.fdn.fr/
+local=/vpn1-rw.fdn.fr/
+local=/vpn10.fdn.fr/
+local=/vpn10-rw.fdn.fr/
+local=/vpn2.fdn.fr/
+local=/vpn2-rw.fdn.fr/
+local=/vpn3.fdn.fr/
+local=/vpn3-rw.fdn.fr/
+local=/vpn4.fdn.fr/
+local=/vpn4-rw.fdn.fr/
+local=/vpn5.fdn.fr/
+local=/vpn5-rw.fdn.fr/
+local=/vpn6.fdn.fr/
+local=/vpn6-rw.fdn.fr/
+local=/vpn7.fdn.fr/
+local=/vpn7-rw.fdn.fr/
+local=/vpn8.fdn.fr/
+local=/vpn8-rw.fdn.fr/
+local=/vpn9.fdn.fr/
+local=/vpn9-rw.fdn.fr/
 local=/juicewrld.feathertechno.com/
 local=/agh.feblab.click/
 local=/dns1.feear.se/
@@ -6376,6 +6398,7 @@ local=/fcbjhnk.sodfjksdflkdsf.searchegpt.com/
 local=/proxy.searchfiles.de/
 local=/geo.searchgpy.com/
 local=/gesture.searchgpy.com/
+local=/mathhelp4858.searchgpy.com/
 local=/dns.searom.ovh/
 local=/dns.seby.io/
 local=/doh.seby.io/
@@ -15324,6 +15347,7 @@ local=/quickcache.website/
 local=/quickkq.com/
 local=/quickprox.com/
 local=/quickproxies.com/
+local=/quickq-jsq.com/
 local=/quickqjiasu.net/
 local=/quicksilvervpn.com/
 local=/quintex.com/
@@ -15504,6 +15528,7 @@ local=/robovpn.com/
 local=/rock1314.com/
 local=/rocketjiasu.net/
 local=/rocketnews.site/
+local=/rocketprox.com/
 local=/rocketube.online/
 local=/rocketvpn.net/
 local=/rockwell.website/
@@ -15884,9 +15909,12 @@ local=/sitescrack.host/
 local=/sitespeedtest.net/
 local=/sitesunblocked.com/
 local=/siteunblock.org/
+local=/siteunblock.xyz/
+local=/siteunblocked.club/
 local=/siteunblocked.lol/
 local=/siteunblocked.space/
 local=/siteunblocked.website/
+local=/siteunblocked.xyz/
 local=/sitework.info/
 local=/sitx2.cc/
 local=/sjaarzmo.com/
@@ -15898,6 +15926,7 @@ local=/skipns.com/
 local=/skycoin.com/
 local=/skydragoness.com/
 local=/skyfireworld.com/
+local=/skynetwork.info/
 local=/skysaver.net/
 local=/skyssh.co/
 local=/skytreeapi.com/

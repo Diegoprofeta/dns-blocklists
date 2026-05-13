@@ -5,11 +5,60 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 May 2026 09:11 UTC
-# Version: 2026.0512.0911.22
+# Last modified: 13 May 2026 08:56 UTC
+# Version: 2026.0513.0856.50
 # Syntax: Domains (without subdomains)
-# Number of entries: 1258
+# Number of entries: 1259
 #
+one4u.0lx.net
+24.co.at
+all.co.uk
+atspace.co.uk
+blog.co.uk
+blogspot.co.at
+blogspot.co.id
+blogspot.co.il
+blogspot.co.ke
+blogspot.co.nz
+blogspot.co.uk
+blogspot.co.za
+dothome.co.kr
+thamboli.co.za
+ucoz.co.uk
+webnode.co.uk
+adr.com.ua
+blogspot.com.ar
+blogspot.com.au
+blogspot.com.br
+blogspot.com.by
+blogspot.com.co
+blogspot.com.cy
+blogspot.com.ee
+blogspot.com.eg
+blogspot.com.es
+blogspot.com.mt
+blogspot.com.ng
+blogspot.com.tr
+blogspot.com.uy
+kl.com.ua
+lojaintegrada.com.br
+webnode.com.br
+webnode.com.co
+webnode.com.ua
+webnode.com.ve
+zzz.com.ua
+sitebeat.crazydomains.com
+members.domaindlx.com
+sp.gname.net
+netspace.net.au
+24.org.es
+citybios.sa.com
+dcr.sehlat.io
+ftp.totallyanonymous.com
+h4g3z1-hoster.web.app
+example-website.work.gd
+awi.za.com
+ishg.za.com
 000.pe
 000a.de
 000free.us
@@ -31,7 +80,6 @@
 0fees.net
 0fees.us
 0hna.com
-one4u.0lx.net
 0pe.kr
 0pi.com
 1.vg
@@ -384,43 +432,7 @@ club-area.de
 clumsy.de
 cn.gp
 co.gp
-24.co.at
-all.co.uk
-atspace.co.uk
-blog.co.uk
-blogspot.co.at
-blogspot.co.id
-blogspot.co.il
-blogspot.co.ke
-blogspot.co.nz
-blogspot.co.uk
-blogspot.co.za
-dothome.co.kr
-thamboli.co.za
-ucoz.co.uk
-webnode.co.uk
 com.nu
-adr.com.ua
-blogspot.com.ar
-blogspot.com.au
-blogspot.com.br
-blogspot.com.by
-blogspot.com.co
-blogspot.com.cy
-blogspot.com.ee
-blogspot.com.eg
-blogspot.com.es
-blogspot.com.mt
-blogspot.com.ng
-blogspot.com.tr
-blogspot.com.uy
-kl.com.ua
-lojaintegrada.com.br
-webnode.com.br
-webnode.com.co
-webnode.com.ua
-webnode.com.ve
-zzz.com.ua
 com-portal.de
 com0.de
 com24.at
@@ -438,7 +450,6 @@ cool.lc
 coolpage.biz
 corolain.ru
 cprapid.com
-sitebeat.crazydomains.com
 created.app
 creatorlink.net
 cryptonight.net
@@ -475,7 +486,6 @@ dinamikajambi.com
 diowebhost.com
 dnip.net
 domain.lc
-members.domaindlx.com
 doodlekit.com
 dot.tk
 downfall.shop
@@ -640,7 +650,6 @@ gg123.vip
 gilde.in
 gildenseite.de
 glitch.me
-sp.gname.net
 godaddysites.com
 gofreeserve.com
 googletagmanagers.com
@@ -869,7 +878,6 @@ name.vg
 narod.ru
 nazuka.net
 neocities.org
-netspace.net.au
 netai.net
 netfast.org
 nethouse.ru
@@ -906,7 +914,6 @@ onlineweb.shop
 onlinewebshop.net
 only4u.eu
 onmbl.com
-24.org.es
 orgsites.com
 over-blog.com
 own-free-website.com
@@ -991,7 +998,6 @@ securebankinggroup.com
 securebankinggroup.org
 secureonline.store
 seesaa.net
-dcr.sehlat.io
 seite.com
 seite.info
 seite.ru
@@ -1081,7 +1087,6 @@ top.tc
 top8.com
 total-blog.com
 totalh.net
-ftp.totallyanonymous.com
 tr.gg
 tr.gp
 trackfinanceworld.com
@@ -1154,7 +1159,6 @@ wapka.top
 wapka.website
 web.gg
 web.pe
-h4g3z1-hoster.web.app
 web-chat.eu
 web-clan.de
 web1337.net
@@ -1212,7 +1216,6 @@ weeblysite.com
 welt.tl
 wiki.lc
 will-dich.eu
-example-website.work.gd
 world.mu
 world-blog.de
 world-store.de
@@ -1256,8 +1259,6 @@ yourjavascript.com
 yuichi.shop
 z.gp
 za.gp
-awi.za.com
-ishg.za.com
 zapier.app
 zoekvinden.nl
 zohosites.com

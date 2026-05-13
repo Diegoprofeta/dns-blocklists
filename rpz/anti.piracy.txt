@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778616480 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778664600 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 May 2026 20:08 UTC
-; Version: 2026.0512.2008.05
+; Last modified: 13 May 2026 09:30 UTC
+; Version: 2026.0513.0930.29
 ; Syntax: RPZ
-; Number of entries: 25354
+; Number of entries: 25390
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -450,6 +450,8 @@ movieku.art CNAME .
 *.movieku.art CNAME .
 myflixer.art CNAME .
 *.myflixer.art CNAME .
+newhdmovie2.art CNAME .
+*.newhdmovie2.art CNAME .
 proxtpb.art CNAME .
 *.proxtpb.art CNAME .
 purstream.art CNAME .
@@ -830,6 +832,8 @@ pirateproxy.best CNAME .
 *.pirateproxy.best CNAME .
 queijoevinhoda.best CNAME .
 *.queijoevinhoda.best CNAME .
+seriesflix.best CNAME .
+*.seriesflix.best CNAME .
 streamingcommunityz.best CNAME .
 *.streamingcommunityz.best CNAME .
 torrent-games.best CNAME .
@@ -7164,6 +7168,8 @@ bt.publicvm.com CNAME .
 *.bt.publicvm.com CNAME .
 punkoiska.com CNAME .
 *.punkoiska.com CNAME .
+punktorrents.com CNAME .
+*.punktorrents.com CNAME .
 foros.puntotorrent.com CNAME .
 *.foros.puntotorrent.com CNAME .
 pure-mac.com CNAME .
@@ -7410,6 +7416,8 @@ samftp.com CNAME .
 *.samftp.com CNAME .
 sanincode.com CNAME .
 *.sanincode.com CNAME .
+sankskritidur.com CNAME .
+*.sankskritidur.com CNAME .
 sasa68.com CNAME .
 *.sasa68.com CNAME .
 sastatus.com CNAME .
@@ -7494,6 +7502,8 @@ serialstart.com CNAME .
 *.serialstart.com CNAME .
 serialsurf.com CNAME .
 *.serialsurf.com CNAME .
+seriedownload.com CNAME .
+*.seriedownload.com CNAME .
 seriepourvous.com CNAME .
 *.seriepourvous.com CNAME .
 serieslan.com CNAME .
@@ -7568,6 +7578,8 @@ wawacity2.site-de-streaming.com CNAME .
 *.wawacity2.site-de-streaming.com CNAME .
 sitostreaming.com CNAME .
 *.sitostreaming.com CNAME .
+sjcrack.com CNAME .
+*.sjcrack.com CNAME .
 skidrow-games.com CNAME .
 *.skidrow-games.com CNAME .
 skidrowcodexgames.com CNAME .
@@ -11828,6 +11840,8 @@ seriesflix.ink CNAME .
 *.seriesflix.ink CNAME .
 shahhid4u.ink CNAME .
 *.shahhid4u.ink CNAME .
+solarmovie.ink CNAME .
+*.solarmovie.ink CNAME .
 torrentkitty.ink CNAME .
 *.torrentkitty.ink CNAME .
 uhdmovies.ink CNAME .
@@ -12226,6 +12240,8 @@ putlockerr.is CNAME .
 *.putlockerr.is CNAME .
 putlockers.is CNAME .
 *.putlockers.is CNAME .
+rainierland.is CNAME .
+*.rainierland.is CNAME .
 rarbg.is CNAME .
 *.rarbg.is CNAME .
 ripple.is CNAME .
@@ -12694,6 +12710,8 @@ piratebay.life CNAME .
 *.piratebay.life CNAME .
 serien.life CNAME .
 *.serien.life CNAME .
+seriesflix.life CNAME .
+*.seriesflix.life CNAME .
 sportsurge-v2.life CNAME .
 *.sportsurge-v2.life CNAME .
 streamingcommunity.life CNAME .
@@ -13130,6 +13148,8 @@ ipv4.rer.lol CNAME .
 *.ipv4.rer.lol CNAME .
 ipv6.rer.lol CNAME .
 *.ipv6.rer.lol CNAME .
+seriesflix.lol CNAME .
+*.seriesflix.lol CNAME .
 skytorrents.lol CNAME .
 *.skytorrents.lol CNAME .
 solarmovies-sc.lol CNAME .
@@ -15498,6 +15518,8 @@ rapideo.net CNAME .
 *.rapideo.net CNAME .
 rapidgator.net CNAME .
 *.rapidgator.net CNAME .
+rardownload.net CNAME .
+*.rardownload.net CNAME .
 raspberryheaven.net CNAME .
 *.raspberryheaven.net CNAME .
 rautaportti.net CNAME .
@@ -15618,6 +15640,8 @@ sharemania.net CNAME .
 *.sharemania.net CNAME .
 sharemovies.net CNAME .
 *.sharemovies.net CNAME .
+sharingzone.net CNAME .
+*.sharingzone.net CNAME .
 shhahid4u.net CNAME .
 *.shhahid4u.net CNAME .
 shnflac.net CNAME .
@@ -15650,6 +15674,8 @@ tracker.skyts.net CNAME .
 *.tracker.skyts.net CNAME .
 sladinki007.net CNAME .
 *.sladinki007.net CNAME .
+smilestv.net CNAME .
+*.smilestv.net CNAME .
 dn42.smrsh.net CNAME .
 *.dn42.smrsh.net CNAME .
 smwcentral.net CNAME .
@@ -18176,6 +18202,8 @@ rom-news.org CNAME .
 *.rom-news.org CNAME .
 rune-server.org CNAME .
 *.rune-server.org CNAME .
+rus-media.org CNAME .
+*.rus-media.org CNAME .
 rustradio.org CNAME .
 *.rustradio.org CNAME .
 rutor.org CNAME .
@@ -21166,6 +21194,8 @@ laroza.skin CNAME .
 *.laroza.skin CNAME .
 mycima.skin CNAME .
 *.mycima.skin CNAME .
+seriesflix.skin CNAME .
+*.seriesflix.skin CNAME .
 thecb01.skin CNAME .
 *.thecb01.skin CNAME .
 uhdmovies.skin CNAME .
@@ -21768,6 +21798,8 @@ piratebay.tech CNAME .
 *.piratebay.tech CNAME .
 tracker.pmman.tech CNAME .
 *.tracker.pmman.tech CNAME .
+skymovieshd.tech CNAME .
+*.skymovieshd.tech CNAME .
 sportsurge.tech CNAME .
 *.sportsurge.tech CNAME .
 torrent.tdjs.tech CNAME .
@@ -24100,6 +24132,8 @@ putlocker.vip CNAME .
 *.putlocker.vip CNAME .
 saiko.vip CNAME .
 *.saiko.vip CNAME .
+seriesflix.vip CNAME .
+*.seriesflix.vip CNAME .
 soaper.vip CNAME .
 *.soaper.vip CNAME .
 strumyk.vip CNAME .
@@ -25328,6 +25362,8 @@ primewire.zip CNAME .
 *.primewire.zip CNAME .
 redecanais.zip CNAME .
 *.redecanais.zip CNAME .
+redecanaistv.zip CNAME .
+*.redecanaistv.zip CNAME .
 sportspass.zip CNAME .
 *.sportspass.zip CNAME .
 rlsbb.unblockit.zip CNAME .

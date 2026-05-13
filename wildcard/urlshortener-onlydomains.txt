@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 May 2026 20:07 UTC
-# Version: 2026.0512.2007.37
+# Last modified: 13 May 2026 08:26 UTC
+# Version: 2026.0513.0826.41
 # Syntax: Domains (without subdomains)
-# Number of entries: 9903
+# Number of entries: 9919
 #
 a.189.cn
 t.2merkato.com
@@ -6573,6 +6573,7 @@ qclickbio.com
 qd.rs
 qdl.pw
 qdls.io
+qdrop.link
 qicute.com
 qikli.co
 qk.lc
@@ -6908,6 +6909,7 @@ ritea.id
 ritmarket.com
 rivablu.net
 riz.cz
+rizchi.com
 rizy.ir
 rj99.site
 rjpl.link
@@ -6962,6 +6964,7 @@ rsh.md
 rsmonkey.com
 rss.care
 rstr.me
+rt.se
 rtc.la
 rtk.tools
 rtr.sh
@@ -7021,6 +7024,7 @@ s4.is
 s4w.in
 s7y.us
 s99.tech
+sa-link.cc
 saasmaster.link
 sabriabi.net
 sactiny.com
@@ -7181,6 +7185,7 @@ serverluar.net
 serverpa.rs
 sesoft.id
 sev.ag
+sewei.top
 seylinks.com
 sf3c.tw
 sfca.re
@@ -7299,6 +7304,7 @@ shortbe.com
 shortbee.co
 shortbee.io
 shortbees.com
+shortbio.link
 shortclick.com
 shortclient.top
 shortcm.li
@@ -7479,10 +7485,12 @@ shortswitch.com
 shortturl.co
 shortu.be
 shorturl.ac
+shorturl.ae
 shorturl.asia
 shorturl.at
 shorturl.az
 shorturl.best
+shorturl.biz
 shorturl.bond
 shorturl.click
 shorturl.com
@@ -7530,6 +7538,7 @@ shotxy.com
 shotzon.com
 shourl.com
 shout.to
+show-ma.com
 showhntoday.com
 showrtner.com
 shp.ee
@@ -7583,6 +7592,7 @@ shrt.st
 shrt.vip
 shrt-l.ink
 shrtco.de
+shrtct.pro
 shrten.com
 shrten.io
 shrten.us
@@ -7597,6 +7607,7 @@ shrtly.net
 shrtm.nu
 shrtme.link
 shrtn.app
+shrtn.ch
 shrtn.ee
 shrtn.io
 shrtna.com
@@ -7633,11 +7644,13 @@ shurli.at
 shurturl.com
 shutr.bz
 shuvi.io
+shw.me
 shy.si
 shycmedi.com
 shylink.io
 shylnk.com
 sia.re
+sibly.ir
 sic.onl
 sicax.net
 sicepat.link
@@ -7686,8 +7699,10 @@ siteurl.ink
 sitioz.com
 situsslotzeus.store
 siz.la
+sk.gy
 sk.news
 sk8.by
+skanshort.com
 skimmth.is
 skiplinko.com
 skippy.online
@@ -7732,6 +7747,7 @@ slnig.link
 slnk.se
 slot633.gg
 slotamina.com
+slpre.com
 slptr.com
 slslink.com
 slugy.co

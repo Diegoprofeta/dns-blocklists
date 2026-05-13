@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778616360 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778665020 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 May 2026 20:06 UTC
-; Version: 2026.0512.2006.54
+; Last modified: 13 May 2026 09:37 UTC
+; Version: 2026.0513.0937.18
 ; Syntax: RPZ
-; Number of entries: 36716
+; Number of entries: 36774
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -3217,6 +3217,8 @@ quantora.club CNAME .
 *.quantora.club CNAME .
 sescloud.club CNAME .
 *.sescloud.club CNAME .
+siteunblocked.club CNAME .
+*.siteunblocked.club CNAME .
 suyin.club CNAME .
 *.suyin.club CNAME .
 techtecnow.club CNAME .
@@ -14299,6 +14301,8 @@ quickprox.com CNAME .
 *.quickprox.com CNAME .
 quickproxies.com CNAME .
 *.quickproxies.com CNAME .
+quickq-jsq.com CNAME .
+*.quickq-jsq.com CNAME .
 quicksilvervpn.com CNAME .
 *.quicksilvervpn.com CNAME .
 quintex.com CNAME .
@@ -14489,6 +14493,8 @@ robovpn.com CNAME .
 *.robovpn.com CNAME .
 rock1314.com CNAME .
 *.rock1314.com CNAME .
+rocketprox.com CNAME .
+*.rocketprox.com CNAME .
 rockwhisper.com CNAME .
 *.rockwhisper.com CNAME .
 dns.rogpurs.com CNAME .
@@ -14685,6 +14691,8 @@ geo.searchgpy.com CNAME .
 *.geo.searchgpy.com CNAME .
 gesture.searchgpy.com CNAME .
 *.gesture.searchgpy.com CNAME .
+mathhelp4858.searchgpy.com CNAME .
+*.mathhelp4858.searchgpy.com CNAME .
 sec-tunnel.com CNAME .
 *.sec-tunnel.com CNAME .
 dns.sec511.com CNAME .
@@ -19191,6 +19199,50 @@ ns0.fdn.fr CNAME .
 *.ns0.fdn.fr CNAME .
 ns1.fdn.fr CNAME .
 *.ns1.fdn.fr CNAME .
+vpn.fdn.fr CNAME .
+*.vpn.fdn.fr CNAME .
+vpn-rw.fdn.fr CNAME .
+*.vpn-rw.fdn.fr CNAME .
+vpn1.fdn.fr CNAME .
+*.vpn1.fdn.fr CNAME .
+vpn1-rw.fdn.fr CNAME .
+*.vpn1-rw.fdn.fr CNAME .
+vpn10.fdn.fr CNAME .
+*.vpn10.fdn.fr CNAME .
+vpn10-rw.fdn.fr CNAME .
+*.vpn10-rw.fdn.fr CNAME .
+vpn2.fdn.fr CNAME .
+*.vpn2.fdn.fr CNAME .
+vpn2-rw.fdn.fr CNAME .
+*.vpn2-rw.fdn.fr CNAME .
+vpn3.fdn.fr CNAME .
+*.vpn3.fdn.fr CNAME .
+vpn3-rw.fdn.fr CNAME .
+*.vpn3-rw.fdn.fr CNAME .
+vpn4.fdn.fr CNAME .
+*.vpn4.fdn.fr CNAME .
+vpn4-rw.fdn.fr CNAME .
+*.vpn4-rw.fdn.fr CNAME .
+vpn5.fdn.fr CNAME .
+*.vpn5.fdn.fr CNAME .
+vpn5-rw.fdn.fr CNAME .
+*.vpn5-rw.fdn.fr CNAME .
+vpn6.fdn.fr CNAME .
+*.vpn6.fdn.fr CNAME .
+vpn6-rw.fdn.fr CNAME .
+*.vpn6-rw.fdn.fr CNAME .
+vpn7.fdn.fr CNAME .
+*.vpn7.fdn.fr CNAME .
+vpn7-rw.fdn.fr CNAME .
+*.vpn7-rw.fdn.fr CNAME .
+vpn8.fdn.fr CNAME .
+*.vpn8.fdn.fr CNAME .
+vpn8-rw.fdn.fr CNAME .
+*.vpn8-rw.fdn.fr CNAME .
+vpn9.fdn.fr CNAME .
+*.vpn9.fdn.fr CNAME .
+vpn9-rw.fdn.fr CNAME .
+*.vpn9-rw.fdn.fr CNAME .
 fiberproxy.fr CNAME .
 *.fiberproxy.fr CNAME .
 jalexx.freeboxos.fr CNAME .
@@ -20853,6 +20905,8 @@ sitework.info CNAME .
 *.sitework.info CNAME .
 gr.skrsteam.info CNAME .
 *.gr.skrsteam.info CNAME .
+skynetwork.info CNAME .
+*.skynetwork.info CNAME .
 speedcat.info CNAME .
 *.speedcat.info CNAME .
 speedstream.info CNAME .
@@ -36331,6 +36385,10 @@ simply-history.xyz CNAME .
 *.simply-history.xyz CNAME .
 sinaproject.xyz CNAME .
 *.sinaproject.xyz CNAME .
+siteunblock.xyz CNAME .
+*.siteunblock.xyz CNAME .
+siteunblocked.xyz CNAME .
+*.siteunblocked.xyz CNAME .
 skibidislicers.xyz CNAME .
 *.skibidislicers.xyz CNAME .
 skytreeapi.xyz CNAME .
