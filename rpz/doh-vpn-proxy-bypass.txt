@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778691660 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778751660 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 May 2026 17:01 UTC
-; Version: 2026.0513.1701.31
+; Last modified: 14 May 2026 09:41 UTC
+; Version: 2026.0514.0941.00
 ; Syntax: RPZ
-; Number of entries: 36800
+; Number of entries: 36828
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -683,6 +683,8 @@ jolly1.dns.army CNAME .
 *.jolly1.dns.army CNAME .
 moremore.dns.army CNAME .
 *.moremore.dns.army CNAME .
+fancy.v6.army CNAME .
+*.fancy.v6.army CNAME .
 resolver.arpa CNAME .
 *.resolver.arpa CNAME .
 atomicspike.art CNAME .
@@ -15925,6 +15927,8 @@ turbossh.com CNAME .
 *.turbossh.com CNAME .
 turbovpn.com CNAME .
 *.turbovpn.com CNAME .
+turmericrecipes.com CNAME .
+*.turmericrecipes.com CNAME .
 tuvpn.com CNAME .
 *.tuvpn.com CNAME .
 tuxler.com CNAME .
@@ -16357,6 +16361,8 @@ victorytechnologypro.com CNAME .
 *.victorytechnologypro.com CNAME .
 videoplayerviewer.com CNAME .
 *.videoplayerviewer.com CNAME .
+videounblock.com CNAME .
+*.videounblock.com CNAME .
 videounblocked.com CNAME .
 *.videounblocked.com CNAME .
 vidproxy.com CNAME .
@@ -16413,6 +16419,8 @@ vpn-naoborot.com CNAME .
 *.vpn-naoborot.com CNAME .
 vpn-naruzhu.com CNAME .
 *.vpn-naruzhu.com CNAME .
+vpn-quick.com CNAME .
+*.vpn-quick.com CNAME .
 vpn-simple.com CNAME .
 *.vpn-simple.com CNAME .
 vpn-tn.com CNAME .
@@ -16441,6 +16449,8 @@ vpnaccounts.com CNAME .
 *.vpnaccounts.com CNAME .
 vpnaddsplus.com CNAME .
 *.vpnaddsplus.com CNAME .
+vpnagent.com CNAME .
+*.vpnagent.com CNAME .
 vpnapplication.com CNAME .
 *.vpnapplication.com CNAME .
 vpnarea.com CNAME .
@@ -16969,6 +16979,8 @@ dot.xfinity.com CNAME .
 *.dot.xfinity.com CNAME .
 doh2.gslb2.xfinity.com CNAME .
 *.doh2.gslb2.xfinity.com CNAME .
+xfxssr.com CNAME .
+*.xfxssr.com CNAME .
 xgcloudjc.com CNAME .
 *.xgcloudjc.com CNAME .
 xgndgeyn.com CNAME .
@@ -21059,6 +21071,8 @@ storefront.ink CNAME .
 *.storefront.ink CNAME .
 theproxy.ink CNAME .
 *.theproxy.ink CNAME .
+dns.tracker.ink CNAME .
+*.dns.tracker.ink CNAME .
 vpns.ink CNAME .
 *.vpns.ink CNAME .
 xn--4gq62f52gdss.ink CNAME .
@@ -22263,6 +22277,8 @@ verixis.live CNAME .
 *.verixis.live CNAME .
 xins.live CNAME .
 *.xins.live CNAME .
+v2.xx3210766.live CNAME .
+*.v2.xx3210766.live CNAME .
 youtubeunblocked.live CNAME .
 *.youtubeunblocked.live CNAME .
 zapp-a-weasel.live CNAME .
@@ -23495,6 +23511,8 @@ bh.wael.name CNAME .
 *.bh.wael.name CNAME .
 dns.wael.name CNAME .
 *.dns.wael.name CNAME .
+111000.v6.navy CNAME .
+*.111000.v6.navy CNAME .
 dns.0x55.net CNAME .
 *.dns.0x55.net CNAME .
 dns-revers.1-au.net CNAME .
@@ -27355,6 +27373,8 @@ sainttech.tu-dresden.net CNAME .
 *.sainttech.tu-dresden.net CNAME .
 turbovpnapp.net CNAME .
 *.turbovpnapp.net CNAME .
+twoproxy.net CNAME .
+*.twoproxy.net CNAME .
 ubgus.net CNAME .
 *.ubgus.net CNAME .
 ubint.net CNAME .
@@ -27483,6 +27503,8 @@ www-learn.wafflenetwork.net CNAME .
 *.www-learn.wafflenetwork.net CNAME .
 waiwangjiasu.net CNAME .
 *.waiwangjiasu.net CNAME .
+web-kuailian.net CNAME .
+*.web-kuailian.net CNAME .
 petezahismyuncle.crui.web1337.net CNAME .
 *.petezahismyuncle.crui.web1337.net CNAME .
 webedg.net CNAME .
@@ -28587,6 +28609,8 @@ vthrnrwrbtq2n1xpjt5d.online CNAME .
 *.vthrnrwrbtq2n1xpjt5d.online CNAME .
 wdg5as2.online CNAME .
 *.wdg5as2.online CNAME .
+webproxy.online CNAME .
+*.webproxy.online CNAME .
 weontoplmsbauchi.online CNAME .
 *.weontoplmsbauchi.online CNAME .
 wgcwwk1ksso0rb9kkn6.online CNAME .
@@ -31497,6 +31521,8 @@ quasarkeepthisasecret.undoanarchy.rocks CNAME .
 *.quasarkeepthisasecret.undoanarchy.rocks CNAME .
 selenitekeepthisasecret.undoanarchy.rocks CNAME .
 *.selenitekeepthisasecret.undoanarchy.rocks CNAME .
+voidkeepthisasecret.undoanarchy.rocks CNAME .
+*.voidkeepthisasecret.undoanarchy.rocks CNAME .
 adguard.dbase.in.rs CNAME .
 *.adguard.dbase.in.rs CNAME .
 selenite.luxurytransport.com.signup.luxurytransport.rs CNAME .
@@ -36535,6 +36561,8 @@ vipthree.xyz CNAME .
 *.vipthree.xyz CNAME .
 vlspeed.xyz CNAME .
 *.vlspeed.xyz CNAME .
+dns.vod11.xyz CNAME .
+*.dns.vod11.xyz CNAME .
 vofasts.xyz CNAME .
 *.vofasts.xyz CNAME .
 volatr.xyz CNAME .

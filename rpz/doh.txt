@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778691600 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778751600 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 May 2026 17:00 UTC
-; Version: 2026.0513.1700.36
+; Last modified: 14 May 2026 09:40 UTC
+; Version: 2026.0514.0940.13
 ; Syntax: RPZ
-; Number of entries: 6922
+; Number of entries: 6928
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -3091,6 +3091,8 @@ ad.kone.ink CNAME .
 *.ad.kone.ink CNAME .
 dns.kxy.ink CNAME .
 *.dns.kxy.ink CNAME .
+dns.tracker.ink CNAME .
+*.dns.tracker.ink CNAME .
 dns.home.beckett.io CNAME .
 *.dns.home.beckett.io CNAME .
 dns.bitservices.io CNAME .
@@ -3347,6 +3349,8 @@ solaxy.live CNAME .
 *.solaxy.live CNAME .
 xins.live CNAME .
 *.xins.live CNAME .
+v2.xx3210766.live CNAME .
+*.v2.xx3210766.live CNAME .
 acomit.lk CNAME .
 *.acomit.lk CNAME .
 d.bod.lol CNAME .
@@ -6899,6 +6903,8 @@ dns.vinnyp.xyz CNAME .
 *.dns.vinnyp.xyz CNAME .
 dns.vip-kingstore.xyz CNAME .
 *.dns.vip-kingstore.xyz CNAME .
+dns.vod11.xyz CNAME .
+*.dns.vod11.xyz CNAME .
 killads.vpms.xyz CNAME .
 *.killads.vpms.xyz CNAME .
 zhang.wenru.xyz CNAME .

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778662560 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778749080 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 May 2026 08:56 UTC
-; Version: 2026.0513.0856.50
+; Last modified: 14 May 2026 08:58 UTC
+; Version: 2026.0514.0858.59
 ; Syntax: RPZ
-; Number of entries: 2518
+; Number of entries: 2522
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -886,6 +886,8 @@ uphero.com CNAME .
 *.uphero.com CNAME .
 usafreespace.com CNAME .
 *.usafreespace.com CNAME .
+usclargo.com CNAME .
+*.usclargo.com CNAME .
 vastserve.com CNAME .
 *.vastserve.com CNAME .
 veritafinancebank.com CNAME .
@@ -2444,6 +2446,8 @@ ygrrvlvvgf.top CNAME .
 *.ygrrvlvvgf.top CNAME .
 blogspot.com.tr CNAME .
 *.blogspot.com.tr CNAME .
+mobile.web.tr CNAME .
+*.mobile.web.tr CNAME .
 blogspot.tw CNAME .
 *.blogspot.tw CNAME .
 webnode.tw CNAME .

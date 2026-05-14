@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 May 2026 08:56 UTC
-# Version: 2026.0513.0856.50
+# Last modified: 14 May 2026 08:58 UTC
+# Version: 2026.0514.0858.59
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1259
+# Number of entries: 1261
 #
 local=/one4u.0lx.net/
 local=/24.co.at/
@@ -56,6 +56,7 @@ local=/citybios.sa.com/
 local=/dcr.sehlat.io/
 local=/ftp.totallyanonymous.com/
 local=/h4g3z1-hoster.web.app/
+local=/mobile.web.tr/
 local=/example-website.work.gd/
 local=/awi.za.com/
 local=/ishg.za.com/
@@ -1129,6 +1130,7 @@ local=/us.nf/
 local=/us.st/
 local=/usa.gg/
 local=/usafreespace.com/
+local=/usclargo.com/
 local=/user.lc/
 local=/uz.gp/
 local=/uzblog.net/

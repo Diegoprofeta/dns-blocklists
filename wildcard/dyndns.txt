@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 May 2026 16:59 UTC
-# Version: 2026.0513.1659.55
+# Last modified: 14 May 2026 09:39 UTC
+# Version: 2026.0514.0939.42
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1478
+# Number of entries: 1479
 #
 *.dyn.addr.tools
 *.changeip.co.uk
@@ -1383,6 +1383,7 @@
 *.twsuser.com
 *.tzo.com
 *.ucvradio.cl
+*.udp64.de
 *.ufcfan.org
 *.ufodns.com
 *.ugo.si

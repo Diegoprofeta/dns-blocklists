@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 May 2026 17:01 UTC
-# Version: 2026.0513.1701.31
+# Last modified: 14 May 2026 09:41 UTC
+# Version: 2026.0514.0941.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 18400
+# Number of entries: 18414
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -7079,6 +7079,7 @@ local=/ebpmc.tplinkdns.com/
 local=/ngk81hc.tplinkdns.com/
 local=/homes.tr25.cn/
 local=/jump.tr25.cn/
+local=/dns.tracker.ink/
 local=/schools.tradekinginternational.com/
 local=/access.traders-friend.com/
 local=/205.209.125.106.traefik.me/
@@ -7242,6 +7243,7 @@ local=/glintkeepthisasecret.undoanarchy.rocks/
 local=/interstellerkeepthisasecret.undoanarchy.rocks/
 local=/quasarkeepthisasecret.undoanarchy.rocks/
 local=/selenitekeepthisasecret.undoanarchy.rocks/
+local=/voidkeepthisasecret.undoanarchy.rocks/
 local=/dns.unerror.network/
 local=/ines.zfn.uni-bremen.de/
 local=/galaxy.unibutton.com/
@@ -7269,6 +7271,8 @@ local=/clever-math.v119.com/
 local=/hamburger.v119.com/
 local=/prodigy-learning.v119.com/
 local=/sssdfg.v119.com/
+local=/111000.v6.navy/
+local=/fancy.v6.army/
 local=/cc2.v8er.net/
 local=/luminal.vacte.org/
 local=/dns.vaguthu.mv/
@@ -7397,6 +7401,7 @@ local=/idontlikecookiesbrowniesarebettterngl.vlad.md/
 local=/theworldisfallingapartinmeteors.vlad.md/
 local=/dns.vlo.cc/
 local=/dns.vmisch.tech/
+local=/dns.vod11.xyz/
 local=/tutoring.services.voievodate.ro/
 local=/httpdns.volcengineapi.com/
 local=/dns.volsap.ovh/
@@ -7633,6 +7638,7 @@ local=/dns.xv.fi/
 local=/app.xvpncdn.com/
 local=/dns.xwdmw.xyz/
 local=/dns.xwu.us/
+local=/v2.xx3210766.live/
 local=/dns.xydustc.me/
 local=/v1.xylto.com/
 local=/dns.y2f.xyz/
@@ -16665,6 +16671,7 @@ local=/turbovpn.com/
 local=/turbovpn.mom/
 local=/turbovpnapp.net/
 local=/turkmenvibe.ru/
+local=/turmericrecipes.com/
 local=/tuskythehusky.tech/
 local=/tutoring4free.org/
 local=/tuvpn.com/
@@ -16678,6 +16685,7 @@ local=/twekblwn.com/
 local=/twhd.online/
 local=/twhd.site/
 local=/twingate.com/
+local=/twoproxy.net/
 local=/twtevsyz.com/
 local=/txqq.pro/
 local=/tylervpn.help/
@@ -17133,6 +17141,7 @@ local=/videomy.online/
 local=/videonew.online/
 local=/videoplayerviewer.com/
 local=/videoproxy.site/
+local=/videounblock.com/
 local=/videounblocked.com/
 local=/videounblocker.net/
 local=/videovideoplayer.org/
@@ -17232,6 +17241,7 @@ local=/vpn-os.help/
 local=/vpn-planetvpn.net/
 local=/vpn-private.net/
 local=/vpn-professional.company/
+local=/vpn-quick.com/
 local=/vpn-russia.app/
 local=/vpn-shield.help/
 local=/vpn-simple.com/
@@ -17266,6 +17276,7 @@ local=/vpnacademy.com/
 local=/vpnaccounts.com/
 local=/vpnaddsplus.com/
 local=/vpnadguard.info/
+local=/vpnagent.com/
 local=/vpnanonym.info/
 local=/vpnapk.mom/
 local=/vpnapp.help/
@@ -17571,6 +17582,7 @@ local=/weather-doc.com/
 local=/weathercloudapp.com/
 local=/web-kuailian.cn/
 local=/web-kuailian.com/
+local=/web-kuailian.net/
 local=/web-letsvpn.org/
 local=/web-proxy.site/
 local=/web-rated.ie/
@@ -17593,6 +17605,7 @@ local=/weboproxy.com/
 local=/webpro.xyz/
 local=/webproxy.club/
 local=/webproxy.com/
+local=/webproxy.online/
 local=/webproxy.to/
 local=/webproxy.us/
 local=/webproxyusa.com/
@@ -17791,6 +17804,7 @@ local=/xervolia.ru/
 local=/xf.kg/
 local=/xfer.au/
 local=/xftld.org/
+local=/xfxssr.com/
 local=/xfxssr.me/
 local=/xfxvpn.life/
 local=/xg8tw7gfox.site/

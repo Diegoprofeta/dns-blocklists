@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 May 2026 17:00 UTC
-# Version: 2026.0513.1700.36
+# Last modified: 14 May 2026 09:40 UTC
+# Version: 2026.0514.0940.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3461
+# Number of entries: 3464
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -2714,6 +2714,7 @@ local=/doh.totoro.pub/
 local=/chronicle14.tplinkdns.com/
 local=/ebpmc.tplinkdns.com/
 local=/ngk81hc.tplinkdns.com/
+local=/dns.tracker.ink/
 local=/access.traders-friend.com/
 local=/resolv1.trash.net/
 local=/resolv2.trash.net/
@@ -2796,6 +2797,7 @@ local=/ad.visbran.fr/
 local=/dns.vk09.ru/
 local=/dns.vlo.cc/
 local=/dns.vmisch.tech/
+local=/dns.vod11.xyz/
 local=/httpdns.volcengineapi.com/
 local=/dns.volsap.ovh/
 local=/adguard.vozersky.com/
@@ -2897,6 +2899,7 @@ local=/dns.xusqui.com/
 local=/dns.xv.fi/
 local=/dns.xwdmw.xyz/
 local=/dns.xwu.us/
+local=/v2.xx3210766.live/
 local=/dns.xydustc.me/
 local=/v1.xylto.com/
 local=/dns.y2f.xyz/

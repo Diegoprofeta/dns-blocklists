@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778691540 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778751540 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 May 2026 16:59 UTC
-; Version: 2026.0513.1659.55
+; Last modified: 14 May 2026 09:39 UTC
+; Version: 2026.0514.0939.42
 ; Syntax: RPZ
-; Number of entries: 2956
+; Number of entries: 2958
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -1590,6 +1590,8 @@ traeumtgerade.de CNAME .
 *.traeumtgerade.de CNAME .
 twodns.de CNAME .
 *.twodns.de CNAME .
+udp64.de CNAME .
+*.udp64.de CNAME .
 vankin.de CNAME .
 *.vankin.de CNAME .
 vpn64.de CNAME .

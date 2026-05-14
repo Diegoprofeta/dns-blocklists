@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 13 May 2026 17:01 UTC
-! Version: 2026.0513.1701.15
+! Last modified: 14 May 2026 09:40 UTC
+! Version: 2026.0514.0940.46
 ! Syntax: AdBlock
-! Number of entries: 3403
+! Number of entries: 3406
 !
 ||ss.0001.xyz^
 ||ns.00dani.me^
@@ -2665,6 +2665,7 @@
 ||chronicle14.tplinkdns.com^
 ||ebpmc.tplinkdns.com^
 ||ngk81hc.tplinkdns.com^
+||dns.tracker.ink^
 ||access.traders-friend.com^
 ||resolv1.trash.net^
 ||resolv2.trash.net^
@@ -2747,6 +2748,7 @@
 ||dns.vk09.ru^
 ||dns.vlo.cc^
 ||dns.vmisch.tech^
+||dns.vod11.xyz^
 ||httpdns.volcengineapi.com^
 ||dns.volsap.ovh^
 ||adguard.vozersky.com^
@@ -2845,6 +2847,7 @@
 ||dns.xv.fi^
 ||dns.xwdmw.xyz^
 ||dns.xwu.us^
+||v2.xx3210766.live^
 ||dns.xydustc.me^
 ||v1.xylto.com^
 ||dns.y2f.xyz^
